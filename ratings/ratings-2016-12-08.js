@@ -129,7 +129,7 @@ const currentRankings = [
 },
  {
    "Rank": 9,
-   "Standings": "FRAN�OIS C",
+   "Standings": "FRANÇOIS C",
    "Rating": 1381,
    "Games Back": "4.5",
    "Prev Rank": 10,
