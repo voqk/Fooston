@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    
+    <link rel="preload" href="https://fooston.com/files/muli-latin-200.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="https://fooston.com/files/muli-latin-400.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="https://fooston.com/files/muli-latin-800.woff2" as="font" type="font/woff2" crossorigin>
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+     
+    <title>Fooston  | Hugo 0.20.2</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+     <meta name="generator" content="Hugo 0.26" />
+
+      
+        <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+      
+
+     <link href='/dist/main.css' rel='stylesheet' type="text/css" /><meta property="og:title" content="Hugo 0.20.2" />
+<meta property="og:description" content="Hugo 0.20.2 adds support for plain text partials included into HTML templates" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://fooston.com/news/0-20-2/" />
+
+
+
+<meta property="article:published_time" content="2017-04-16T13:53:58-04:00"/>
+<meta property="article:modified_time" content="2017-04-16T13:53:58-04:00"/>
+
+
+
+
+
+
+
+
+
+
+
+<meta itemprop="name" content="Hugo 0.20.2">
+<meta itemprop="description" content="Hugo 0.20.2 adds support for plain text partials included into HTML templates">
+
+
+<meta itemprop="dateModified" content="2017-04-16T13:53:58-04:00" />
+<meta itemprop="wordCount" content="233">
+
+
+
+<meta itemprop="keywords" content="" />
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image:src" content="https://fooston.com/images/gohugoio-card.png"/>
+<meta name="twitter:title" content="Hugo 0.20.2"/>
+<meta name="twitter:description" content="Hugo 0.20.2 adds support for plain text partials included into HTML templates"/>
+<meta name="twitter:site" content="@fooston"/>
+
+
+
+
+
+  </head>
+  <body class="ma0 sans-serif bg-primary-color-light">
+    
+<nav class="bg-primary-color-dark pv4 w-100" role="navigation">
+
+  <div class="center flex-ns flex-wrap items-center justify-start mw9">
+
+    <h1 class="dim f3 lh-solid ml0-ns mr0 mr4-l mv0 pl3 pl4-ns">
+      <a href="https://fooston.com/" class="link white">
+         FOOSTON
+      </a>
+    </h1>
+    <ul class="list ma0 pa0 dn dib-l">
+      
+        <li class="f5 dib mr4" role="menuitem">
+            
+          <a href="/tournaments/" class="dim link light-silver">
+            Tournaments
+              
+            
+            
+          </a>
+        </li>
+      
+        <li class="f5 dib mr4" role="menuitem">
+            
+          <a href="/rules/" class="dim link light-silver">
+            Rules
+              
+            
+            
+          </a>
+        </li>
+      
+    </ul>
+
+    <div class="db dib-ns pl3"><form id="site-search-form" action="" role="search">
+  <fieldset class="bn ma0 pa0">
+    <label class="clip" for="email-address">Search</label>
+    <input type="search" id="search-input" class="needs-js bg-left bg-transparent bn f5 input-reset lh-solid mt3 mt0-ns pl4 pv2 w5 white" placeholder="Search" type="text" name="email-address" value="" style="background-image:url('/images/icon-search.png');background-size:16px 16px;">
+  </fieldset>
+</form>
+</div>
+
+    <span class="absolute mt1 mt2-l pr3 right-0 top-0">
+
+  <a href="https://twitter.com/intent/follow?screen_name=fooston" title="Follow on Twitter" class="link-transition twitter link dib z-999 pt3 pt0-l mr2">
+    <svg height="32px" id="Layer_1" style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/></svg>
+
+  </a>
+
+<a class="github-button needs-js link primary-color-dark" href="https://github.com/voqk/fooston" data-size="large" data-show-count="false" aria-label="Star gohugoio/hugo on GitHub"></a>
+</span>
+
+  </div>
+</nav>
+
+    
+    
+    <main role="main" class="content-with-sidebar">
+    
+  
+
+  <article class="cf ph4 pv3 pv5-ns">
+      
+    <header class="flex-none w-100 pb3">
+      
+        
+          <a href="/categories/releases" class="f6 fw8 mb0 link mid-gray dim mr3">
+            RELEASES
+          </a>
+        
+      
+
+      <h1 class="lh-title fw9 mb7 mv0 pt3">
+        <a href="/news/0-20-2/" class="link primary-color dim">
+          Hugo 0.20.2
+        </a>
+      </h1>
+    </header>
+
+    <div class="flex-l">
+      <aside class="mid-gray fn w-100 w-25-l">
+        
+          <h2 class="f3 lh-title">
+            Hugo 0.20.2 adds support for plain text partials included into HTML templates
+          </h2>
+        
+        <time class="f6 mt2 db ttu tracked" datetime="2017-04-16T13:53:58-04:00">
+          April 16, 2017
+        </time>
+        
+        <p>
+        Go to <a href="https://github.com/gohugoio/hugo/releases" class="link primary-color dim">Hugo Releases</a> for the release downloads.
+        </p>
+        
+        
+
+        <div class="nested-links mt4">
+
+	<div date-pref>
+		
+			<a href="https://fooston.com/news/0-20-3/" class="dib f6 pl1 hover-bg-light-gray br-100" title="Hugo 0.20.3 ">
+				<svg class="fill-current" height="30px" viewBox="0 0 24 24" width="30px" xmlns="http://www.w3.org/2000/svg">
+    <path d="M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12z"/>
+    <path d="M0 0h24v24H0z" fill="none"/>
+</svg>
+
+			</a>
+		
+
+		
+			<a href="https://fooston.com/news/0-20-1/" class="dib f6 pr1 hover-bg-light-gray br-100" title="Hugo 0.20.1">
+			<svg class="fill-current" height="30px" viewBox="0 0 24 24" width="30px" xmlns="http://www.w3.org/2000/svg">
+    <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/>
+    <path d="M0 0h24v24H0z" fill="none"/>
+</svg>
+
+			</a>
+		
+	</div>
+
+</div>
+
+      </aside>
+
+      <div class="fn pl5-l pt3 mid-gray w-100 w-two-third-l sans-serif nested-copy-line-height no-underline nested-links nested-img nested-copy-seperator nested-blockquote measure-wide-l">
+        
+
+        <p>Hugo <code>0.20.2</code> adds support for plain text partials included into <code>HTML</code> templates. This was a side-effect of the big new <a href="https://gohugo.io/extras/output-formats/" target="_blank">Custom Output Format</a> feature in <code>0.20</code>, and while the change was intentional and there was an ongoing discussion about fixing it in <a href="//github.com/gohugoio/hugo/issues/3273" target="_blank">#3273</a>, it did break some themes. There were valid workarounds for these themes, but we might as well get it right.</p>
+
+<p>The most obvious use case for this is inline <code>CSS</code> styles, which you now can do without having to name your partials with a <code>html</code> suffix.</p>
+
+<p>A simple example:</p>
+
+<p>In <code>layouts/partials/mystyles.css</code>:</p>
+
+<pre><code>body {
+    background-color: {{ .Param &quot;colors.main&quot; }}
+}
+</code></pre>
+
+<p>Then in <code>config.toml</code> (note that by using the <code>.Param</code> lookup func, we can override the color in a page’s front matter if we want):</p>
+
+<pre><code>[params]
+[params.colors]
+main = &quot;green&quot;
+text = &quot;blue&quot;
+</code></pre>
+
+<p>And then in <code>layouts/partials/head.html</code> (or the partial used to include the head section into your layout):</p>
+
+<pre><code>&lt;head&gt;
+    &lt;style type=&quot;text/css&quot;&gt;
+    {{ partial &quot;mystyles.css&quot; . | safeCSS }}
+    &lt;/style&gt;
+&lt;/head&gt;
+</code></pre>
+
+<p>Of course, <code>0.20</code> also made it super-easy to create external <code>CSS</code> stylesheets based on your site and page configuration. A simple example:</p>
+
+<p>Add “CSS” to your home page’s <code>outputs</code> list, create the template <code>/layouts/index.css</code> using Go template syntax for the dynamic parts, and then include it into your <code>HTML</code> template with:</p>
+
+<pre><code>{{ with  .OutputFormats.Get &quot;css&quot; }}
+&lt;link rel=&quot;{{ .Rel }}&quot; type=&quot;{{ .MediaType.Type }}&quot; href=&quot;{{ .Permalink |  safeURL }}&quot;&gt;
+{{ end }}`
+</code></pre>
+
+      </div>
+    </div>
+    
+
+      <div class="gray f6 mv6">
+        Last Update: April 16, 2017 <br>
+        <a href="https://github.com/voqk/fooston/edit/master/content/news/0-20-2.md" class="
+f6 ph3 pv1 br2 dib  tc ttu mv3 bg-primary-color white hover-bg-green link
+">Improve this page</a>
+
+      </div>
+
+  </article>
+
+
+    </main>
+
+    <footer class="fixed relative-l bg-primary-color-dark bottom-0 w-100 pa3 pa4-l" role="contentinfo">
+  
+  
+    <div class="dn db-l flex-ns flex-wrap w-80 center mw9 justify-between">
+      <div class="mb3 gray tc nested-links">
+        © 2017 Fooston
+      </div>
+      
+    </div>
+
+
+    <div  class="globalmenu mobilemenu pb3 dn">
+    
+
+<ul class="list hidden dib ph0 ma0 scrolling-touch tc">
+  
+    <li  class="tl dib ma0 hover-bg-black w-100">
+        <a href="/tournaments/" class="ttu f6 link primary-color-light overflow hover-white db brand-font  ma0 w-100 pv3 ph4">
+          Tournaments
+        </a>
+    </li>
+  
+    <li  class="tl dib ma0 hover-bg-black w-100">
+        <a href="/rules/" class="ttu f6 link primary-color-light overflow hover-white db brand-font  ma0 w-100 pv3 ph4">
+          Rules
+        </a>
+    </li>
+  
+</ul>
+
+</div>
+<div  class="docsmenu mobilemenu pb3 dn">
+    
+
+<ul class="list dib ph0 ma0 scrolling-touch tc">
+  
+    <li  class="tl dib ma0 hover-bg-black w-100">
+        <a href="/tournaments/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
+          Tournaments
+        </a>
+    </li>
+  
+    <li  class="tl dib ma0 hover-bg-black w-100">
+        <a href="/rules/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
+          Official Foosball Rules
+        </a>
+    </li>
+  
+</ul>
+
+</div>
+
+<div class="flex dn-l">
+  <button class="js-toggle flex-auto ml2 dib dn-l f6 tc db mt4-ns ph3 pv2 link white bg-primary-color-dark hover-bg-primary-color ba b--white-40 w-auto" data-target=".globalmenu">Menu</button>
+
+  <button class="js-toggle flex-auto ml2 dib dn-l f6 tc db mt4-ns ph3 pv2 link white bg-primary-color-dark hover-bg-primary-color ba b--white-40 w-auto" data-target=".docsmenu">Docs Menu</button>
+</div>
+
+
+</footer>
+
+    <script src="/dist/app.bundle.js"></script>
+
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+
+  </body>
+</html>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Release-notes on Fooston</title>
+    <link>https://fooston.com/release-notes/</link>
+    <description>Recent content in Release-notes on Fooston</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://fooston.com/release-notes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>0.25.1</title>
+      <link>https://fooston.com/release-notes/0.25.1-relnotes/</link>
+      <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://fooston.com/release-notes/0.25.1-relnotes/</guid>
+      <description> This is a bug-fix release with a couple of important fixes.
+Hugo now has:
+ 18277+ stars 456+ contributors 170+ themes  Fixes  Fix union when the first slice is empty dbbc5c48 @bep #3686 Navigate to changed on CREATE When working with content from IntelliJ IDE, like WebStorm, every file save is followed by two events: &amp;ldquo;RENAME&amp;rdquo; and then &amp;ldquo;CREATE&amp;rdquo;. 7bcc1ce6 @miltador Final (!) fix for issue with escaped JSON front matter 7f82b41a @bep #3682 Fix issue with escaped JSON front matter 84db6c74 @bep #3682  </description>
+    </item>
+    
+    <item>
+      <title>0.25</title>
+      <link>https://fooston.com/release-notes/0.25-relnotes/</link>
+      <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://fooston.com/release-notes/0.25-relnotes/</guid>
+      <description>Hugo 0.25 is the Kinder Surprise: It automatically opens the page you&amp;rsquo;re working on in the browser, it adds full AND and OR support in page queries, and you can now have templates per language.
+If you start with hugo server --navigateToChanged, Hugo will navigate to the relevant page on save (see animated GIF). This is extremely useful for site-wide edits. Another very useful feature in this version is the added support for AND (intersect) and OR (union) filters when combined with where.</description>
+    </item>
+    
+  </channel>
+</rss>

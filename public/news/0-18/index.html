@@ -1,0 +1,591 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    
+    <link rel="preload" href="https://fooston.com/files/muli-latin-200.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="https://fooston.com/files/muli-latin-400.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="https://fooston.com/files/muli-latin-800.woff2" as="font" type="font/woff2" crossorigin>
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+     
+    <title>Fooston  | Hugo 0.18</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+     <meta name="generator" content="Hugo 0.26" />
+
+      
+        <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+      
+
+     <link href='/dist/main.css' rel='stylesheet' type="text/css" /><meta property="og:title" content="Hugo 0.18" />
+<meta property="og:description" content="The primary new feature in Hugo 0.18 is that every piece of content is now a Page." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://fooston.com/news/0-18/" />
+
+
+
+<meta property="article:published_time" content="2016-12-30T13:54:02-04:00"/>
+<meta property="article:modified_time" content="2016-12-30T13:54:02-04:00"/>
+
+
+
+
+
+
+
+
+
+
+
+<meta itemprop="name" content="Hugo 0.18">
+<meta itemprop="description" content="The primary new feature in Hugo 0.18 is that every piece of content is now a Page.">
+
+
+<meta itemprop="dateModified" content="2016-12-30T13:54:02-04:00" />
+<meta itemprop="wordCount" content="830">
+
+
+
+<meta itemprop="keywords" content="" />
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image:src" content="https://fooston.com/images/gohugoio-card.png"/>
+<meta name="twitter:title" content="Hugo 0.18"/>
+<meta name="twitter:description" content="The primary new feature in Hugo 0.18 is that every piece of content is now a Page."/>
+<meta name="twitter:site" content="@fooston"/>
+
+
+
+
+
+  </head>
+  <body class="ma0 sans-serif bg-primary-color-light">
+    
+<nav class="bg-primary-color-dark pv4 w-100" role="navigation">
+
+  <div class="center flex-ns flex-wrap items-center justify-start mw9">
+
+    <h1 class="dim f3 lh-solid ml0-ns mr0 mr4-l mv0 pl3 pl4-ns">
+      <a href="https://fooston.com/" class="link white">
+         FOOSTON
+      </a>
+    </h1>
+    <ul class="list ma0 pa0 dn dib-l">
+      
+        <li class="f5 dib mr4" role="menuitem">
+            
+          <a href="/tournaments/" class="dim link light-silver">
+            Tournaments
+              
+            
+            
+          </a>
+        </li>
+      
+        <li class="f5 dib mr4" role="menuitem">
+            
+          <a href="/rules/" class="dim link light-silver">
+            Rules
+              
+            
+            
+          </a>
+        </li>
+      
+    </ul>
+
+    <div class="db dib-ns pl3"><form id="site-search-form" action="" role="search">
+  <fieldset class="bn ma0 pa0">
+    <label class="clip" for="email-address">Search</label>
+    <input type="search" id="search-input" class="needs-js bg-left bg-transparent bn f5 input-reset lh-solid mt3 mt0-ns pl4 pv2 w5 white" placeholder="Search" type="text" name="email-address" value="" style="background-image:url('/images/icon-search.png');background-size:16px 16px;">
+  </fieldset>
+</form>
+</div>
+
+    <span class="absolute mt1 mt2-l pr3 right-0 top-0">
+
+  <a href="https://twitter.com/intent/follow?screen_name=fooston" title="Follow on Twitter" class="link-transition twitter link dib z-999 pt3 pt0-l mr2">
+    <svg height="32px" id="Layer_1" style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/></svg>
+
+  </a>
+
+<a class="github-button needs-js link primary-color-dark" href="https://github.com/voqk/fooston" data-size="large" data-show-count="false" aria-label="Star gohugoio/hugo on GitHub"></a>
+</span>
+
+  </div>
+</nav>
+
+    
+    
+    <main role="main" class="content-with-sidebar">
+    
+  
+
+  <article class="cf ph4 pv3 pv5-ns">
+      
+    <header class="flex-none w-100 pb3">
+      
+        
+          <a href="/categories/releases" class="f6 fw8 mb0 link mid-gray dim mr3">
+            RELEASES
+          </a>
+        
+      
+
+      <h1 class="lh-title fw9 mb7 mv0 pt3">
+        <a href="/news/0-18/" class="link primary-color dim">
+          Hugo 0.18
+        </a>
+      </h1>
+    </header>
+
+    <div class="flex-l">
+      <aside class="mid-gray fn w-100 w-25-l">
+        
+          <h2 class="f3 lh-title">
+            The primary new feature in Hugo 0.18 is that every piece of content is now a Page.
+          </h2>
+        
+        <time class="f6 mt2 db ttu tracked" datetime="2016-12-30T13:54:02-04:00">
+          December 30, 2016
+        </time>
+        
+        <p>
+        Go to <a href="https://github.com/gohugoio/hugo/releases" class="link primary-color dim">Hugo Releases</a> for the release downloads.
+        </p>
+        
+        
+
+        <div class="nested-links mt4">
+
+	<div date-pref>
+		
+			<a href="https://fooston.com/news/0-19/" class="dib f6 pl1 hover-bg-light-gray br-100" title="Hugo 0.19 ">
+				<svg class="fill-current" height="30px" viewBox="0 0 24 24" width="30px" xmlns="http://www.w3.org/2000/svg">
+    <path d="M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12z"/>
+    <path d="M0 0h24v24H0z" fill="none"/>
+</svg>
+
+			</a>
+		
+
+		
+			<a href="https://fooston.com/news/0-17/" class="dib f6 pr1 hover-bg-light-gray br-100" title="0.17: Hugo is going global">
+			<svg class="fill-current" height="30px" viewBox="0 0 24 24" width="30px" xmlns="http://www.w3.org/2000/svg">
+    <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/>
+    <path d="M0 0h24v24H0z" fill="none"/>
+</svg>
+
+			</a>
+		
+	</div>
+
+</div>
+
+      </aside>
+
+      <div class="fn pl5-l pt3 mid-gray w-100 w-two-third-l sans-serif nested-copy-line-height no-underline nested-links nested-img nested-copy-seperator nested-blockquote measure-wide-l">
+        
+
+        
+
+<p>Hugo 0.18.1 is a bug fix release fixing some issues introduced in Hugo 0.18:</p>
+
+<ul>
+<li>Fix 32-bit binaries 
+	
+	<a href="//github.com/spf13/hugo/issues/2847">#2847</a>
+	
+</li>
+<li>Fix issues with <code>preserveTaxonomyNames</code> 
+	
+	<a href="//github.com/spf13/hugo/issues/2809">#2809</a>
+	
+</li>
+<li>Fix <code>.URL</code> for taxonomy pages when <code>uglyURLs=true</code> 
+	
+	<a href="//github.com/spf13/hugo/issues/2819">#2819</a>
+	
+</li>
+<li>Fix <code>IsTranslated</code> and <code>Translations</code> for node pages 
+	
+	<a href="//github.com/spf13/hugo/issues/2812">#2812</a>
+	
+</li>
+<li>Make template error messages more verbose 
+	
+	<a href="//github.com/spf13/hugo/issues/2820">#2820</a>
+	
+</li>
+</ul>
+
+<h2 id="0-18-0-december-19th-2016"><strong>0.18.0</strong> December 19th 2016</h2>
+
+<p>Today, we&rsquo;re excited to release the much-anticipated Hugo 0.18!</p>
+
+<p>We&rsquo;re heading towards the end of the year 2016, and we can look back on three releases and a steady growing community around the project.
+This release includes <strong>over 220 contributions by nearly 50 contributors</strong> to the main codebase.
+Since the last release, Hugo has <strong>gained 1750 stars and 27 additional themes</strong>.</p>
+
+<p>Hugo now has:</p>
+
+<ul>
+<li>13750+ stars</li>
+<li>408+ contributors</li>
+<li>137+ themes</li>
+</ul>
+
+<p>
+	
+	<a href="//github.com/bep">@bep</a>
+	
+ once again took the lead of Hugo and contributed a significant amount of additions.
+Also a big shoutout to 
+	
+	<a href="//github.com/digitalcraftsman">@digitalcraftsman</a>
+	
+ for his relentless work on keeping the documentation and the themes site in pristine condition,
+and also a big thanks to 
+	
+	<a href="//github.com/moorereason">@moorereason</a>
+	
+ and 
+	
+	<a href="//github.com/bogem">@bogem</a>
+	
+ for their contributions.</p>
+
+<p>We wish you all a Merry Christmas and a Happy New Year.<br>
+<em>The Hugo team</em></p>
+
+<h3 id="highlights">Highlights</h3>
+
+<p>The primary new feature in Hugo 0.18 is that every piece of content is now a <code>Page</code> (
+	
+	<a href="//github.com/spf13/hugo/issues/2297">#2297</a>
+	
+). This means that every page, including the homepage, can have a content file with front matter.</p>
+
+<p>Not only is this a much simpler model to understand, it is also faster and paved the way for several important new features:</p>
+
+<ul>
+<li>Enable proper titles for Nodes 
+	
+	<a href="//github.com/spf13/hugo/issues/1051">#1051</a>
+	
+</li>
+<li>Sitemap.xml should include nodes, as well as pages 
+	
+	<a href="//github.com/spf13/hugo/issues/1303">#1303</a>
+	
+</li>
+<li>Document homepage content workaround 
+	
+	<a href="//github.com/spf13/hugo/issues/2240">#2240</a>
+	
+</li>
+<li>Allow home page to be easily authored in markdown 
+	
+	<a href="//github.com/spf13/hugo/issues/720">#720</a>
+	
+</li>
+<li>Minimalist website with homepage as content 
+	
+	<a href="//github.com/spf13/hugo/issues/330">#330</a>
+	
+</li>
+</ul>
+
+<p>Hugo again continues its trend of each release being faster than the last. It&rsquo;s quite a challenge to consistently add significant new functionality and simultaneously dramatically improve performance. Running <a href="https://github.com/bep/hugo-benchmark" target="_blank">this benchmark</a> with <a href="https://github.com/bep/hugo-benchmark/tree/master/sites" target="_blank">these sites</a> (renders to memory) shows about   60% reduction in time spent and 30% reduction in memory usage compared to Hugo 0.17.</p>
+
+<h3 id="other-new-features">Other New Features</h3>
+
+<ul>
+<li>Every <code>Page</code> now has a <code>Kind</code> property. Since everything is a <code>Page</code> now, the <code>Kind</code> is used to differentiate different kinds of pages.
+Possible values are <code>page</code>, <code>home</code>, <code>section</code>, <code>taxonomy</code>, and <code>taxonomyTerm</code>.
+(Internally, we also define <code>RSS</code>, <code>sitemap</code>, <code>robotsTXT</code>, and <code>404</code>, but those have no practical use for end users at the moment since they are not included in any collections.)</li>
+<li>Add a <code>GitInfo</code> object to <code>Page</code> if <code>enableGitInfo</code> is set. It then also sets <code>Lastmod</code> for the given <code>Page</code> to the author date provided by Git. 
+	
+	<a href="//github.com/spf13/hugo/issues/2291">#2291</a>
+	
+</li>
+<li>Implement support for alias templates  
+	
+	<a href="//github.com/spf13/hugo/issues/2533">#2533</a>
+	
+</li>
+<li>New template functions:
+
+<ul>
+<li>Add <code>imageConfig</code> function 
+	
+	<a href="//github.com/spf13/hugo/issues/2677">#2677</a>
+	
+</li>
+<li>Add <code>sha256</code> function 
+	
+	<a href="//github.com/spf13/hugo/issues/2762">#2762</a>
+	
+</li>
+<li>Add <code>partialCached</code> template function 
+	
+	<a href="//github.com/spf13/hugo/issues/1368">#1368</a>
+	
+</li>
+</ul></li>
+<li>Add shortcode to display Instagram images 
+	
+	<a href="//github.com/spf13/hugo/issues/2690">#2690</a>
+	
+</li>
+<li>Add <code>noChmod</code> option to disable perm sync 
+	
+	<a href="//github.com/spf13/hugo/issues/2749">#2749</a>
+	
+</li>
+<li>Add <code>quiet</code> build mode 
+	
+	<a href="//github.com/spf13/hugo/issues/1218">#1218</a>
+	
+</li>
+</ul>
+
+<h3 id="notices">Notices</h3>
+
+<ul>
+<li><code>.Site.Pages</code> will now contain <em>several kinds of pages</em>, including regular pages, sections, taxonomies, and the home page.
+If you want a specific kind of page, you can filter it with <code>where</code> and <code>Kind</code>.
+<code>.Site.RegularPages</code> is a shortcut to the page collection you have been used to getting.</li>
+<li><code>RSSlink</code> is now deprecated.  Use <code>RSSLink</code> instead.
+Note that in Hugo 0.17 both of them existed, so there is a fifty-fifty chance you will not have to do anything
+(if you use a theme, the chance is close to 0), and <code>RSSlink</code> will still work for two Hugo versions.</li>
+</ul>
+
+<h3 id="fixes">Fixes</h3>
+
+<ul>
+<li>Revise the <code>base</code> template lookup logic so it now better matches the behavior of regular templates, making it easier to override the master templates from the theme 
+	
+	<a href="//github.com/spf13/hugo/issues/2783">#2783</a>
+	
+</li>
+<li>Add workaround for <code>block</code> template crash.
+Block templates are very useful, but there is a bug in Go 1.6 and 1.7 which makes the template rendering crash if you use the block template in more complex scenarios.
+This is fixed in the upcoming Go 1.8, but Hugo adds a temporary workaround in Hugo 0.18. 
+	
+	<a href="//github.com/spf13/hugo/issues/2549">#2549</a>
+	
+</li>
+<li>All the <code>Params</code> configurations are now case insensitive 
+	
+	<a href="//github.com/spf13/hugo/issues/1129">#1129</a>
+	
+ 
+	
+	<a href="//github.com/spf13/hugo/issues/2590">#2590</a>
+	
+ 
+	
+	<a href="//github.com/spf13/hugo/issues/2615">#2615</a>
+	
+</li>
+<li>Make RawContent raw again 
+	
+	<a href="//github.com/spf13/hugo/issues/2601">#2601</a>
+	
+</li>
+<li>Fix archetype title and date handling 
+	
+	<a href="//github.com/spf13/hugo/issues/2750">#2750</a>
+	
+</li>
+<li>Fix TOML archetype parsing in <code>hugo new</code> 
+	
+	<a href="//github.com/spf13/hugo/issues/2745">#2745</a>
+	
+</li>
+<li>Fix page sorting when weight is zero 
+	
+	<a href="//github.com/spf13/hugo/issues/2673">#2673</a>
+	
+</li>
+<li>Fix page names that contain dot 
+	
+	<a href="//github.com/spf13/hugo/issues/2555">#2555</a>
+	
+</li>
+<li>Fix RSS Title regression 
+	
+	<a href="//github.com/spf13/hugo/issues/2645">#2645</a>
+	
+</li>
+<li>Handle ToC before handling shortcodes 
+	
+	<a href="//github.com/spf13/hugo/issues/2433">#2433</a>
+	
+</li>
+<li>Only watch relevant themes dir 
+	
+	<a href="//github.com/spf13/hugo/issues/2602">#2602</a>
+	
+</li>
+<li>Hugo new content creates TOML slices with closing bracket on new line 
+	
+	<a href="//github.com/spf13/hugo/issues/2800">#2800</a>
+	
+</li>
+</ul>
+
+<h3 id="improvements">Improvements</h3>
+
+<ul>
+<li>Add page information to error logging in rendering 
+	
+	<a href="//github.com/spf13/hugo/issues/2570">#2570</a>
+	
+</li>
+<li>Deprecate <code>RSSlink</code> in favor of <code>RSSLink</code></li>
+<li>Make benchmark command more useful 
+	
+	<a href="//github.com/spf13/hugo/issues/2432">#2432</a>
+	
+</li>
+<li>Consolidate the <code>Param</code> methods 
+	
+	<a href="//github.com/spf13/hugo/issues/2590">#2590</a>
+	
+</li>
+<li>Allow to set cache dir in config file</li>
+<li>Performance improvements:
+
+<ul>
+<li>Avoid repeated Viper loads of <code>sectionPagesMenu</code> 
+	
+	<a href="//github.com/spf13/hugo/issues/2728">#2728</a>
+	
+</li>
+<li>Avoid reading from Viper for path and URL funcs 
+	
+	<a href="//github.com/spf13/hugo/issues/2495">#2495</a>
+	
+</li>
+<li>Add <code>partialCached</code> template function. This can be a significant performance boost if you have complex partials that does not need to be rerendered for every page. 
+	
+	<a href="//github.com/spf13/hugo/issues/1368">#1368</a>
+	
+</li>
+</ul></li>
+</ul>
+
+<h3 id="documentation-updates">Documentation Updates</h3>
+
+<ul>
+<li>Update roadmap 
+	
+	<a href="//github.com/spf13/hugo/issues/2666">#2666</a>
+	
+</li>
+<li>Update multilingual example 
+	
+	<a href="//github.com/spf13/hugo/issues/2417">#2417</a>
+	
+</li>
+<li>Add a &ldquo;Deployment with rsync&rdquo; tutorial page 
+	
+	<a href="//github.com/spf13/hugo/issues/2658">#2658</a>
+	
+</li>
+<li>Refactor <code>/docs</code> to use the <code>block</code> keyword 
+	
+	<a href="//github.com/spf13/hugo/issues/2226">#2226</a>
+	
+</li>
+</ul>
+
+      </div>
+    </div>
+    
+
+      <div class="gray f6 mv6">
+        Last Update: December 30, 2016 <br>
+        <a href="https://github.com/voqk/fooston/edit/master/content/news/0-18.md" class="
+f6 ph3 pv1 br2 dib  tc ttu mv3 bg-primary-color white hover-bg-green link
+">Improve this page</a>
+
+      </div>
+
+  </article>
+
+
+    </main>
+
+    <footer class="fixed relative-l bg-primary-color-dark bottom-0 w-100 pa3 pa4-l" role="contentinfo">
+  
+  
+    <div class="dn db-l flex-ns flex-wrap w-80 center mw9 justify-between">
+      <div class="mb3 gray tc nested-links">
+        © 2017 Fooston
+      </div>
+      
+    </div>
+
+
+    <div  class="globalmenu mobilemenu pb3 dn">
+    
+
+<ul class="list hidden dib ph0 ma0 scrolling-touch tc">
+  
+    <li  class="tl dib ma0 hover-bg-black w-100">
+        <a href="/tournaments/" class="ttu f6 link primary-color-light overflow hover-white db brand-font  ma0 w-100 pv3 ph4">
+          Tournaments
+        </a>
+    </li>
+  
+    <li  class="tl dib ma0 hover-bg-black w-100">
+        <a href="/rules/" class="ttu f6 link primary-color-light overflow hover-white db brand-font  ma0 w-100 pv3 ph4">
+          Rules
+        </a>
+    </li>
+  
+</ul>
+
+</div>
+<div  class="docsmenu mobilemenu pb3 dn">
+    
+
+<ul class="list dib ph0 ma0 scrolling-touch tc">
+  
+    <li  class="tl dib ma0 hover-bg-black w-100">
+        <a href="/tournaments/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
+          Tournaments
+        </a>
+    </li>
+  
+    <li  class="tl dib ma0 hover-bg-black w-100">
+        <a href="/rules/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
+          Official Foosball Rules
+        </a>
+    </li>
+  
+</ul>
+
+</div>
+
+<div class="flex dn-l">
+  <button class="js-toggle flex-auto ml2 dib dn-l f6 tc db mt4-ns ph3 pv2 link white bg-primary-color-dark hover-bg-primary-color ba b--white-40 w-auto" data-target=".globalmenu">Menu</button>
+
+  <button class="js-toggle flex-auto ml2 dib dn-l f6 tc db mt4-ns ph3 pv2 link white bg-primary-color-dark hover-bg-primary-color ba b--white-40 w-auto" data-target=".docsmenu">Docs Menu</button>
+</div>
+
+
+</footer>
+
+    <script src="/dist/app.bundle.js"></script>
+
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+
+  </body>
+</html>

@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Fast and Flexible Website Generator on Fooston</title>
+    <link>https://fooston.com/</link>
+    <description>Recent content in A Fast and Flexible Website Generator on Fooston</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://fooston.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo Documentation</title>
+      <link>https://fooston.com/documentation/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://fooston.com/documentation/</guid>
+      <description>Hugo is the world&amp;rsquo;s fastest static website engine. It&amp;rsquo;s written in Go (aka Golang) and developed by bep, spf13 and friends. Below you will find some of the most common and helpful pages from our documentation.</description>
+    </item>
+    
+    <item>
+      <title>2016 Rule Book</title>
+      <link>https://fooston.com/rules/2016-rule-book/</link>
+      <pubDate>Sun, 03 Sep 2017 00:55:56 -0500</pubDate>
+      
+      <guid>https://fooston.com/rules/2016-rule-book/</guid>
+      <description>www.tablesocer.org
+1. Code of Ethics Any action of an unsportsmanlike or unethical nature during tournament play, in the tournament room, or on the grounds of the host facility, will be considered a violation of the Code of Ethics. Mutual respect between all players, Referees and/or spectators is a requirement. It shall be the aim of every player and Referee to represent table-soccer in the most positive and sportsmanlike manner possible.</description>
+    </item>
+    
+    <item>
+      <title>Liberty Station</title>
+      <link>https://fooston.com/tournaments/liberty-station/</link>
+      <pubDate>Sat, 02 Sep 2017 15:47:02 -0500</pubDate>
+      
+      <guid>https://fooston.com/tournaments/liberty-station/</guid>
+      <description> Details  Mondays 8:00 PM: Get together for pickup games. The bar opens the tables for free play. Thursdays 8:30 PM: Typically a singles tournament but if too many players show up switches to doubles. Thursdays 10:00 PM: Doubles tournament.  ELO Ratings </description>
+    </item>
+    
+    <item>
+      <title>Bubba&#39;s Sports Bar &amp; Grill</title>
+      <link>https://fooston.com/tournaments/bubbas-sports-bar/</link>
+      <pubDate>Sat, 02 Sep 2017 11:54:48 -0500</pubDate>
+      
+      <guid>https://fooston.com/tournaments/bubbas-sports-bar/</guid>
+      <description>Details  $10 per person DYP begins at 8:30pm Late Sign Ups (9pm or later) $15  Location Bubba&amp;rsquo;s Sports Bar &amp;amp; Grill 6225 Washington Ave., Houston, Texas 77007</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.26: Language Style Edition</title>
+      <link>https://fooston.com/news/0.26-relnotes/</link>
+      <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://fooston.com/news/0.26-relnotes/</guid>
+      <description>This release brings a choice of AP Style or Chicago Style Title Case (8fb594bf #989). You can also now configure Blackfriday to render « French Guillemets » (cb9dfc26 #3725). To enable French Guillemets, put this in your site config.toml:
+[blackfriday] angledQuotes = true smartypantsQuotesNBSP = true Oh, and this release also fixes it so you should see no ugly long crashes no more when you step wrong in your templates (794ea21e).</description>
+    </item>
+    
+    <item>
+      <title>HTTP/2 Server Push in Hugo</title>
+      <link>https://fooston.com/news/http2-server-push-in-hugo/</link>
+      <pubDate>Mon, 24 Jul 2017 18:36:00 +0200</pubDate>
+      
+      <guid>https://fooston.com/news/http2-server-push-in-hugo/</guid>
+      <description>Netlify recently announced support for HTTP/2 server push, and we have now added it to the gohugo.io sites for the main CSS and JS bundles, along with server-side 301 redirect support.
+If you navigate to https://gohugo.io and look in the Chrome developer network console, you should now see Push as the new source (&amp;ldquo;Initiator&amp;rdquo;) for the CSS and JSS:
+  Network log for https://gohugo.io   Setting up this in Hugo was easy:</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.25.1</title>
+      <link>https://fooston.com/news/0-25-1/</link>
+      <pubDate>Mon, 10 Jul 2017 17:53:58 -0400</pubDate>
+      
+      <guid>https://fooston.com/news/0-25-1/</guid>
+      <description> This is a bug-fix release with a couple of important fixes.
+Hugo now has:
+ 18277+ stars 456+ contributors 170+ themes  Fixes  Fix union when the first slice is empty dbbc5c48 @bep #3686 Navigate to changed on CREATE When working with content from IntelliJ IDE, like WebStorm, every file save is followed by two events: &amp;ldquo;RENAME&amp;rdquo; and then &amp;ldquo;CREATE&amp;rdquo;. 7bcc1ce6 @miltador Final (!) fix for issue with escaped JSON front matter 7f82b41a @bep #3682 Fix issue with escaped JSON front matter 84db6c74 @bep #3682  </description>
+    </item>
+    
+    <item>
+      <title>0.25.1</title>
+      <link>https://fooston.com/release-notes/0.25.1-relnotes/</link>
+      <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://fooston.com/release-notes/0.25.1-relnotes/</guid>
+      <description> This is a bug-fix release with a couple of important fixes.
+Hugo now has:
+ 18277+ stars 456+ contributors 170+ themes  Fixes  Fix union when the first slice is empty dbbc5c48 @bep #3686 Navigate to changed on CREATE When working with content from IntelliJ IDE, like WebStorm, every file save is followed by two events: &amp;ldquo;RENAME&amp;rdquo; and then &amp;ldquo;CREATE&amp;rdquo;. 7bcc1ce6 @miltador Final (!) fix for issue with escaped JSON front matter 7f82b41a @bep #3682 Fix issue with escaped JSON front matter 84db6c74 @bep #3682  </description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.25</title>
+      <link>https://fooston.com/news/0-25/</link>
+      <pubDate>Fri, 07 Jul 2017 17:53:58 -0400</pubDate>
+      
+      <guid>https://fooston.com/news/0-25/</guid>
+      <description>Hugo 0.25 is the Kinder Surprise: It automatically opens the page you&amp;#39;re working on in the browser, it adds full AND and OR support in page queries, and you can now have templates per language.
+If you start with hugo server --navigateToChanged, Hugo will navigate to the relevant page on save (see animated GIF). This is extremely useful for site-wide edits. Another very useful feature in this version is the added support for AND (intersect) and OR (union) filters when combined with where.</description>
+    </item>
+    
+    <item>
+      <title>0.25</title>
+      <link>https://fooston.com/release-notes/0.25-relnotes/</link>
+      <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://fooston.com/release-notes/0.25-relnotes/</guid>
+      <description>Hugo 0.25 is the Kinder Surprise: It automatically opens the page you&amp;rsquo;re working on in the browser, it adds full AND and OR support in page queries, and you can now have templates per language.
+If you start with hugo server --navigateToChanged, Hugo will navigate to the relevant page on save (see animated GIF). This is extremely useful for site-wide edits. Another very useful feature in this version is the added support for AND (intersect) and OR (union) filters when combined with where.</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.24.1</title>
+      <link>https://fooston.com/news/0-24-1/</link>
+      <pubDate>Sat, 24 Jun 2017 17:53:58 -0400</pubDate>
+      
+      <guid>https://fooston.com/news/0-24-1/</guid>
+      <description> This release fixes some important archetype-related regressions from the recent Hugo 0.24-release.
+Fixes  Fix archetype regression when no archetype file 4294dd8d @bep #3626 Preserve shortcodes in archetype templates b63e4ee1 @bep #3623 Fix handling of timezones with positive UTC offset (e.g., +0800) in TOML 0744f81e @bep #3628  Enhancements  Create default archetype on new site bfa336d9 @bep #3626  </description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.24</title>
+      <link>https://fooston.com/news/0-24/</link>
+      <pubDate>Sat, 17 Jun 2017 17:53:58 -0400</pubDate>
+      
+      <guid>https://fooston.com/news/0-24/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;A feature that could be the name of the next Indiana Jones movie deserves its own release,&amp;rdquo; says &lt;a href=&#34;https://github.com/bep&#34; target=&#34;_blank&#34;&gt;@bep&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Hugo now handles the &lt;strong&gt;archetype files as Go templates&lt;/strong&gt;. This means that the issues with sorting and lost comments are long gone. This also means that you will have to supply all values, including title and date. But this also opens up a lot of new windows.&lt;/p&gt;
+
+&lt;p&gt;A fictional example for the section &lt;code&gt;newsletter&lt;/code&gt; and the archetype file &lt;code&gt;archetypes/newsletter.md&lt;/code&gt;:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;---
+title: &amp;quot;{{ replace .TranslationBaseName &amp;quot;-&amp;quot; &amp;quot; &amp;quot; | title }}&amp;quot;
+date: {{ .Date }}
+draft: true
+---
+
+**Insert Lead paragraph here.**
+
+
+
+## New Cool Posts
+
+{{ range first 10 ( where .Site.RegularPages &amp;quot;Type&amp;quot; &amp;quot;cool&amp;quot; ) }}
+* {{ .Title }}
+{{ end }}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;And then create a new post with:&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.23</title>
+      <link>https://fooston.com/news/0-23/</link>
+      <pubDate>Fri, 16 Jun 2017 17:53:58 -0400</pubDate>
+      
+      <guid>https://fooston.com/news/0-23/</guid>
+      <description>Hugo 0.23 is mainly a release that handles all the small changes needed to get Hugo moved to a GitHub organisation: gohugoio, but it also contains a couple of important fixes that makes this an update worth-while for all.
+Hugo now has:
+ 17739&amp;#43; stars 494&amp;#43; contributors 165&amp;#43; themes  Fixes  Fix handling of duplicate footnotes a9e551a1 @bep #1912 Add support for spaces in project folder for GitInfo #3533 #3552  GitHub organisation related changes  Update layout references to gohugoio/hugo 66d4850b @bep Update content references to gohugoio/hugo 715ff1f8 @bep Add note on updates for rpm-based distros 52a0cea6 @daftaupe Update logo link in README ccb8300d @bep Remove docs building from CI builds 214dbdfb @bep Adjust docs path 729be807 @bep Add docs as submodule 6cee0dfe @bep Update Gitter link in README fbb25014 @bep Change Windows build badge link, take #3 86543d6a @bep Update Windows build link e6ae32a0 @bep Update links in CONTRIBUTING.</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.22.1</title>
+      <link>https://fooston.com/news/0-22-1/</link>
+      <pubDate>Tue, 13 Jun 2017 17:53:58 -0400</pubDate>
+      
+      <guid>https://fooston.com/news/0-22-1/</guid>
+      <description>Hugo 0.22.1 fixes a couple of issues reported after the 0.22 release Monday. Most importantly a fix for detecting regular subfolders below the root-sections.
+Also, we forgot to adapt the permalink settings with support for nested sections, which made that feature less useful than it could be.
+With this release you can configure permalinks with sections like this:
+First level only:
+[permalinks] blog = &amp;quot;:section/:title&amp;quot;  Nested (all levels):</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.22</title>
+      <link>https://fooston.com/news/0-22/</link>
+      <pubDate>Mon, 12 Jun 2017 17:53:58 -0400</pubDate>
+      
+      <guid>https://fooston.com/news/0-22/</guid>
+      <description>Hugo 0.22 brings nested sections, by popular demand and a long sought after feature (#465). We are still low on documentation for this great feature, but @bep has been kind enough to accompany his implementation with a demo site.
+This release represents 58 contributions by 10 contributors to the main Hugo code base. Since last release Hugo has gained 420 stars and 2 additional themes.
+@bep still leads the Hugo development with his witty Norwegian humor, and once again contributed a significant amount of additions.</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.21</title>
+      <link>https://fooston.com/news/0-21/</link>
+      <pubDate>Mon, 22 May 2017 17:53:58 -0400</pubDate>
+      
+      <guid>https://fooston.com/news/0-21/</guid>
+      <description>Hugo 0.21 brings full support for shortcodes per Output Format (#3220), the last vital piece of that puzzle. This is especially useful for Google AMP with its many custom media tags.
+This release represents 126 contributions by 29 contributors to the main Hugo code base. Since last main release Hugo has gained 850 stars and 7 additional themes.
+Hugo now has:
+ 17156&amp;#43; stars 457&amp;#43; contributors 163&amp;#43; themes  @bep leads the Hugo development with a significant amount of contributions, but also a big shoutout to @moorereason, @bogem, and @munnerz for their ongoing contributions.</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.20.7</title>
+      <link>https://fooston.com/news/0-20-7/</link>
+      <pubDate>Wed, 03 May 2017 17:53:58 -0400</pubDate>
+      
+      <guid>https://fooston.com/news/0-20-7/</guid>
+      <description> This just fixes an issue with the release scripts, no change in the binaries.
+Hugo now has:
+ 16782&amp;#43; stars 458&amp;#43; contributors 156&amp;#43; themes  Fix  Push the tag before goreleaser is run 3682bf52 @bep #3405  </description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.20.6</title>
+      <link>https://fooston.com/news/0-20-6/</link>
+      <pubDate>Thu, 27 Apr 2017 17:53:58 -0400</pubDate>
+      
+      <guid>https://fooston.com/news/0-20-6/</guid>
+      <description> There have been some shouting on discuss.gohugo.io about some broken sites after the release of Hugo 0.20. This release reintroduces the old behaviour, making /my-blog-post/index.md work as expected.
+Hugo now has:
+ 16675&amp;#43; stars 456&amp;#43; contributors 156&amp;#43; themes  Fixes  Avoid index.md in /index/index.html #3396 Make missing GitInfo a WARNING b30ca4be @bep #3376 Fix some of the fpm fields for deb 3bd1d057 @anthonyfok  </description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.20.5</title>
+      <link>https://fooston.com/news/0-20-5/</link>
+      <pubDate>Tue, 25 Apr 2017 17:53:58 -0400</pubDate>
+      
+      <guid>https://fooston.com/news/0-20-5/</guid>
+      <description>This is a bug-fix release which fixes the version number of 0.20.4 (which wrongly shows up as 0.21-DEV) (#3388).</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.20.4</title>
+      <link>https://fooston.com/news/0-20-4/</link>
+      <pubDate>Mon, 24 Apr 2017 17:53:58 -0400</pubDate>
+      
+      <guid>https://fooston.com/news/0-20-4/</guid>
+      <description> This is the second bug-fix release of the day, fixing a couple of issues related to the new release scripts.
+Hugo now has:
+ 16626&amp;#43; stars 457&amp;#43; contributors 156&amp;#43; themes  Fixes  Fix statically linked binaries 275bcf56 @munnerz #3382 Filename change in Hugo 0.20.3 binaries #3385 Fix version calculation cb3c6b6f @bep  </description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.20.3</title>
+      <link>https://fooston.com/news/0-20-3/</link>
+      <pubDate>Mon, 24 Apr 2017 13:53:58 -0400</pubDate>
+      
+      <guid>https://fooston.com/news/0-20-3/</guid>
+      <description> This is a bug-fix release with one important fix. But it also adds some harness around GoReleaser to automate the Hugo release process. Big thanks to @caarlos0 for great and super-fast support fixing issues along the way.
+Hugo now has:
+ 16619&amp;#43; stars 458&amp;#43; contributors 156&amp;#43; themes  Enhancement  Automate the Hugo release process 550eba64 @bep #3358  Fix  Fix handling of zero-length files 9bf5c381 @bep #3355  </description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.20.2</title>
+      <link>https://fooston.com/news/0-20-2/</link>
+      <pubDate>Sun, 16 Apr 2017 13:53:58 -0400</pubDate>
+      
+      <guid>https://fooston.com/news/0-20-2/</guid>
+      <description>Hugo 0.20.2 adds support for plain text partials included into HTML templates. This was a side-effect of the big new Custom Output Format feature in 0.20, and while the change was intentional and there was an ongoing discussion about fixing it in #3273, it did break some themes. There were valid workarounds for these themes, but we might as well get it right.
+The most obvious use case for this is inline CSS styles, which you now can do without having to name your partials with a html suffix.</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.20.1</title>
+      <link>https://fooston.com/news/0-20-1/</link>
+      <pubDate>Thu, 13 Apr 2017 13:53:58 -0400</pubDate>
+      
+      <guid>https://fooston.com/news/0-20-1/</guid>
+      <description> Fix logic for base template in work dir vs in the theme #3323 camelCased templates (partials, shortcodes etc.) not found #3333 Live-reload fails with _index.md with paginator #3315 rssURI WARNING always shown #3319  </description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.20</title>
+      <link>https://fooston.com/news/0-20/</link>
+      <pubDate>Mon, 10 Apr 2017 13:53:58 -0400</pubDate>
+      
+      <guid>https://fooston.com/news/0-20/</guid>
+      <description>Hugo 0.20 introduces the powerful and long sought after feature Custom Output Formats; Hugo isn’t just that “static HTML with an added RSS feed” anymore. Say hello to calendars, e-book formats, Google AMP, and JSON search indexes, to name a few ( #2828 ).
+This release represents over 180 contributions by over 30 contributors to the main Hugo code base. Since last release Hugo has gained 1100 stars, 20 new contributors and 5 additional themes.</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.19</title>
+      <link>https://fooston.com/news/0-19/</link>
+      <pubDate>Mon, 27 Feb 2017 13:53:58 -0400</pubDate>
+      
+      <guid>https://fooston.com/news/0-19/</guid>
+      <description>We&amp;rsquo;re happy to announce the first release of Hugo in 2017.
+This release represents over 180 contributions by over 50 contributors to the main Hugo code base. Since last release Hugo has gained 1450 stars, 35 new contributors, and 15 additional themes.
+Hugo now has:
+ 15200+ stars 470+ contributors 151+ themes  Furthermore, Hugo has its own Twitter account (@gohugoio) where we share bite-sized news and themes from the Hugo community.</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.18</title>
+      <link>https://fooston.com/news/0-18/</link>
+      <pubDate>Fri, 30 Dec 2016 13:54:02 -0400</pubDate>
+      
+      <guid>https://fooston.com/news/0-18/</guid>
+      <description>Hugo 0.18.1 is a bug fix release fixing some issues introduced in Hugo 0.18:
+ Fix 32-bit binaries #2847  Fix issues with preserveTaxonomyNames #2809  Fix .URL for taxonomy pages when uglyURLs=true #2819  Fix IsTranslated and Translations for node pages #2812  Make template error messages more verbose #2820   0.18.0 December 19th 2016 Today, we&amp;rsquo;re excited to release the much-anticipated Hugo 0.18!
+We&amp;rsquo;re heading towards the end of the year 2016, and we can look back on three releases and a steady growing community around the project.</description>
+    </item>
+    
+    <item>
+      <title>0.17: Hugo is going global</title>
+      <link>https://fooston.com/news/0-17/</link>
+      <pubDate>Fri, 07 Oct 2016 13:54:06 -0400</pubDate>
+      
+      <guid>https://fooston.com/news/0-17/</guid>
+      <description>Hugo is going global with our 0.17 release. We put a lot of thought into how we could extend Hugo to support multilingual websites with the most simple and elegant experience. Hugo&amp;rsquo;s multilingual capabilities rival the best web and documentation software, but Hugo&amp;rsquo;s experience is unmatched. If you have a single language website, the simple Hugo experience you already love is unchanged. Adding additional languages to your website is simple and straightforward.</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.16</title>
+      <link>https://fooston.com/news/0-16/</link>
+      <pubDate>Mon, 06 Jun 2016 13:54:06 -0400</pubDate>
+      
+      <guid>https://fooston.com/news/0-16/</guid>
+      <description>Hugo 0.16 is our best and biggest release ever. The Hugo community has outdone itself with continued performance improvements, beautiful themes for all types of sites from project sites to documentation to blogs to portfolios, and increased stability.
+This release represents over 550 contributions by over 110 contributors to the main Hugo code base. Since last release Hugo has gained 3500 stars, 90 contributors and 23 additional themes.
+This release celebrates 3 years since @spf13 wrote the first lines of Hugo.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://fooston.com/readfiles/readme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fooston.com/readfiles/readme/</guid>
+      <description>readdirs Directory for Reusable Content Files in this directory are:
+ Used in more than one place within the Hugo docs Used in Examples of readdir (i.e. in local file templates)  These files are called using the readfile shortcode (source).
+You can call this shortcode in the docs as follows:
+{{% readfile file=&amp;ldquo;/path/to/file.txt&amp;rdquo; markdown=&amp;ldquo;true&amp;rdquo; %}}
+markdown=&amp;quot;true&amp;quot; is optional (default = &amp;quot;false&amp;quot;) and parses the string through the Blackfriday renderer.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://fooston.com/readfiles/bfconfig/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fooston.com/readfiles/bfconfig/</guid>
+      <description>Blackfriday Options  taskLists default: true
+Blackfriday flag: Purpose: false turns off GitHub-style automatic task/TODO list generation. smartypants default: true Blackfriday flag: HTML_USE_SMARTYPANTS Purpose: false disables smart punctuation substitutions, including smart quotes, smart dashes, smart fractions, etc. If true, it may be fine-tuned with the angledQuotes, fractions, smartDashes, and latexDashes flags (see below). smartypantsQuotesNBSP default: false Blackfriday flag: HTML_SMARTYPANTS_QUOTES_NBSP Purpose: true enables French style Guillemets with non-breaking space inside the quotes.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://fooston.com/readfiles/dateformatting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fooston.com/readfiles/dateformatting/</guid>
+      <description>Go templates format your dates according to a single reference time:
+Mon Jan 2 15:04:05 MST 2006  You can think of MST as 07, thus making the reference format string a sequence of numbers. The following is taken directly from the Go docs:
+Jan 2 15:04:05 2006 MST 1 2 3 4 5 6 -7  Hugo Date Templating Reference Each of the following examples show the reference formatting string followed by the string Hugo will output in your HTML.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://fooston.com/readfiles/menuvars/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fooston.com/readfiles/menuvars/</guid>
+      <description> .URL string .Name string .Menu string .Identifier string .Pre template.HTML .Post template.HTML .Weight int .Parent string .Children Menu  Note that menus also have the following functions available as well:
+ .HasChildren boolean  Additionally, there are some relevant functions available to menus on a page:
+ .IsMenuCurrent (menu string, menuEntry *MenuEntry ) boolean .HasMenuCurrent (menu string, menuEntry *MenuEntry) boolean  </description>
+    </item>
+    
+  </channel>
+</rss>

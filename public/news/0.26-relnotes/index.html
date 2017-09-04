@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    
+    <link rel="preload" href="https://fooston.com/files/muli-latin-200.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="https://fooston.com/files/muli-latin-400.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="https://fooston.com/files/muli-latin-800.woff2" as="font" type="font/woff2" crossorigin>
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+     
+    <title>Fooston  | Hugo 0.26: Language Style Edition</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+     <meta name="generator" content="Hugo 0.26" />
+
+      
+        <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+      
+
+     <link href='/dist/main.css' rel='stylesheet' type="text/css" /><meta property="og:title" content="Hugo 0.26: Language Style Edition" />
+<meta property="og:description" content="Hugo 0.26 brings proper AP Style or Chicago Style Title Case, « French Guillemets » and more." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://fooston.com/news/0.26-relnotes/" />
+
+  <meta property="og:image" content="https://fooston.com/images/blog/hugo-26-poster.png" />
+
+
+
+<meta property="article:published_time" content="2017-08-07T00:00:00&#43;00:00"/>
+<meta property="article:modified_time" content="2017-08-07T00:00:00&#43;00:00"/>
+
+
+
+
+
+
+
+
+
+
+
+<meta itemprop="name" content="Hugo 0.26: Language Style Edition">
+<meta itemprop="description" content="Hugo 0.26 brings proper AP Style or Chicago Style Title Case, « French Guillemets » and more.">
+
+
+<meta itemprop="dateModified" content="2017-08-07T00:00:00&#43;00:00" />
+<meta itemprop="wordCount" content="446">
+
+  <meta itemprop="image" content="https://fooston.com/images/blog/hugo-26-poster.png">
+
+
+
+<meta itemprop="keywords" content="" />
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image:src" content="https://fooston.com/images/blog/hugo-26-poster.png"/>
+<meta name="twitter:title" content="Hugo 0.26: Language Style Edition"/>
+<meta name="twitter:description" content="Hugo 0.26 brings proper AP Style or Chicago Style Title Case, « French Guillemets » and more."/>
+<meta name="twitter:site" content="@fooston"/>
+
+
+
+
+
+  </head>
+  <body class="ma0 sans-serif bg-primary-color-light">
+    
+<nav class="bg-primary-color-dark pv4 w-100" role="navigation">
+
+  <div class="center flex-ns flex-wrap items-center justify-start mw9">
+
+    <h1 class="dim f3 lh-solid ml0-ns mr0 mr4-l mv0 pl3 pl4-ns">
+      <a href="https://fooston.com/" class="link white">
+         FOOSTON
+      </a>
+    </h1>
+    <ul class="list ma0 pa0 dn dib-l">
+      
+        <li class="f5 dib mr4" role="menuitem">
+            
+          <a href="/tournaments/" class="dim link light-silver">
+            Tournaments
+              
+            
+            
+          </a>
+        </li>
+      
+        <li class="f5 dib mr4" role="menuitem">
+            
+          <a href="/rules/" class="dim link light-silver">
+            Rules
+              
+            
+            
+          </a>
+        </li>
+      
+    </ul>
+
+    <div class="db dib-ns pl3"><form id="site-search-form" action="" role="search">
+  <fieldset class="bn ma0 pa0">
+    <label class="clip" for="email-address">Search</label>
+    <input type="search" id="search-input" class="needs-js bg-left bg-transparent bn f5 input-reset lh-solid mt3 mt0-ns pl4 pv2 w5 white" placeholder="Search" type="text" name="email-address" value="" style="background-image:url('/images/icon-search.png');background-size:16px 16px;">
+  </fieldset>
+</form>
+</div>
+
+    <span class="absolute mt1 mt2-l pr3 right-0 top-0">
+
+  <a href="https://twitter.com/intent/follow?screen_name=fooston" title="Follow on Twitter" class="link-transition twitter link dib z-999 pt3 pt0-l mr2">
+    <svg height="32px" id="Layer_1" style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/></svg>
+
+  </a>
+
+<a class="github-button needs-js link primary-color-dark" href="https://github.com/voqk/fooston" data-size="large" data-show-count="false" aria-label="Star gohugoio/hugo on GitHub"></a>
+</span>
+
+  </div>
+</nav>
+
+    
+    
+    <main role="main" class="content-with-sidebar">
+    
+  
+
+  <article class="cf ph4 pv3 pv5-ns">
+      
+    <header class="flex-none w-100 pb3">
+      
+        
+          <a href="/categories/releases" class="f6 fw8 mb0 link mid-gray dim mr3">
+            RELEASES
+          </a>
+        
+      
+
+      <h1 class="lh-title fw9 mb7 mv0 pt3">
+        <a href="/news/0.26-relnotes/" class="link primary-color dim">
+          Hugo 0.26: Language Style Edition
+        </a>
+      </h1>
+    </header>
+
+    <div class="flex-l">
+      <aside class="mid-gray fn w-100 w-25-l">
+        
+          <h2 class="f3 lh-title">
+            Hugo 0.26 brings proper AP Style or Chicago Style Title Case, « French Guillemets » and more.
+          </h2>
+        
+        <time class="f6 mt2 db ttu tracked" datetime="2017-08-07T00:00:00Z">
+          August 7, 2017
+        </time>
+        
+        <p>
+        Go to <a href="https://github.com/gohugoio/hugo/releases" class="link primary-color dim">Hugo Releases</a> for the release downloads.
+        </p>
+        
+        
+
+        <div class="nested-links mt4">
+
+	<div date-pref>
+		
+
+		
+			<a href="https://fooston.com/news/http2-server-push-in-hugo/" class="dib f6 pr1 hover-bg-light-gray br-100" title="HTTP/2 Server Push in Hugo">
+			<svg class="fill-current" height="30px" viewBox="0 0 24 24" width="30px" xmlns="http://www.w3.org/2000/svg">
+    <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/>
+    <path d="M0 0h24v24H0z" fill="none"/>
+</svg>
+
+			</a>
+		
+	</div>
+
+</div>
+
+      </aside>
+
+      <div class="fn pl5-l pt3 mid-gray w-100 w-two-third-l sans-serif nested-copy-line-height no-underline nested-links nested-img nested-copy-seperator nested-blockquote measure-wide-l">
+        
+
+        
+
+<p>This release brings a choice of <strong>AP Style or Chicago Style Title Case</strong> (<a href="https://github.com/gohugoio/hugo/commit/8fb594bfb090c017d4e5cbb2905780221e202c41" target="_blank">8fb594bf</a> <a href="https://github.com/gohugoio/hugo/issues/989" target="_blank">#989</a>). You can also now configure Blackfriday to render <strong>« French Guillemets »</strong> (<a href="https://github.com/gohugoio/hugo/commit/cb9dfc2613ae5125cafa450097fb0f62dd3770e7" target="_blank">cb9dfc26</a> <a href="https://github.com/gohugoio/hugo/issues/3725" target="_blank">#3725</a>). To enable French Guillemets, put this in your site <code>config.toml</code>:</p>
+[blackfriday]
+angledQuotes = true
+smartypantsQuotesNBSP = true
+
+<p>Oh, and this release also fixes it so you should see no ugly long crashes no more when you step wrong in your templates (<a href="https://github.com/gohugoio/hugo/commit/794ea21e9449b876c5514f1ce8fe61449bbe4980" target="_blank">794ea21e</a>).</p>
+
+<p>Hugo <code>0.26</code> represents <strong>46 contributions by 11 contributors</strong> to the main Hugo code base.</p>
+
+<p><a href="https://github.com/bep" target="_blank">@bep</a> leads the Hugo development with a significant amount of contributions, but also a big shoutout to <a href="https://github.com/anthonyfok" target="_blank">@anthonyfok</a>, <a href="https://github.com/jorinvo" target="_blank">@jorinvo</a>, and <a href="https://github.com/digitalcraftsman" target="_blank">@digitalcraftsman</a> for their ongoing contributions. And as always a big thanks to <a href="https://github.com/digitalcraftsman" target="_blank">@digitalcraftsman</a> for his relentless work on keeping the documentation and the themes site in pristine condition.</p>
+
+<p>Many have also been busy writing and fixing the documentation in <a href="https://github.com/gohugoio/hugoDocs" target="_blank">hugoDocs</a>,
+which has received <strong>838 contributions by 30 contributors</strong>. A special thanks to <a href="https://github.com/rdwatters" target="_blank">@rdwatters</a>, <a href="https://github.com/bep" target="_blank">@bep</a>,  <a href="https://github.com/digitalcraftsman" target="_blank">@digitalcraftsman</a>, and  <a href="https://github.com/budparr" target="_blank">@budparr</a> for their work on the documentation site.</p>
+
+<p>This may look like a <strong>Waiting Sausage</strong>, a barbecue term used in Norway for that sausage you eat while waiting for the steak to get ready. And it is: We&rsquo;re working on bigger and even more interesting changes behind the scenes. Stay tuned!</p>
+
+<p>Hugo now has:</p>
+
+<ul>
+<li>18802+ <a href="https://github.com/gohugoio/hugo/stargazers" target="_blank">stars</a></li>
+<li>457+ <a href="https://github.com/gohugoio/hugo/graphs/contributors" target="_blank">contributors</a></li>
+<li>175+ <a href="http://themes.gohugo.io/" target="_blank">themes</a></li>
+</ul>
+
+<h2 id="notes">Notes</h2>
+
+<ul>
+<li><code>sourceRelativeLinks</code> has been deprecated for a while and has now been removed. <a href="https://github.com/gohugoio/hugo/commit/9891c0fb0eb274b8a95b62c40070a87a6e04088c" target="_blank">9891c0fb</a> <a href="https://github.com/bep" target="_blank">@bep</a> <a href="https://github.com/gohugoio/hugo/issues/3766" target="_blank">#3766</a></li>
+<li>The <code>title</code> template function and taxonomy page titles now default to following the <a href="https://www.apstylebook.com/" target="_blank">AP Stylebook</a> for title casing.  To override this default to use the old behavior, set <code>titleCaseStyle</code> to <code>Go</code> in your site configuration. <a href="https://github.com/gohugoio/hugo/commit/8fb594bfb090c017d4e5cbb2905780221e202c41" target="_blank">8fb594bf</a> <a href="https://github.com/bep" target="_blank">@bep</a> <a href="https://github.com/gohugoio/hugo/issues/989" target="_blank">#989</a></li>
+</ul>
+
+<h2 id="enhancements">Enhancements</h2>
+
+<h3 id="templates">Templates</h3>
+
+<ul>
+<li>Use hash for cache key <a href="https://github.com/gohugoio/hugo/commit/6cd33f6953671edb13d42dcb15746bd10df3428b" target="_blank">6cd33f69</a> <a href="https://github.com/RealOrangeOne" target="_blank">@RealOrangeOne</a> <a href="https://github.com/gohugoio/hugo/issues/3690" target="_blank">#3690</a></li>
+<li>Add some empty slice tests to intersect <a href="https://github.com/gohugoio/hugo/commit/e0cf2e05bbdcb8b4a3f875df84a878f4ca80e904" target="_blank">e0cf2e05</a> <a href="https://github.com/bep" target="_blank">@bep</a> <a href="https://github.com/gohugoio/hugo/issues/3686" target="_blank">#3686</a></li>
+</ul>
+
+<h3 id="core">Core</h3>
+
+<ul>
+<li>Support <code>reflinks</code> starting with a slash <a href="https://github.com/gohugoio/hugo/commit/dbe63970e09313dec287816ab070b5c2f5a13b1b" target="_blank">dbe63970</a> <a href="https://github.com/bep" target="_blank">@bep</a> <a href="https://github.com/gohugoio/hugo/issues/3703" target="_blank">#3703</a></li>
+<li>Make template panics into nice error messages <a href="https://github.com/gohugoio/hugo/commit/794ea21e9449b876c5514f1ce8fe61449bbe4980" target="_blank">794ea21e</a> <a href="https://github.com/bep" target="_blank">@bep</a></li>
+</ul>
+
+<h3 id="other">Other</h3>
+
+<ul>
+<li>Make the <code>title</code> case style guide configurable <a href="https://github.com/gohugoio/hugo/commit/8fb594bfb090c017d4e5cbb2905780221e202c41" target="_blank">8fb594bf</a> <a href="https://github.com/bep" target="_blank">@bep</a> <a href="https://github.com/gohugoio/hugo/issues/989" target="_blank">#989</a></li>
+<li>Add support for French Guillemets <a href="https://github.com/gohugoio/hugo/commit/cb9dfc2613ae5125cafa450097fb0f62dd3770e7" target="_blank">cb9dfc26</a> <a href="https://github.com/bep" target="_blank">@bep</a> <a href="https://github.com/gohugoio/hugo/issues/3725" target="_blank">#3725</a></li>
+<li>Add support for French Guillemets <a href="https://github.com/gohugoio/hugo/commit/c4a0b6e8abdf9f800fbd7a7f89e9f736edc60431" target="_blank">c4a0b6e8</a> <a href="https://github.com/bep" target="_blank">@bep</a> <a href="https://github.com/gohugoio/hugo/issues/3725" target="_blank">#3725</a></li>
+<li>Switch from fork bep/inflect to markbates/inflect <a href="https://github.com/gohugoio/hugo/commit/09907d36af586c5b29389312f2ecc2962c06313c" target="_blank">09907d36</a> <a href="https://github.com/jorinvo" target="_blank">@jorinvo</a></li>
+<li>Remove unused dependencies from vendor.json <a href="https://github.com/gohugoio/hugo/commit/9b4170ce768717adfbe9d97c46e38ceaec2ce994" target="_blank">9b4170ce</a> <a href="https://github.com/jorinvo" target="_blank">@jorinvo</a></li>
+<li>Add <code>--debug</code> option to be improved on over time <a href="https://github.com/gohugoio/hugo/commit/aee2b06780858c12d8cb04c7b1ba592543410aa9" target="_blank">aee2b067</a> <a href="https://github.com/maxandersen" target="_blank">@maxandersen</a></li>
+<li>Reduce Docker image size from 277MB to 27MB <a href="https://github.com/gohugoio/hugo/commit/bfe0bfbbd1a59ddadb72a6b07fecce71716088ec" target="_blank">bfe0bfbb</a> <a href="https://github.com/ellerbrock" target="_blank">@ellerbrock</a> <a href="https://github.com/gohugoio/hugo/issues/3730" target="_blank">#3730</a><a href="https://github.com/gohugoio/hugo/issues/3738" target="_blank">#3738</a></li>
+<li>Optimize Docker image size <a href="https://github.com/gohugoio/hugo/commit/606d6a8c9177dda4551ed198e0aabbe569f0725d" target="_blank">606d6a8c</a> <a href="https://github.com/ellerbrock" target="_blank">@ellerbrock</a> <a href="https://github.com/gohugoio/hugo/issues/3674" target="_blank">#3674</a></li>
+<li>Add <code>--trace</code> to asciidoctor args <a href="https://github.com/gohugoio/hugo/commit/b60aa1a504f3fbf9c19a6bf2030fdc7a04ab4a5a" target="_blank">b60aa1a5</a> <a href="https://github.com/miltador" target="_blank">@miltador</a> <a href="https://github.com/gohugoio/hugo/issues/3714" target="_blank">#3714</a></li>
+<li>Add script to pull in docs changes <a href="https://github.com/gohugoio/hugo/commit/ff433f98133662063cbb16e220fd44c678c82823" target="_blank">ff433f98</a> <a href="https://github.com/bep" target="_blank">@bep</a></li>
+<li>Add <code>HasShortcode</code> <a href="https://github.com/gohugoio/hugo/commit/deccc54004cbe88ddbf8f3f951d3178dc0693189" target="_blank">deccc540</a> <a href="https://github.com/bep" target="_blank">@bep</a> <a href="https://github.com/gohugoio/hugo/issues/3707" target="_blank">#3707</a></li>
+<li>Improve the twitter card template <a href="https://github.com/gohugoio/hugo/commit/00b590d7ab4f3021814acceaf74c4eaf64edb226" target="_blank">00b590d7</a> <a href="https://github.com/bep" target="_blank">@bep</a> <a href="https://github.com/gohugoio/hugo/issues/3711" target="_blank">#3711</a></li>
+<li>Add <code>GOEXE</code> to support building with different versions of <code>go</code> <a href="https://github.com/gohugoio/hugo/commit/ea5e9e346c93320538c6517b619b5f57473291c8" target="_blank">ea5e9e34</a> <a href="https://github.com/mdhender" target="_blank">@mdhender</a></li>
+</ul>
+
+<h2 id="fixes">Fixes</h2>
+
+<h3 id="templates-1">Templates</h3>
+
+<ul>
+<li>Fix intersect on <code>[]interface{}</code> handling <a href="https://github.com/gohugoio/hugo/commit/55d0b89417651eba3ae51c96bd9de9e0daa0399e" target="_blank">55d0b894</a> <a href="https://github.com/moorereason" target="_blank">@moorereason</a> <a href="https://github.com/gohugoio/hugo/issues/3718" target="_blank">#3718</a></li>
+</ul>
+
+<h3 id="other-1">Other</h3>
+
+<ul>
+<li>Fix broken <code>TaskList</code> in Markdown <a href="https://github.com/gohugoio/hugo/commit/481924b34d23b0ce435778cce7bce77571b22f9d" target="_blank">481924b3</a> <a href="https://github.com/mpcabd" target="_blank">@mpcabd</a> <a href="https://github.com/gohugoio/hugo/issues/3710" target="_blank">#3710</a></li>
+</ul>
+
+      </div>
+    </div>
+    
+
+      <div class="gray f6 mv6">
+        Last Update: August 7, 2017 <br>
+        <a href="https://github.com/voqk/fooston/edit/master/content/news/0.26-relnotes.md" class="
+f6 ph3 pv1 br2 dib  tc ttu mv3 bg-primary-color white hover-bg-green link
+">Improve this page</a>
+
+      </div>
+
+  </article>
+
+
+    </main>
+
+    <footer class="fixed relative-l bg-primary-color-dark bottom-0 w-100 pa3 pa4-l" role="contentinfo">
+  
+  
+    <div class="dn db-l flex-ns flex-wrap w-80 center mw9 justify-between">
+      <div class="mb3 gray tc nested-links">
+        © 2017 Fooston
+      </div>
+      
+    </div>
+
+
+    <div  class="globalmenu mobilemenu pb3 dn">
+    
+
+<ul class="list hidden dib ph0 ma0 scrolling-touch tc">
+  
+    <li  class="tl dib ma0 hover-bg-black w-100">
+        <a href="/tournaments/" class="ttu f6 link primary-color-light overflow hover-white db brand-font  ma0 w-100 pv3 ph4">
+          Tournaments
+        </a>
+    </li>
+  
+    <li  class="tl dib ma0 hover-bg-black w-100">
+        <a href="/rules/" class="ttu f6 link primary-color-light overflow hover-white db brand-font  ma0 w-100 pv3 ph4">
+          Rules
+        </a>
+    </li>
+  
+</ul>
+
+</div>
+<div  class="docsmenu mobilemenu pb3 dn">
+    
+
+<ul class="list dib ph0 ma0 scrolling-touch tc">
+  
+    <li  class="tl dib ma0 hover-bg-black w-100">
+        <a href="/tournaments/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
+          Tournaments
+        </a>
+    </li>
+  
+    <li  class="tl dib ma0 hover-bg-black w-100">
+        <a href="/rules/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
+          Official Foosball Rules
+        </a>
+    </li>
+  
+</ul>
+
+</div>
+
+<div class="flex dn-l">
+  <button class="js-toggle flex-auto ml2 dib dn-l f6 tc db mt4-ns ph3 pv2 link white bg-primary-color-dark hover-bg-primary-color ba b--white-40 w-auto" data-target=".globalmenu">Menu</button>
+
+  <button class="js-toggle flex-auto ml2 dib dn-l f6 tc db mt4-ns ph3 pv2 link white bg-primary-color-dark hover-bg-primary-color ba b--white-40 w-auto" data-target=".docsmenu">Docs Menu</button>
+</div>
+
+
+</footer>
+
+    <script src="/dist/app.bundle.js"></script>
+
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+
+  </body>
+</html>
