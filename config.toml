@@ -93,6 +93,7 @@ twitter = "fooston"
   name = "Tournaments"
   weight = 1
   identifier = "tournaments"
+  post = "break"
   url = "/tournaments/"
 
  [[menu.docs]]

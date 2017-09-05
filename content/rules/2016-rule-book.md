@@ -538,529 +538,273 @@ If a defensive player bumps or shakes the table enough to impair the opponent’
 
 It is illegal for a player to reach into the play area while the ball is in play without first having permission from the opposing team or Referee whether he touches the ball or not. However, whenever the opposing team or Referee grants a player permission to reach into the playing area, it is legal for the player to do so.
 
-```
-18.1 A spinning ball is considered "in-play," even if it is not in reach of a player figure. It is illegal to reach
-into the playing area to stop a spinning ball, even if done for an opponent.
-```
-```
-18.2 A ball which becomes airborne over the table is still in play until it has hit something not a part of the
-playing area. Do not catch a flying ball over the table.
-```
-```
-18.3 A ball which has gone dead is considered out of play (See Rule 8). The ball may be freely touched once
-permission has been granted by the Referee, or if no Referee is present, by the opposing team.
-```
-```
-18.4 A player may wipe shot marks off any part of the table while the ball is not in play. He does not need to
-ask permission of the opposing team.
-```
-```
-18.5 The penalty for violating any part of this rule is as follows: If the player has possession of the ball, and
-the ball is stopped - loss of possession to the opposing team for serve. If the player is not in possession of the
-```
+  1. A spinning ball is considered "in-play," even if it is not in reach of a player figure. It is illegal to reach into the playing area to stop a spinning ball, even if done for an opponent.
 
-```
-14
-```
-```
-ball or the ball is moving – Technical foul. If a player reaches into the playing area to prevent the ball from
-entering the goal a point is scored for the opposing team and the ball shall be served as if it had gone into the
-goal.
-```
-```
-18.6 If a technical foul is called for touching a flying ball over the table it will be replayed as follows: If the
-technical shot is scored it will be served by the opposing team. If the technical shot is not scored it will be
-served by the non-offending team.
-```
-## 19. Alterations to the Table.......................................................................................................
+  2. A ball which becomes airborne over the table is still in play until it has hit something not a part of the playing area. Do not catch a flying ball over the table.
+
+  3. A ball which has gone dead is considered out of play (See Rule 8). The ball may be freely touched once permission has been granted by the Referee, or if no Referee is present, by the opposing team.
+
+  4. A player may wipe shot marks off any part of the table while the ball is not in play. He does not need to ask permission of the opposing team.
+
+  5. The penalty for violating any part of this rule is as follows: If the player has possession of the ball, and the ball is stopped - loss of possession to the opposing team for serve. If the player is not in possession of the ball or the ball is moving – Technical foul. If a player reaches into the playing area to prevent the ball from entering the goal a point is scored for the opposing team and the ball shall be served as if it had gone into the goal.
+  
+  6. If a technical foul is called for touching a flying ball over the table it will be replayed as follows: If the technical shot is scored it will be served by the opposing team. If the technical shot is not scored it will be served by the non-offending team.
+
+## 19. Alterations to the Table
 
 Playing area - no changes can be made that would affect the interior playing characteristics of the table by any player. This
 includes changes to the men, playing surface, bumpers, etc.
 
-```
-19.1 Players are not allowed to put sweat, spit, or any foreign substance on their hands to clean ball marks off
-the table. First offense is a warning and any subsequent violation is a Technical Foul.
-```
-```
-19.1.1 Only manufacturer recommended cleaning agents or those supplied by the Tournament
-Organizer may be used to clean the surface. Lubricants are to be applied to the rods by dropper
-or sponge applicator. Spray-on lubricants are not permitted.
-```
-```
-19.1.2 Any player using a substance to improve their grip must ensure that the substance does
-not get on the playing surface, rods, or balls. If the substance gets on the playing surface or rods,
-it must be cleaned off before resuming play and if the ball is affected, it must be replaced. The
-player in violation shall be penalized for delay of game. For subsequent violations, the player
-shall be charged with a Technical Foul and is prohibited from using the substance for the
-remainder of the tournament.
-```
-```
-19.2 If a player uses any substance that leaves residue on the handles when switching sides of the table, the
-player will be issued a warning and must clean the handles immediately.
-```
-```
-19.2.1 If the time necessary to remove the substance exceeds 90 seconds, the player will be
-penalized for delay of game. For subsequent violations, the player shall be prohibited from
-using the substance for the rest of the tournament.
-```
-```
-19.3 A player may not place anything on the rods, handles or exterior of the table that affects the movement
-of the rods (example: limiting the motion of the goalie rod). Intentional bending or flexing of the rods to
-assist in gaining possession of the ball is illegal and is penalized with loss of possession to the opposing five-
-man rod.
-```
-```
-19.4 A player may switch the handles on the exterior of the tables if it can be done within the time limits and
-without impeding the opponent’s ability to change sides between games. Taking too much time will be
-grounds for delay of game (See Rule 25).
-```
-```
-19.5 Players are entitled to begin each match with brand new balls (if available) or they may agree to play
-with the existing balls at the table. If new balls are not available, the Tournament Organizer or Head Official
-shall select the best alternative.
-```
-```
-19.5.1 It is illegal to request a different ball from inside the table while the ball is in play.
-During a dead ball or time out, a player may request a different ball from inside the table. Once
-a match has begun, it shall be illegal to put another ball into the table without permission from
-the opponent or Referee.
-```
-```
-19.5.2 A player requesting a different ball while the ball is in play shall be charged with a time
-out, unless the Referee at the table determines the ball to be unplayable, in which case no time
-out will be charged.
-```
-```
-19.6 Unless otherwise specified, penalty for violation of any part of this rule may be grounds for a
-technical foul.
-```
+  1. Players are not allowed to put sweat, spit, or any foreign substance on their hands to clean ball marks off the table. First offense is a warning and any subsequent violation is a Technical Foul.
 
-```
-15
-```
-## 20. Distraction.............................................................................................................................
+    1. Only manufacturer recommended cleaning agents or those supplied by the Tournament Organizer may be used to clean the surface. Lubricants are to be applied to the rods by dropper or sponge applicator. Spray-on lubricants are not permitted.
+    
+    2. Any player using a substance to improve their grip must ensure that the substance does not get on the playing surface, rods, or balls. If the substance gets on the playing surface or rods, it must be cleaned off before resuming play and if the ball is affected, it must be replaced. The player in violation shall be penalized for delay of game. For subsequent violations, the player shall be charged with a Technical Foul and is prohibited from using the substance for the remainder of the tournament.
 
-Any movement or sound (including phones and electronic devices) made away from, or behind, the rod where the ball is in play
-may be judged as a distraction. It may be considered a distraction if the opponent taps the table top as a gesture of apology or
-approval during play. If a player believes he is being distracted, it is his responsibility to call for a Referee.
+  2. If a player uses any substance that leaves residue on the handles when switching sides of the table, the player will be issued a warning and must clean the handles immediately.
 
-```
-20.1 Banging the five-man rod or any rod prior to, during, or after a shot is considered a distraction. Moving
-the five-man rod slightly after the shot has started is not considered a distraction.
-```
-```
-20.2 Talking between teammates while the ball is in play may be judged a distraction.
-```
-```
-20.3 It is not considered a distraction, when passing, to move the catching rod as part of a fake. Excessive
-motion, however, is grounds for a distraction.
-```
-```
-20.4 It is considered a distraction to clearly remove a hand from the handle and then immediately shoot the
-ball. The ball may only be shot after both hands (and/or wrist) have been on both handles for one full second.
-Sliding the wrist onto the handle is not considered a distraction unless otherwise determined by a Referee.
-```
-```
-20.4.1 In Singles, a player is not required to have both hands on both handles for one full second
-when transitioning between the rods. Once the ball is in clear possession and control on the 3-
-man rod, Rule 20.4 applies.
-```
-```
-20.5 A player who removes his hands from the handles and reaches down or away from the table (to wipe his
-hands, apply rosin, etc) while the ball is in play shall be charged with a distraction.
-```
-```
-20.6 Penalty for distraction. For the first distraction violation, the guilty team may be charged with a warning
-if the Referee at the table determines the distraction to be harmless. If a shot is scored as a result of a
-distraction by the offensive team, the point will not count and the opposing team will serve the ball. In all
-other cases, the opposing team has the option of continuing play from the current position; continue play from
-the point of infraction, or serve the ball. Subsequent violations may be grounds for a technical foul.
-```
-## 21. Practice..................................................................................................................................
+    1. If the time necessary to remove the substance exceeds 90 seconds, the player will be penalized for delay of game. For subsequent violations, the player shall be prohibited from using the substance for the rest of the tournament.
 
-Practice shall be permitted on any table before the match begins and between games. Once a game has begun, practice shall not
-be permitted.
+  3. A player may not place anything on the rods, handles or exterior of the table that affects the movement of the rods (example: limiting the motion of the goalie rod). Intentional bending or flexing of the rods to assist in gaining possession of the ball is illegal and is penalized with loss of possession to the opposing five-man rod.
 
-```
-21.1 Practice is defined as moving the ball from one player figure to another or shooting the ball.
-```
-```
-21.1.1 Illegal Practice is a judgment call by the Referee at the table. Inadvertent movement of
-the ball, or using the player figures to position the ball before the serve, does not constitute
-practice.
-```
-```
-21.2 The Penalty for illegal practice is a loss of possession to the opposing team for serve. If the player does
-not have possession he will be issued a warning. Subsequent violations will be a technical foul.
-```
-## 22. Language and Behavior.......................................................................................................
+  4. A player may switch the handles on the exterior of the tables if it can be done within the time limits and without impeding the opponent’s ability to change sides between games. Taking too much time will be grounds for delay of game (See Rule 25).
+  
+  5. Players are entitled to begin each match with brand new balls (if available) or they may agree to play with the existing balls at the table. If new balls are not available, the Tournament Organizer or Head Official shall select the best alternative.
 
-Unsportsmanlike conduct or comments made directly or indirectly by a player are not allowed. Violations of this rule may be
-grounds for a technical foul.
+    1. It is illegal to request a different ball from inside the table while the ball is in play. During a dead ball or time out, a player may request a different ball from inside the table. Once a match has begun, it shall be illegal to put another ball into the table without permission from the opponent or Referee.
 
-```
-22.1 Calling the attention of the opposing team away from the game is not allowed (see Rule 20). Any shouts
-or sounds made during a match, even if of an enthusiastic nature, may be grounds for a technical foul.
-```
-```
-22.2 Cursing by a player shall not be allowed. The penalty for cursing is a technical foul. Continued cursing
-by a player may be cause for forfeiture of games and/or expulsion from the tournament site.
-```
-```
-22.3 The use of a scout in the audience to relay information while the ball is in play shall not be allowed.
-Furthermore, a member of the audience is not allowed to influence a match by distracting a player or Referee.
-Violation of this rule may be grounds for expulsion of the person from the tournament site.
-```
-```
-22.4 Coaching will be allowed, but only during time outs and between games.
-```
+    2. A player requesting a different ball while the ball is in play shall be charged with a time out, unless the Referee at the table determines the ball to be unplayable, in which case no time out will be charged.
 
-```
-16
-```
-```
-22.5 The use of headphones, ear-buds, or any similar electronic listening device is not permitted when the ball
-is in play. The first violation will result in a warning. Subsequent violations will be a technical foul.
-```
-## 23. Passing...................................................................................................................................
+  6. Unless otherwise specified, penalty for violation of any part of this rule may be grounds for a technical foul.
 
-A ball which is advanced from a pinned or stopped position on the five-man rod cannot be directly caught on the
-forward three-man rod of the same team regardless of whether or not the ball is touched by the opposing five-man rod.
+## 20. Distraction
 
-```
-23.1 A pinned ball is one that is pinned to the wall or playfield. A stopped ball is one that has completely
-stopped but has not been immediately advanced.
-23.1.1 Once the ball is considered pinned or stopped, it must touch at least two player figures
-before it can be legally passed to the forward three-man rod.
-```
-```
-23.1.2 A ball that is briefly stubbed or pinched to the playing surface and advanced in the same
-motion can be legally caught on the three-man rod if the pass would otherwise be considered
-legal. If the ball is stubbed or pinched to the playing surface, released, and then passed by the
-same player figure it is considered an illegal pass.
-```
-```
-23.1.3 It is not considered an illegal pass from the five-man rod if a stopped or pinned ball
-deflects off the same team’s three-man rod provided it was not caught and there was no
-controlled advancement by the three-man rod.
-```
-```
-23.1.4 If the ball touches the front or back of the man prior to the motion of a pass it must touch
-a second man before it can be legally caught on the three-man rod (or five-man rod when
-passing from the goalie rods). However, if the ball hits the front or back of the man on the initial
-contact from another rod it can be legally passed with the same man.
-```
-```
-23.2 On the five-man rod, the ball may not strike the side walls, or the side strips if present, more than two
-times. If the ball strikes the wall a third time, the serve will be awarded to the opposing five-man rod.
-(Exception: See Rule 23.2. 1 )
-```
-```
-23.2. 1 If the ball becomes stopped near or against the wall it may be bounced off the wall as
-many times needed to be moved away from the wall, however, once the ball strikes the wall a
-second time when being moved away from the wall, it must touch another player figure before it
-may be legally advanced.
-```
-```
-23.2.2 Rule 23.2.1 will be counted as one of the two times the ball is allowed to strike the wall
-before it can be advanced and the time of possession shall continue to run.
-```
-```
-23.2. 3 Defensive trap – It is not counted as one of the two times the ball is allowed to strike the
-wall if an opponent's pass or shot is caught by being trapped against the side wall on the five-
-man rod.
-```
-```
-23.2. 4 Following a time-out, any strike the ball makes against the wall prior to touching a
-second man will not be counted against the allowed two strikes.
-```
-```
-23.3 Passing from the two-man (or three-man goalie rod) to the same teams five-man rod is ruled the same as
-passing from the 5-man rod, except that, if the ball should strike an opposing team's player figure, the ball
-may be legally caught on the same teams five-man rod. The three wall violation is not in effect.
-```
-```
-23.4 It is legal to have just one hand on the rods when playing defense (example: right hand on defensive
-five-man). It is also legal to use two hands to move one rod (example: defensive five-man). Excessive
-switching of the hand between the handles may be judged a distraction.
-```
-```
-23.5 Penalty for an illegal pass - if a team violates the above rules of passing; the opposing team has the
-option to continue play from the current position or serve the ball.
-```
+Any movement or sound (including phones and electronic devices) made away from, or behind, the rod where the ball is in play may be judged as a distraction. It may be considered a distraction if the opponent taps the table top as a gesture of apology or approval during play. If a player believes he is being distracted, it is his responsibility to call for a Referee.
 
-```
-17
-```
-## 24. Time of Possession................................................................................................................
+  1. Banging the five-man rod or any rod prior to, during, or after a shot is considered a distraction. Moving the five-man rod slightly after the shot has started is not considered a distraction.
 
-Possession of the ball shall be limited to 10 seconds on the five-man rod and 15 seconds on all other rods. A player is
-considered to be in possession of the ball the moment it is within reach of a player figure. Both goalie rods are considered one
-rod of possession.
+  2. Talking between teammates while the ball is in play may be judged a distraction.
 
-```
-24.1 A ball is considered to have advanced once it leaves the current rod of possession whether it goes
-forward or backwards. In the goalie area, the ball is considered advanced once out of reach of the two-man
-rod or inside the goal.
-```
-```
-24.2 A spinning ball that is within reach of a player figure shall be considered in that rod's possession and all
-time limits shall continue, however, if the spinning ball is not within reach, the time limits are not in effect.
-(See Rule 8.3)
-```
-```
-24.3 Penalty - penalty for three-man delay is loss of possession to the opposing goalie. Penalty for delay at
-any other rod is loss of possession to the opposing forward for serve.
-```
-## 25. Delay of Game.......................................................................................................................
+  3. It is not considered a distraction, when passing, to move the catching rod as part of a fake. Excessive motion, however, is grounds for a distraction.
 
-Play shall be continuous, except during time outs. Continuous shall be defined as no more than 5 seconds duration between a
-ball scored and the beginning of the ready protocol unless otherwise modified for televised matches. In Multi-table events,
-players have 5 seconds to assume their positions when switching between tables. A delay of game penalty may only be called
-by a Referee.
+  4. It is considered a distraction to clearly remove a hand from the handle and then immediately shoot the ball. The ball may only be shot after both hands (and/or wrist) have been on both handles for one full second. Sliding the wrist onto the handle is not considered a distraction unless otherwise determined by a Referee.
 
-```
-25.1 After a team is charged with delay of game play shall resume in at most 10 seconds. At the end of 10
-seconds another delay of game call should be made.
-```
-```
-25.2 The first infraction of this rule is a warning. Subsequent infractions will result in the player being
-charged with a time out. Example: Player charged with delay of game. If still not ready to resume play after
-10 seconds - time out charged. If after the time out still not ready, another 10 seconds - second time out
-charged
-```
-## 26. Recalls and Forfeiture..........................................................................................................
+    1. In Singles, a player is not required to have both hands on both handles for one full second when transitioning between the rods. Once the ball is in clear possession and control on the 3-man rod, Rule 20.4 applies.
 
-Once a match has been called, both teams should report immediately to the designated table. If a team has not reported to the
-table within three minutes, they should be recalled. A team, upon being recalled, must report immediately to the table in order
-to stop the forfeiture process.
+  5. A player who removes his hands from the handles and reaches down or away from the table (to wipe his hands, apply rosin, etc) while the ball is in play shall be charged with a distraction.
 
-```
-26.1 A recall is made every three minutes. Penalty for third and subsequent recalls is forfeiture of each game
-until the match is over.
-```
-```
-26.2 If a team has forfeited any games due to recalls, they get the choice of side or serve once play begins.
-```
-```
-26.3 Enforcement of this rule is the responsibility of the Tournament Director.
-```
-## 27. Technical Fouls.....................................................................................................................
+  6. Penalty for distraction. For the first distraction violation, the guilty team may be charged with a warning if the Referee at the table determines the distraction to be harmless. If a shot is scored as a result of a distraction by the offensive team, the point will not count and the opposing team will serve the ball. In all other cases, the opposing team has the option of continuing play from the current position; continue play from the point of infraction, or serve the ball. Subsequent violations may be grounds for a technical foul.
 
-If, in the judgment of an authorized tournament Referee, either team competing in a match is at any time in flagrant or
-intentional violation of these rules of play, a technical foul may be called on the offending team.
+## 21. Practice
 
-```
-27.1 When a technical foul is called, play shall stop and the opponent will be awarded the ball on the three-
-man rod. Only the player shooting and the player blocking are allowed to stay at the table. One shot will be
-taken and then play shall stop. If a goal was scored, the ball is served by the team who was scored on. If no
-goal was scored, play shall resume from where the ball was prior to the technical shot or where specified by
-rules.
-```
-```
-27.1.1 A player is considered to have taken a technical foul shot once the ball has left the three-man rod.
-A player is considered to have blocked the shot once the ball has either stopped in or left the defender's
-area.
-```
-```
-27.2 On a technical foul shot, the ball must be legally put into play before shooting. Furthermore, all rules,
-including time limits and resets, still apply.
-```
+Practice shall be permitted on any table before the match begins and between games. Once a game has begun, practice shall not be permitted.
 
-```
-18
-```
-```
-27.3 A team may switch positions before and/or after the technical foul shot without being charged with a
-time out.
-```
-```
-27.4 Time outs may be called during a technical shot, as long as they would otherwise be legal
-```
-```
-27.5 A point scored on an illegal technical shot shall not be counted. Play shall resume at the rod of
-possession where the technical foul was called or as specified by rule.
-```
-```
-27.6 If a technical foul shot ends the game, the opposing team gets the first serve of the next game.
-```
-```
-27.7 Further violations of a flagrant or intentional nature shall carry additional technical fouls. A third
-technical foul in any one game shall result in an automatic forfeiture of the game.
-```
-```
-27.8 The Referee may announce at any time after the first technical foul that further violation by that team
-may be cause for forfeiture of the game or match.
-```
-## 28. Rules Decisions and Appeals...............................................................................................
+  1. Practice is defined as moving the ball from one player figure to another or shooting the ball.
 
-If a controversy involves a question of judgment and a Referee was present at the time the events in question transpired, his
-decision is final and no appeal may be made. If the controversy involved an interpretation of the rules, or a Referee was not
-present at the time the events in question transpired, the Referee shall make the most equitable decision possible under the
-circumstances. Decisions of this nature may be appealed, but it must be done immediately in the manner prescribed below.
+    1. Illegal Practice is a judgment call by the Referee at the table. Inadvertent movement of the ball, or using the player figures to position the ball before the serve, does not constitute practice.
 
-```
-28.1 In order to appeal a rules interpretation, a player must file that appeal with the Referee before the ball
-being played at the time of the controversy is put back into play. An appeal concerning the loss of a match
-must be filed before the team that won has begun its next match.
-```
-```
-28.2 All rule appeals shall be considered by the Head Official and (if present) at least two members of the
-officiating staff. All decisions on appeals are final.
-```
-```
-28.3 A team making an unsuccessful rules appeal of an obvious nature, or a team that questions a judgment
-call, will be charged with a time out. In addition, the team may also be penalized for delay of game, at the
-discretion of the Referee.
-```
-```
-28.4 Arguing with a Referee during a match will not be allowed. Violation of this rule will be grounds for a
-delay of game penalty and/or a violation of the code of ethics.
-```
-## 29. Dress Code............................................................................................................................
+  2. The Penalty for illegal practice is a loss of possession to the opposing team for serve. If the player does not have possession he will be issued a warning. Subsequent violations will be a technical foul.
 
-Players who wish to compete in an ITSF sanctioned event must wear proper sporting attire and are expected to uphold the
-highest level of personal and professional appearance. Enforcement of the dress code is the responsibility of the Tournament
-Director, the Head Official and/or a member of the ITSF Sporting Commission.
+## 22. Language and Behavior
 
-```
-29.1 Acceptable sporting attire consists of warm-up jackets and pants, athletic shirts, sport tee shirts, polo
-shirts, athletic shorts, and athletic shoes. Sport caps, visors, sweatbands, and sport bandanas are also
-acceptable.
-```
-```
-29.2 Prohibited attire includes clothing displaying profanity, tank tops, denim or jeans of any kind, as well as
-cargo pants, cargo shorts, form-fitting Spandex or Lycra pants and shorts. Flip-flops, sandals and non-athletic
-shoes are also prohibited.
-```
-```
-29.3 Players are encouraged to have the name of their country clearly displayed on their shirt and jacket. This
-is mandatory for the top rated players who will also be required to wear patches on their sleeves indicating
-their World Ranking. It is recommended but not mandatory for the player’s uniform to be in their national
-colors with their country’s name, flag, and sponsors logos prominently displayed.
-```
-```
-29.4 The penalty for violating the dress code may be forfeiture of a game or match. If a player is in violation
-of the dress code during a match he must change into acceptable attire before play can continue and the team
-will be charged with delay of game (See Rule 25).
-```
+Unsportsmanlike conduct or comments made directly or indirectly by a player are not allowed. Violations of this rule may be grounds for a technical foul.
 
-```
-19
-```
-## 30. Tournament Director..........................................................................................................
+  1. Calling the attention of the opposing team away from the game is not allowed (see Rule 20). Any shouts or sounds made during a match, even if of an enthusiastic nature, may be grounds for a technical foul.
 
-The administration of tournament play shall be the responsibility of the Tournament Director. This includes making the draws,
-scheduling the events, timing matches, etc. The decision of the Tournament Director in such matters is final.
+  2. Cursing by a player shall not be allowed. The penalty for cursing is a technical foul. Continued cursing by a player may be cause for forfeiture of games and/or expulsion from the tournament site.
 
-```
-30.1 All matters pertaining to rules of play (appointing Referees, handling appeals, etc.) shall be the responsibility of
-the Head Official. The Tournament Director is responsible for appointing the Head Official.
-```
-```
-30.2 In every sanctioned ITSF tournament the Tournament Director is subordinate to the ITSF Sport Commission.
-```
-## 31. Side events......................................................................................................................
+  3. The use of a scout in the audience to relay information while the ball is in play shall not be allowed. Furthermore, a member of the audience is not allowed to influence a match by distracting a player or Referee. Violation of this rule may be grounds for expulsion of the person from the tournament site.
 
-```
-31.1 Goalie War
-Goalie War is a singles specialty event where the three-man and five-man rods are lifted and the player shoot
-against each other from the goalie positions.
-31.1.1 The Serve
-```
-- To begin play, the ball must be moved from one player figure to another but may not be
-directly advanced from the second figure. After contacting the second player figure, the ball
-may be directly advanced by any other player figure.
-- The player does not have to stop the ball or wait prior to advancing the ball. The ball is
-considered to be in play and the time limits begin the moment the ball contacts the second
-player figure.
-- Violation is loss of possession.
-31.1.2 Possession
-A player is considered to be in possession of the ball when it’s within reach of the goalie rods.
-Possession in the goalie area extends from the end of where the two-man rod reaches back to the
-goal. The center of the table is the remaining area of play.
-- During play, if the ball goes off the table or becomes dead between the two-man rods, it
-will be put back into play by the opponent of the player who had the last possession.
-- If the ball goes dead in the goalie area, it shall be put back into play from the goalie area
-of where the ball went dead.
-- A ball that strikes any rod, player figure, or bumper in the center of the table is still
-considered to be in play. These rods do not affect possession of the ball.
-31.1.3 Time Limits
-Once the ball is put into play, the player has a ten second time limit to advance the ball. If the ball
-stops for more than three seconds, or is pinned for more than one second, it must touch another
-player figure before it may be legally advanced. Violation of any part of this rule is loss of
-possession to the opposing player.
-31.2 Four on Four
-Four on Four is a specialty event with four players on each side of the table with each player controlling one
-rod with one hand. Players may not switch hands once the ball is put into play.
-31.2.1 Change of Positions
-- If a team scores a point, they must rotate positions before the ball is put into play. The
-player on the three-man rod shall move to the goalie-rods and the rest of the players shall
-move forward one rod.
-- A team may change their assembled positions before the match begins or between games.
-Once a game has begun, teams must maintain the same order of rotation for the remainder
-of the game.
-31.2.2 Legal Shots
-- The game is played Rollerball style, i.e., a ball may not be pinned for more than three
-seconds or stopped for more than one second. There is a ten second time limit per rod.
+  4. Coaching will be allowed, but only during time outs and between games.
 
+  5. The use of headphones, ear-buds, or any similar electronic listening device is not permitted when the ball is in play. The first violation will result in a warning. Subsequent violations will be a technical foul.
 
-```
-20
-```
-- Once a ball is stopped or pinned it must touch another player figure before it may be
-legally advanced.
-- If a point is scored illegally, the ball shall be served by the opposing team.
+## 23. Passing
 
-31.3 Two-Ball Rollerball
+A ball which is advanced from a pinned or stopped position on the five-man rod cannot be directly caught on the forward three-man rod of the same team regardless of whether or not the ball is touched by the opposing five-man rod.
 
-Two-Ball Rollerball is a specialty event that is played with two balls served simultaneously to begin play.
+  1. A pinned ball is one that is pinned to the wall or playfield. A stopped ball is one that has completely stopped but has not been immediately advanced.
+  
+    1. Once the ball is considered pinned or stopped, it must touch at least two player figures before it can be legally passed to the forward three-man rod.
+    
+    2. A ball that is briefly stubbed or pinched to the playing surface and advanced in the same motion can be legally caught on the three-man rod if the pass would otherwise be considered legal. If the ball is stubbed or pinched to the playing surface, released, and then passed by the same player figure it is considered an illegal pass.
+    
+    3. It is not considered an illegal pass from the five-man rod if a stopped or pinned ball deflects off the same team’s three-man rod provided it was not caught and there was no controlled advancement by the three-man rod.
+    
+    4. If the ball touches the front or back of the man prior to the motion of a pass it must touch a second man before it can be legally caught on the three-man rod (or five-man rod when passing from the goalie rods). However, if the ball hits the front or back of the man on the initial contact from another rod it can be legally passed with the same man.
 
-```
-31.3.1 Time Limits
-```
-- There is a ten second time limit per rod and the ball may not be pinned or stopped for
-more than one second.
-- If a ball is pinned or stopped for more than one full second with two balls in play, both
-balls shall be served again. If there is only one ball in play, it will be served by the opposing
-team.
-- A shot may be scored directly from a pinned or stopped position if done immediately and
-within the one second time limit.
-31.3.2 Serving the Ball
-- If there is a serving hole present, each forward shall serve a ball through the hole on the
-count of three. Both balls should hit the playfield within one second of each other.
-- If no serving hole is present, both defensive players shall simultaneously release the ball
-from the near corner of the goalie area within one second of the count of three.
-- If a ball goes off the table without any goals being scored, both balls shall be served again.
-Otherwise, the team scored upon shall serve the remaining ball.
-31.3.3 Scoring
-- If each team scores a goal, then neither team receives a point. Two balls are served again.
-- If a team has scored the first ball, they may stop play any time they have control of the
-second ball and take one point. If a team elects to take the point, two balls are served to
-begin the next point.
-- A team that scores both goals gets two points and two balls are served again to begin the
-next point.
-- A shot that goes "in and out" does not count as a goal scored in Two-Ball Rollerball and
-play shall continue.
+  2. On the five-man rod, the ball may not strike the side walls, or the side strips if present, more than two times. If the ball strikes the wall a third time, the serve will be awarded to the opposing five-man rod. (Exception: See Rule 23.2.1)
+    
+    1. If the ball becomes stopped near or against the wall it may be bounced off the wall as many times needed to be moved away from the wall, however, once the ball strikes the wall a second time when being moved away from the wall, it must touch another player figure before it may be legally advanced.
 
-31.4 Forward Shoutout
+    2. Rule 23.2.1 will be counted as one of the two times the ball is allowed to strike the wall before it can be advanced and the time of possession shall continue to run.
+    
+    3. Defensive trap – It is not counted as one of the two times the ball is allowed to strike the wall if an opponent's pass or shot is caught by being trapped against the side wall on the five-man rod.
+    
+    4. Following a time-out, any strike the ball makes against the wall prior to touching a second man will not be counted against the allowed two strikes.
 
-Forward Shootout a singles specialty event where the players alternately shoot technical foul shots against
-each other from the three-man rods.
+  3. Passing from the two-man (or three-man goalie rod) to the same teams five-man rod is ruled the same as passing from the 5-man rod, except that, if the ball should strike an opposing team's player figure, the ball may be legally caught on the same teams five-man rod. The three wall violation is not in effect.
+  
+  4. It is legal to have just one hand on the rods when playing defense (example: right hand on defensive five-man). It is also legal to use two hands to move one rod (example: defensive five-man). Excessive switching of the hand between the handles may be judged a distraction.
 
-```
-31.4.1 Ball in Play
-```
-- The first shot of the game is determined by a coin flip with subsequent shots alternating
-between players for the remainder of the game.
-- To begin each shot, the player with possession must follow the ITSF Ready Protocol to
-put the ball into play. Any violation will result in a loss of possession.
-31.4.2 Shooting
-- The ball is considered to have been shot once it leaves the forward's three man rod. The
-ball is considered to have been blocked once the ball has either stopped in or has left the
-goalie area.
-31.4.3 Time Limits
-- Players have a time limit of 15 seconds. The time limits begin one second after the ball
-has touched the second man.
+  5. Penalty for an illegal pass - if a team violates the above rules of passing; the opposing team has the option to continue play from the current position or serve the ball.
 
+## 24. Time of Possession
 
+Possession of the ball shall be limited to 10 seconds on the five-man rod and 15 seconds on all other rods. A player is considered to be in possession of the ball the moment it is within reach of a player figure. Both goalie rods are considered one rod of possession.
+
+  1. A ball is considered to have advanced once it leaves the current rod of possession whether it goes forward or backwards. In the goalie area, the ball is considered advanced once out of reach of the two-man rod or inside the goal.
+
+  2. A spinning ball that is within reach of a player figure shall be considered in that rod's possession and all time limits shall continue, however, if the spinning ball is not within reach, the time limits are not in effect. (See Rule 8.3)
+
+  3. Penalty - penalty for three-man delay is loss of possession to the opposing goalie. Penalty for delay at any other rod is loss of possession to the opposing forward for serve.
+
+## 25. Delay of Game
+
+Play shall be continuous, except during time outs. Continuous shall be defined as no more than 5 seconds duration between a ball scored and the beginning of the ready protocol unless otherwise modified for televised matches. In Multi-table events, players have 5 seconds to assume their positions when switching between tables. A delay of game penalty may only be called by a Referee.
+
+  1. After a team is charged with delay of game play shall resume in at most 10 seconds. At the end of 10 seconds another delay of game call should be made.
+
+  2. The first infraction of this rule is a warning. Subsequent infractions will result in the player being charged with a time out. Example: Player charged with delay of game. If still not ready to resume play after 10 seconds - time out charged. If after the time out still not ready, another 10 seconds - second time out charged
+
+## 26. Recalls and Forfeiture
+
+Once a match has been called, both teams should report immediately to the designated table. If a team has not reported to the table within three minutes, they should be recalled. A team, upon being recalled, must report immediately to the table in order to stop the forfeiture process.
+
+  1. A recall is made every three minutes. Penalty for third and subsequent recalls is forfeiture of each game until the match is over.
+  
+  2. If a team has forfeited any games due to recalls, they get the choice of side or serve once play begins.
+
+  3. Enforcement of this rule is the responsibility of the Tournament Director.
+
+## 27. Technical Fouls
+
+If, in the judgment of an authorized tournament Referee, either team competing in a match is at any time in flagrant or intentional violation of these rules of play, a technical foul may be called on the offending team.
+
+  1. When a technical foul is called, play shall stop and the opponent will be awarded the ball on the three-man rod. Only the player shooting and the player blocking are allowed to stay at the table. One shot will be taken and then play shall stop. If a goal was scored, the ball is served by the team who was scored on. If no goal was scored, play shall resume from where the ball was prior to the technical shot or where specified by rules.
+
+    1. A player is considered to have taken a technical foul shot once the ball has left the three-man rod. A player is considered to have blocked the shot once the ball has either stopped in or left the defender's area.
+
+  2. On a technical foul shot, the ball must be legally put into play before shooting. Furthermore, all rules, including time limits and resets, still apply.
+
+  3. A team may switch positions before and/or after the technical foul shot without being charged with a time out.
+  
+  4. Time outs may be called during a technical shot, as long as they would otherwise be legal
+  
+  5. A point scored on an illegal technical shot shall not be counted. Play shall resume at the rod of possession where the technical foul was called or as specified by rule.
+
+  6. If a technical foul shot ends the game, the opposing team gets the first serve of the next game.
+
+  7. Further violations of a flagrant or intentional nature shall carry additional technical fouls. A third technical foul in any one game shall result in an automatic forfeiture of the game.
+
+  8. The Referee may announce at any time after the first technical foul that further violation by that team may be cause for forfeiture of the game or match.
+
+## 28. Rules Decisions and Appeals
+
+If a controversy involves a question of judgment and a Referee was present at the time the events in question transpired, his decision is final and no appeal may be made. If the controversy involved an interpretation of the rules, or a Referee was not present at the time the events in question transpired, the Referee shall make the most equitable decision possible under the circumstances. Decisions of this nature may be appealed, but it must be done immediately in the manner prescribed below.
+
+  1. In order to appeal a rules interpretation, a player must file that appeal with the Referee before the ball being played at the time of the controversy is put back into play. An appeal concerning the loss of a match must be filed before the team that won has begun its next match.
+
+  2. All rule appeals shall be considered by the Head Official and (if present) at least two members of the officiating staff. All decisions on appeals are final.
+
+  3. A team making an unsuccessful rules appeal of an obvious nature, or a team that questions a judgment call, will be charged with a time out. In addition, the team may also be penalized for delay of game, at the discretion of the Referee.
+
+  4. Arguing with a Referee during a match will not be allowed. Violation of this rule will be grounds for a delay of game penalty and/or a violation of the code of ethics.
+
+## 29. Dress Code
+
+Players who wish to compete in an ITSF sanctioned event must wear proper sporting attire and are expected to uphold the highest level of personal and professional appearance. Enforcement of the dress code is the responsibility of the Tournament Director, the Head Official and/or a member of the ITSF Sporting Commission.
+
+  1. Acceptable sporting attire consists of warm-up jackets and pants, athletic shirts, sport tee shirts, polo shirts, athletic shorts, and athletic shoes. Sport caps, visors, sweatbands, and sport bandanas are also acceptable.
+
+  2. Prohibited attire includes clothing displaying profanity, tank tops, denim or jeans of any kind, as well as cargo pants, cargo shorts, form-fitting Spandex or Lycra pants and shorts. Flip-flops, sandals and non-athletic shoes are also prohibited.
+
+  3. Players are encouraged to have the name of their country clearly displayed on their shirt and jacket. This is mandatory for the top rated players who will also be required to wear patches on their sleeves indicating their World Ranking. It is recommended but not mandatory for the player’s uniform to be in their national colors with their country’s name, flag, and sponsors logos prominently displayed.
+
+  4. The penalty for violating the dress code may be forfeiture of a game or match. If a player is in violation of the dress code during a match he must change into acceptable attire before play can continue and the team will be charged with delay of game (See Rule 25).
+
+## 30. Tournament Director
+
+The administration of tournament play shall be the responsibility of the Tournament Director. This includes making the draws, scheduling the events, timing matches, etc. The decision of the Tournament Director in such matters is final. 
+
+  1. All matters pertaining to rules of play (appointing Referees, handling appeals, etc.) shall be the responsibility of the Head Official. The Tournament Director is responsible for appointing the Head Official.
+
+  2. In every sanctioned ITSF tournament the Tournament Director is subordinate to the ITSF Sport Commission.
+
+## 31. Side events
+
+### 31.1 Goalie War
+
+Goalie War is a singles specialty event where the three-man and five-man rods are lifted and the player shoot against each other from the goalie positions.
+
+#### 31.1.1 The Serve
+
+  - To begin play, the ball must be moved from one player figure to another but may not be directly advanced from the second figure. After contacting the second player figure, the ball may be directly advanced by any other player figure.
+  - The player does not have to stop the ball or wait prior to advancing the ball. The ball is considered to be in play and the time limits begin the moment the ball contacts the second player figure.
+  - Violation is loss of possession.
+
+#### 31.1.2 Possession
+
+A player is considered to be in possession of the ball when it’s within reach of the goalie rods. Possession in the goalie area extends from the end of where the two-man rod reaches back to the goal. The center of the table is the remaining area of play.
+
+  - During play, if the ball goes off the table or becomes dead between the two-man rods, it will be put back into play by the opponent of the player who had the last possession.
+  - If the ball goes dead in the goalie area, it shall be put back into play from the goalie area of where the ball went dead.
+  - A ball that strikes any rod, player figure, or bumper in the center of the table is still considered to be in play. These rods do not affect possession of the ball.
+
+#### 31.1.3 Time Limits
+
+Once the ball is put into play, the player has a ten second time limit to advance the ball. If the ball stops for more than three seconds, or is pinned for more than one second, it must touch another player figure before it may be legally advanced. Violation of any part of this rule is loss of possession to the opposing player.
+
+### 31.2 Four on Four
+
+Four on Four is a specialty event with four players on each side of the table with each player controlling one rod with one hand. Players may not switch hands once the ball is put into play.
+
+#### 31.2.1 Change of Positions
+
+  - If a team scores a point, they must rotate positions before the ball is put into play. The player on the three-man rod shall move to the goalie-rods and the rest of the players shall move forward one rod.
+  - A team may change their assembled positions before the match begins or between games. Once a game has begun, teams must maintain the same order of rotation for the remainder of the game.
+
+#### 31.2.2 Legal Shots
+
+  - The game is played Rollerball style, i.e., a ball may not be pinned for more than three seconds or stopped for more than one second. There is a ten second time limit per rod.
+  - Once a ball is stopped or pinned it must touch another player figure before it may be legally advanced.
+  - If a point is scored illegally, the ball shall be served by the opposing team.
+
+### 31.3 Two-Ball Rollerball
+
+Two-Ball Rollerball is a specialty event that is played with two balls served simultaneously to begin play. 
+
+#### 31.3.1 Time Limits
+
+  - There is a ten second time limit per rod and the ball may not be pinned or stopped for more than one second.
+  - If a ball is pinned or stopped for more than one full second with two balls in play, both balls shall be served again. If there is only one ball in play, it will be served by the opposing team.
+  - A shot may be scored directly from a pinned or stopped position if done immediately and within the one second time limit.
+
+#### 31.3.2 Serving the Ball
+
+  - If there is a serving hole present, each forward shall serve a ball through the hole on the count of three. Both balls should hit the playfield within one second of each other.
+  - If no serving hole is present, both defensive players shall simultaneously release the ball from the near corner of the goalie area within one second of the count of three.
+  - If a ball goes off the table without any goals being scored, both balls shall be served again. Otherwise, the team scored upon shall serve the remaining ball.
+
+#### 31.3.3 Scoring
+  - If each team scores a goal, then neither team receives a point. Two balls are served again.
+  - If a team has scored the first ball, they may stop play any time they have control of the second ball and take one point. If a team elects to take the point, two balls are served to begin the next point.
+  - A team that scores both goals gets two points and two balls are served again to begin the next point.
+  - A shot that goes "in and out" does not count as a goal scored in Two-Ball Rollerball and play shall continue.
+
+### 31.4 Forward Shoutout
+
+Forward Shootout a singles specialty event where the players alternately shoot technical foul shots against each other from the three-man rods.
+
+#### 31.4.1 Ball in Play
+
+  - The first shot of the game is determined by a coin flip with subsequent shots alternating between players for the remainder of the game.
+  - To begin each shot, the player with possession must follow the ITSF Ready Protocol to put the ball into play. Any violation will result in a loss of possession.
+
+#### 31.4.2 Shooting
+
+  - The ball is considered to have been shot once it leaves the forward's three man rod. The ball is considered to have been blocked once the ball has either stopped in or has left the goalie area.
+
+#### 31.4.3 Time Limits
+
+  - Players have a time limit of 15 seconds. The time limits begin one second after the ball has touched the second man.
