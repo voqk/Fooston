@@ -316,440 +316,227 @@ the ball into play.
 Following the first serve of a match, subsequent serves shall be made by the team last scored upon. The first serve in
 subsequent games of a multi-game match shall be made by the team that lost the preceding game.
 
-```
-5.1 If the ball is served by the wrong team, and the violation is discovered before the ball is scored, play shall
-be stopped and the ball shall be served by the proper team. Once the ball is scored, no protests shall be
-allowed, and play shall continue as if no infraction had been committed.
-```
-```
-5.2 If a team is awarded possession because the opposing team is penalized for a rules infraction and the ball
-subsequently goes dead between the five-man rods it shall be served by the team who originally served that
-ball.
-```
-#### 6. Ball in Play..............................................................................................................................
+  1. If the ball is served by the wrong team, and the violation is discovered before the ball is scored, play shall be stopped and the ball shall be served by the proper team. Once the ball is scored, no protests shall be allowed, and play shall continue as if no infraction had been committed.
+  
+  2. If a team is awarded possession because the opposing team is penalized for a rules infraction and the ball subsequently goes dead between the five-man rods it shall be served by the team who originally served that ball.
+
+## 6. Ball in Play
 
 Once a ball is put into play it shall remain in play until the ball is hit off the table, a dead ball is declared, time out is called, or a
 point is scored.
 
-#### 7. Ball Off the Table...................................................................................................................
+## 7. Ball Off the Table
 
 If the ball leaves the playing area and strikes the score markers, light fixture, or any object that is not part of the table, or if the
 ball rolls or comes to rest on the top of the cabinet, it shall be declared off the table. Otherwise, if the ball hits the top of the side
 rails or cabinet ends and subsequently returns to the playing surface, the ball is still in play.
 
-```
-7.1 The play area shall be defined as the area above the playing surface to the height of the sideboards of the cabinet.
-The top of the side rails and cabinet ends are only in play if the ball returns to the playing surface.
-```
-```
-7.2 If the ball enters the serving hole (if present) and returns to the playfield it is still considered to be "in play." If the
-ball remains in the serving hole, it will be treated as a dead ball between the five-man rods.
-```
-```
-7.3 If a player advances the ball and it subsequently goes off the table, it will be put back into play at the opposing
-team’s goalie rods. A defensive player is not considered to have advanced the ball if it goes off the table as a result of
-blocking or reacting to a blocked pass or shot.
-```
-```
-7.4 A player may not perform any shot that causes the ball to lob or volley over the opponent’s rods (Example: Aerial
-Shot). It is not considered a penalty if a shot, which leaves the current rod of possession, deflects off another rod and
-then goes airborne.
-```
-```
-7.5 Penalty for violating rule 7.4 is loss of possession to opponent’s five-man rod for serve.
-```
-#### 8. Dead Ball.................................................................................................................................
+  1. The play area shall be defined as the area above the playing surface to the height of the sideboards of the cabinet. The top of the side rails and cabinet ends are only in play if the ball returns to the playing surface.
+
+  2. If the ball enters the serving hole (if present) and returns to the playfield it is still considered to be "in play." If the ball remains in the serving hole, it will be treated as a dead ball between the five-man rods.
+  
+  3. If a player advances the ball and it subsequently goes off the table, it will be put back into play at the opposing team’s goalie rods. A defensive player is not considered to have advanced the ball if it goes off the table as a result of blocking or reacting to a blocked pass or shot.
+
+  4. A player may not perform any shot that causes the ball to lob or volley over the opponent’s rods (Example: Aerial Shot). It is not considered a penalty if a shot, which leaves the current rod of possession, deflects off another rod and then goes airborne.
+  
+  5. Penalty for violating rule 7.4 is loss of possession to opponent’s five-man rod for serve.
+
+## 8. Dead Ball
 
 A ball shall be declared a dead ball when it has completely stopped its motion and is not within reach of any player figure.
 
-```
-8.1 If the ball is declared dead anywhere between the five-man rods, it shall be put back into play at the five-man rod
-by the team who originally served the ball. (See Rule 4).
-```
-```
-8.2 If the ball is declared dead between the goal and five-man rods, it shall be put back into play at the two-man rod
-nearest the spot of the dead ball. Play shall resume using the “Ready” Protocol (See Rule 4).
-```
-```
-8.3 In the goalie area, if the ball is spinning in place but out of reach of any player figure it is not considered a dead
-ball and time limits shall be suspended until the ball either moves within reach or goes dead.
-```
-```
-8.4 A ball that is intentionally made dead shall be awarded to the opposing team for a serve. (Example: pushing the
-ball from the bottom until out of reach)
-```
+  1. If the ball is declared dead anywhere between the five-man rods, it shall be put back into play at the five-man rod by the team who originally served the ball. (See Rule 4).
 
-```
-9
-```
-#### 9. Time Out.................................................................................................................................
+  2. If the ball is declared dead between the goal and five-man rods, it shall be put back into play at the two-man rod nearest the spot of the dead ball. Play shall resume using the “Ready” Protocol (See Rule 4).
+
+  3. In the goalie area, if the ball is spinning in place but out of reach of any player figure it is not considered a dead ball and time limits shall be suspended until the ball either moves within reach or goes dead.
+
+  4. A ball that is intentionally made dead shall be awarded to the opposing team for a serve. (Example: pushing the ball from the bottom until out of reach)
+
+## 9. Time Out
 
 Each team is allowed two time outs per game during which the players may leave the table. Such time outs shall not exceed 30
 seconds. If the ball is in play, time out may only be called by the team in possession of the ball. If the ball is not in play, either
 team may call time out.
 
-```
-9.1 Either team may take the full 30 seconds, even if the team that called the time out does not wish to take the full
-allotment.
-```
-```
-9.2 In any doubles event, either team may switch positions during a time out. (See Rule 14.1)
-```
-```
-9.3 A time out called between games shall count towards the number of time-outs allowed in the following game.
-```
-```
-9.4 A player who removes both hands from the handles and turns completely away from the table while the ball is in
-play shall be deemed to have requested a time out.
-```
-```
-9.4.1 A player can take his hands from the handles to wipe them off before a shot, as long as this takes no more
-than two or three seconds. All time limits continue to run while the player wipes his hands. The team on defense
-should not relax if the opponent takes his hand(s) off the rod.
-```
-```
-9.4.2 Once the hand/wrist is replaced on the rod, a shot or pass may not be attempted until one full second has
-elapsed.
-```
-```
-9.5 If the team with the ball attempts a shot or pass immediately after requesting a time out, the play shall not count
-and the team shall be charged with a distraction rather than a time out. (See Rule 20)
-```
-```
-9.6 If the team in possession of the ball calls time out while the ball is in play and moving, the time out will not begin
-until the ball has completely stopped. If the time of possession expires before the ball completely stops, the team shall
-be penalized according to Rule 24.3.
-```
-```
-9.6.1 If the team not in possession of the ball calls a time out when the ball is in play, that team shall be charged
-with a distraction. (See Rule 20)
-```
-```
-9.6. 2 If the ball falls into the same team’s goal after requesting a time out, the point shall count for the opposing
-team.
-```
-```
-9.7 If a team is not ready to play at the end of the 30 second period, that team shall be charged with delay of game (See
-Rule 25).
-```
-```
-9.8 A team requesting more than two time outs per game shall be issued a warning and the request will be denied. If
-the team is in possession of the ball and the ball is in play they shall lose possession to the opposing five-man rod for
-serve. Subsequent requests will result in a technical foul.
-```
-```
-9.8.1 A team that is charged with more than two time outs in a game due to delay of game, requesting a second
-Referee during play, losing an appeal, or any other reason will result in a technical foul.
-```
-```
-9.9 Once a player begins to put the ball back into play following a time out (by moving the ball), another time out may
-not be called until the ball has left the current rod of possession. Both goalie rods are considered as one rod.
-```
-```
-9.9.1 The Penalty for violation of rule 9.9 is loss of possession to the opposing goalie. The team shall not be
-charged with a time out.
-```
-```
-9.10 During a time out a player may reach into the play area to lubricate the rods, wipe the playfield, etc. The ball may
-be picked up by hand as long as permission is granted by the opponent and is returned to its original position before
-resuming play. A request to move or pick the ball up can be declined by the opposing team or by the Referee if present
-at the table (e.g. when the ball is near the edge of the goal).
-```
-```
-9.10.1 If a player picks the ball up after the request has been declined the ball will be awarded to the opponent’s
-five-man rod for serve. If the ball is on the edge of the same team’s goal, a point will be scored for the opponent.
-```
+  1. Either team may take the full 30 seconds, even if the team that called the time out does not wish to take the full allotment.
 
-```
-10
-```
-```
-9.10.2 If the team not in possession touches the ball or picks it up without permission, they will be charged with a
-technical foul.
-```
-## 10. Resuming Play After a Time Out.......................................................................................
+  2. In any doubles event, either team may switch positions during a time out. (See Rule 14.1)
+
+  3. A time out called between games shall count towards the number of time-outs allowed in the following game.
+
+  4. A player who removes both hands from the handles and turns completely away from the table while the ball is in play shall be deemed to have requested a time out.
+
+    1. A player can take his hands from the handles to wipe them off before a shot, as long as this takes no more than two or three seconds. All time limits continue to run while the player wipes his hands. The team on defense should not relax if the opponent takes his hand(s) off the rod.
+
+    2. Once the hand/wrist is replaced on the rod, a shot or pass may not be attempted until one full second has elapsed.
+
+5. If the team with the ball attempts a shot or pass immediately after requesting a time out, the play shall not count and the team shall be charged with a distraction rather than a time out. (See Rule 20)
+
+6. If the team in possession of the ball calls time out while the ball is in play and moving, the time out will not begin until the ball has completely stopped. If the time of possession expires before the ball completely stops, the team shall be penalized according to Rule 24.3.
+
+  1. If the team not in possession of the ball calls a time out when the ball is in play, that team shall be charged with a distraction. (See Rule 20)
+
+  2. If the ball falls into the same team’s goal after requesting a time out, the point shall count for the opposing team.
+
+7. If a team is not ready to play at the end of the 30 second period, that team shall be charged with delay of game (See Rule 25).
+
+8. A team requesting more than two time outs per game shall be issued a warning and the request will be denied. If the team is in possession of the ball and the ball is in play they shall lose possession to the opposing five-man rod for serve. Subsequent requests will result in a technical foul.
+
+  1. A team that is charged with more than two time outs in a game due to delay of game, requesting a second Referee during play, losing an appeal, or any other reason will result in a technical foul.
+
+9. Once a player begins to put the ball back into play following a time out (by moving the ball), another time out may not be called until the ball has left the current rod of possession. Both goalie rods are considered as one rod.
+
+  1. The Penalty for violation of rule 9.9 is loss of possession to the opposing goalie. The team shall not be charged with a time out.
+
+10. During a time out a player may reach into the play area to lubricate the rods, wipe the playfield, etc. The ball may be picked up by hand as long as permission is granted by the opponent and is returned to its original position before resuming play. A request to move or pick the ball up can be declined by the opposing team or by the Referee if present at the table (e.g. when the ball is near the edge of the goal).
+
+  1. If a player picks the ball up after the request has been declined the ball will be awarded to the opponent’s five-man rod for serve. If the ball is on the edge of the same team’s goal, a point will be scored for the opponent.
+
+  2. If the team not in possession touches the ball or picks it up without permission, they will be charged with a technical foul.
+
+## 10. Resuming Play After a Time Out
 
 Following a time out, the ball shall be put back into play at the rod of possession where the time out was called.
 
-```
-10.1 The Ready Protocol must be followed when resuming play following a time out. (See Rule 4.2)
-```
-```
-10.1.1 As soon as the player in possession puts his hands back on the handles, if the ball leaves the
-current rod before the procedure of putting the ball back into play has begun, the opponent has the choice
-to continue play from the current position or to serve the ball.
-```
-```
-10.2 If the ball was not in play when the time out was called, the ball shall be put back into play by the team
-legally entitled to do so according to the rules.
-```
-```
-10.2.1 If the time-out was called between balls (after a goal is scored but before the next ball is served)
-the ball shall be served on the 5-rod by the team which was last scored upon.
-```
-```
-10.3 The penalty for illegally putting the ball back into play is the opponent's choice to continue play from the
-current position or serve the ball.
-```
-## 11. Official Time Out.................................................................................................................
+  1. The Ready Protocol must be followed when resuming play following a time out. (See Rule 4.2)
+    
+    1. As soon as the player in possession puts his hands back on the handles, if the ball leaves the current rod before the procedure of putting the ball back into play has begun, the opponent has the choice to continue play from the current position or to serve the ball.
+
+  2. If the ball was not in play when the time out was called, the ball shall be put back into play by the team legally entitled to do so according to the rules.
+
+    1. If the time-out was called between balls (after a goal is scored but before the next ball is served) the ball shall be served on the 5-rod by the team which was last scored upon.
+
+  3. The penalty for illegally putting the ball back into play is the opponent's choice to continue play from the current position or serve the ball.
+
+## 11. Official Time Out
 
 An Official Time Out does not count towards the two time outs allowed per team per game. After an Official Time Out, the ball
 is put back into play as though a regular Time Out was called.
 
-```
-11.1 If a Referee is not present at the start of the match, and a dispute arises during play, either team may
-request a Referee. Such a request can be made at any point during the match that the ball is stopped or dead.
-```
-```
-11.1.1 The first request for a Referee is considered an Official Time Out.
-```
-```
-11.1.2 If the defensive team makes a request for a Referee while the ball is in play and stopped,
-and the offensive team simultaneously attempts a pass or shot, the request for a time out will be
-treated as a distraction by the defensive team. Likewise, a request for a Referee while the ball is
-in motion will also be considered a distraction.
-```
-```
-11.2 Once play has resumed with a Referee at the table, any player requesting a second Referee will
-automatically be charged with a time out. Such a request may only be made during a dead ball or when the
-ball is not in play. The penalty for requesting another Referee while the ball is in play is a technical foul.
-```
-```
-11.2.1 If play has resumed with two Referees at the table any request to replace a Referee will
-be decided by the Head Official or Tournament Organizer. If the request is denied, the player
-shall be charged with a technical foul.
-```
-```
-11.3 A team may not switch positions during an Official Time Out, unless they are otherwise entitled to do so
-(see 14).
-```
-```
-11.4 Table Maintenance – Table maintenance should be requested before the start of the match. Once the
-match has begun, the only time an Official Time Out for table maintenance may be called is for a sudden
-alteration to the table, such as a broken man, broken screw or pin, defective bumper, bent rod, etc.
-```
-```
-11.4.1 If a player figure is broken while in contact with the ball, an Official Time Out will be
-declared while the rod is fixed. Play will resume on the rod where the player figure broke.
-```
-```
-11.4.2 If the table lighting fails, play shall immediately stop at that point (as though an Official
-Time Out were called).
-```
-```
-11.4.3 Routine maintenance, such as lubricating the rods, etc., should only be done during time
-outs and between games.
-```
+  1. If a Referee is not present at the start of the match, and a dispute arises during play, either team may request a Referee. Such a request can be made at any point during the match that the ball is stopped or dead.
+  
+    1. The first request for a Referee is considered an Official Time Out.
 
-```
-11
-```
-```
-11.5 Foreign objects on field of play - if an object should fall on the playfield, play shall immediately stop at
-that point and the object shall be removed. Play shall resume from the rod where the ball was when the object
-hit the playfield. There should be nothing on the ends of the table that could fall onto the playfield. If the ball
-is in motion it will be put back into play by the player who had last possession.
-```
-```
-11.5.1 If the ball comes into contact with a foreign object on the playfield that was overlooked play shall
-stop and the object shall be removed. Play shall continue at the rod of possession when play was stopped.
-```
-```
-11.6 Medical time out - a player or team may request a medical time out. This request must be approved by
-the Tournament Director, the Head Official, or the referee of the match if the medical necessity is evident.
-They will determine the length of the medical time out, up to a maximum or 60 minutes. A player who is
-physically unable to continue playing after that time must forfeit the match.
-```
-```
-11.6. 1 If the request for a medical time out is denied, the player will be charged with a time out.
-The player may also be penalized for delay of game (see 25), at the discretion of the Referee at
-the table.
-```
-## 12. Point Scored..........................................................................................................................
+    2. If the defensive team makes a request for a Referee while the ball is in play and stopped, and the offensive team simultaneously attempts a pass or shot, the request for a time out will be treated as a distraction by the defensive team. Likewise, a request for a Referee while the ball is in motion will also be considered a distraction.
+
+  2. Once play has resumed with a Referee at the table, any player requesting a second Referee will automatically be charged with a time out. Such a request may only be made during a dead ball or when the ball is not in play. The penalty for requesting another Referee while the ball is in play is a technical foul.
+
+    1. If play has resumed with two Referees at the table any request to replace a Referee will be decided by the Head Official or Tournament Organizer. If the request is denied, the player shall be charged with a technical foul.
+
+  3. A team may not switch positions during an Official Time Out, unless they are otherwise entitled to do so (see 14).
+
+  4. Table Maintenance – Table maintenance should be requested before the start of the match. Once the match has begun, the only time an Official Time Out for table maintenance may be called is for a sudden alteration to the table, such as a broken man, broken screw or pin, defective bumper, bent rod, etc.
+
+    1. If a player figure is broken while in contact with the ball, an Official Time Out will be declared while the rod is fixed. Play will resume on the rod where the player figure broke.
+    
+    2. If the table lighting fails, play shall immediately stop at that point (as though an Official Time Out were called).
+
+    3. Routine maintenance, such as lubricating the rods, etc., should only be done during time outs and between games.
+
+  5. Foreign objects on field of play - if an object should fall on the playfield, play shall immediately stop at that point and the object shall be removed. Play shall resume from the rod where the ball was when the object hit the playfield. There should be nothing on the ends of the table that could fall onto the playfield. If the ball is in motion it will be put back into play by the player who had last possession.
+    
+    1. If the ball comes into contact with a foreign object on the playfield that was overlooked play shall stop and the object shall be removed. Play shall continue at the rod of possession when play was stopped.
+
+  6. Medical time out - a player or team may request a medical time out. This request must be approved by the Tournament Director, the Head Official, or the referee of the match if the medical necessity is evident. They will determine the length of the medical time out, up to a maximum or 60 minutes. A player who is physically unable to continue playing after that time must forfeit the match.
+
+    1. If the request for a medical time out is denied, the player will be charged with a time out. The player may also be penalized for delay of game (see 25), at the discretion of the Referee at the table.
+
+## 12. Point Scored
 
 A ball entering the goal shall count as a point, as long as it was legally scored. A ball which enters the goal but returns to the
 playing surface and/or leaves the table still counts as a goal.
 
-```
-12.1 If a point is not counted on the scoring markers and both teams agree that it was previously scored and
-inadvertently not marked up, the point shall count. If both teams do not agree that a point was scored and not
-marked up that point shall not be counted. Once the next game (or match) has begun no appeal can be made
-and the point shall not count.
-```
-```
-12.2 If there is a controversy over whether or not the ball entered the goal, a Referee should be called to make
-a ruling. The Referee may make a ruling based on information received by the players and/or spectators. If
-the information gathered is inconclusive the point shall not count.
-```
-```
-12.3 Any team intentionally marking up a point not scored shall not get credit for the point illegally marked
-up and shall be charged with a technical foul. Further violations of this rule will be grounds for forfeiture of
-game or match (to be determined by the Head Official).
-```
-## 13. Table Sides............................................................................................................................
+  1. If a point is not counted on the scoring markers and both teams agree that it was previously scored and inadvertently not marked up, the point shall count. If both teams do not agree that a point was scored and not marked up that point shall not be counted. Once the next game (or match) has begun no appeal can be made and the point shall not count.
+
+  2. If there is a controversy over whether or not the ball entered the goal, a Referee should be called to make a ruling. The Referee may make a ruling based on information received by the players and/or spectators. If the information gathered is inconclusive the point shall not count.
+
+  3. Any team intentionally marking up a point not scored shall not get credit for the point illegally marked up and shall be charged with a technical foul. Further violations of this rule will be grounds for forfeiture of game or match (to be determined by the Head Official).
+
+## 13. Table Sides
 
 After each game is completed, teams have a 90 second time limit to begin the next game. If teams agree to switch sides of the
 table after the first game, they must continue to switch sides between games for the remainder of the match. If the teams decide
 not to switch sides after the first game, they must stay on the same sides for the remainder of the match.
 
-```
-13.1 If both teams wish to resume play before the full time has elapsed, play shall continue and the remainder
-of the 90 seconds is then forfeited.
-```
-```
-13.2 If a team, is not ready to play at the end of the 90 second period, that team shall be charged with delay of
-game. (See Rule 25)
-```
-```
-13.3 The Tournament Organizer may require teams to remain on the same sides during televised or recorded
-matches.
-```
-## 14. Change of Positions..............................................................................................................
+1. If both teams wish to resume play before the full time has elapsed, play shall continue and the remainder of the 90 seconds is then forfeited.
+
+2. If a team, is not ready to play at the end of the 90 second period, that team shall be charged with delay of game. (See Rule 25)
+
+3. The Tournament Organizer may require teams to remain on the same sides during televised or recorded matches.
+
+## 14. Change of Positions
 
 In any doubles event, players may only play the two rods normally designated for his position. Once the ball is put into play,
 the players must play the same position until a point is scored, a team requests a time out, or a technical foul is called.
 
-```
-14.1 Either team may switch positions during a time out, between points, between games, or before and/or
-after a technical foul shot.
-```
-```
-14.2 If either team switches positions, they may not switch back until after the ball has been put back into
-play or a time out has been called. However, if the team in possession switches, the opposing team may also
-switch positions regardless of whether they have previously switched.
-```
+  1. Either team may switch positions during a time out, between points, between games, or before and/or after a technical foul shot.
 
-```
-12
-```
-```
-14.2.1 A team is considered to have switched positions once both players are in their respective
-positions facing the table regardless of whether or not they have touched the handles.
-```
-```
-14.3 Illegally switching positions while the ball is in play will be judged a distraction and the players must
-return to their original positions.
-```
-```
-14.3.1 In any doubles event any player placing their hand on any rod normally designated as one
-played by their partner while the ball is in play shall be judged as a distraction violations.
-```
-Paralympic Events
-In Singles, the players may move their wheelchairs between the forward and goalie positions and the ball may be directly
-advanced without having to wait for the opponent to get into position. Once the ball is stopped or under control of the three-
-man rod, the player must wait for the opponent to get into their defensive position before resuming play. The Ready Protocol
-must be followed when resuming play.
+  2. If either team switches positions, they may not switch back until after the ball has been put back into play or a time out has been called. However, if the team in possession switches, the opposing team may also switch positions regardless of whether they have previously switched.
 
-```
-14.4 The opponent is allowed 3 seconds to reach back and grasp the defensive rods and 5 seconds to move into the
-defensive position before play may resume. Players are encouraged to employ good sportsmanship if an opponent
-requires more than 5 seconds due to issues with wheelchair movement.
-```
-```
-14.5 Violation of this rule is loss of possession and the ball shall be served at the opposing five-man rod.
-```
-## 15. Spinning the Rods................................................................................................................
+    1. A team is considered to have switched positions once both players are in their respective positions facing the table regardless of whether or not they have touched the handles.
 
-Spinning of the rods is illegal. Spinning is defined as the rotation of any soccer figure more than 360 degrees before or more
-than 360° after striking the ball. In calculating the 360° you do not add the degrees spun prior to striking the ball to the degrees
-spun after striking the ball.
+  3. Illegally switching positions while the ball is in play will be judged a distraction and the players must return to their original positions.
+    
+    1. In any doubles event any player placing their hand on any rod normally designated as one played by their partner while the ball is in play shall be judged as a distraction violations.
 
-```
-15.1 If a ball is advanced by an illegal spin the opposing team will have the option of continuing play from
-the current position or to serve the ball.
-```
-```
-15.2 Spinning of a rod which does not advance and/or strike the ball does not constitute an illegal spin. If a
-player's spinning rod hits the ball backwards into his own goal, it will count as a goal for the opposing team.
-Spinning of a rod away from the ball (when there is no possession) is not considered an illegal spin, but may
-be ruled as a distraction.
-```
-```
-15.3 If an ungrasped rod is spun by the force of a ball hitting a player figure on the rod, the spin will be
-considered legal (example: a two-man shot in singles hitting the three-man).
-```
-## 16. Jarring...................................................................................................................................
+    ### ♿ Paralympic Events
+    In Singles, the players may move their wheelchairs between the forward and goalie positions and the ball may be directly
+    advanced without having to wait for the opponent to get into position. Once the ball is stopped or under control of the three-
+    man rod, the player must wait for the opponent to get into their defensive position before resuming play. The Ready Protocol
+    must be followed when resuming play.
 
-Any banging of the side walls or movement of the table that causes the opponent to lose possession or prevents them from
-catching the ball is considered a jarring infraction. Simultaneous bumping of the wall, as part of a pass or shot, is not considered
-jarring unless there was excessive force that clearly prevented the opponent from gaining possession. Jars are accumulated for
-the entire match.
+  4. The opponent is allowed 3 seconds to reach back and grasp the defensive rods and 5 seconds to move into the defensive position before play may resume. Players are encouraged to employ good sportsmanship if an opponent requires more than 5 seconds due to issues with wheelchair movement.
 
-```
-16.1 Any touching or contacting of the opponent's rods that causes them to lose possession or prevents them
-from catching the ball will be considered a jarring infraction. Contacting an opponent’s rod that does not
-affect possession will be ruled a distraction.
-```
-```
-16.2 Jarring of the table or excessively recoiling the rod after scoring a shot may be ruled unsportsmanlike
-behavior if done so in a disrespecting manner directed at the opponent. Slamming the rod after a shot while
-the ball is still in play may be considered jarring.
-```
-```
-16.3 It is illegal for the player in possession of the ball to slam the rods into the side of the table in order to
-move the ball away from the wall. The first offense is a warning and subsequent violations will be loss of
-possession to the opposing five-man rod. This is not considered a jarring infraction.
-```
-16. 4 The penalty for the first and second jarring infraction is the opponent’s option to continue play from the
-current position, from the rod where the jar was called, or they may serve the ball. Subsequent violations will
-be a Technical foul.
+  5. Violation of this rule is loss of possession and the ball shall be served at the opposing five-man rod.
 
+## 15. Spinning the Rods
 
-```
-13
-```
-## 17. Reset......................................................................................................................................
+Spinning of the rods is illegal. Spinning is defined as the rotation of any soccer figure more than 360 degrees before or more than 360° after striking the ball. In calculating the 360° you do not add the degrees spun prior to striking the ball to the degrees spun after striking the ball.
 
-If a defensive player bumps or shakes the table enough to impair the opponent’s ability to control the ball or execute a pass or
-shot, the Referee present will say “reset” and the time of possession plus number of times the ball struck the wall shall be reset.
-The player with the ball is not required to stop play so the defensive player should not relax or look up at the Referee when the
-call is made.
+  1. If a ball is advanced by an illegal spin the opposing team will have the option of continuing play from the current position or to serve the ball.
+  
+  2. Spinning of a rod which does not advance and/or strike the ball does not constitute an illegal spin. If a player's spinning rod hits the ball backwards into his own goal, it will count as a goal for the opposing team. Spinning of a rod away from the ball (when there is no possession) is not considered an illegal spin, but may be ruled as a distraction.
 
-```
-17.1 A ball slightly rocking in place is not considered a reset unless it moves from its set position. A reset can
-be called if the ball is pinned or moving if the Referee determines that the player’s ability to control the ball
-or execute a pass or shot has been affected by the opponent.
-```
-17. 2 If a reset is called prior to a pass attempt from the five-man rod and the Referee deems that the reset
-caused the player to lose the ball or not complete the pass, the ball may be awarded back to the player’s five-
-man rod. This will not be considered a Jarring infraction.
+  3. If an ungrasped rod is spun by the force of a ball hitting a player figure on the rod, the spin will be considered legal (example: a two-man shot in singles hitting the three-man).
 
-```
-17.3 A reset call is not considered a distraction and the player with the ball may shoot immediately. The
-defensive team should not relax or look at the Referee upon hearing the word "reset," but rather should stay
-on defense.
-```
-17. 4 A reset caused from behind the rod of possession shall not be considered a reset violation but will be
-considered a jarring infraction. (Example: if the opposing forward is judged to have reset his opponent when
-the opponent has the ball on the three-man rod.)
+## 16. Jarring
 
-```
-17.5 An intentional reset by the team in possession of the ball for the purposes of attempting to get a reset call
-from the Referee shall not be allowed. The team judged to be in violation of this rule shall lose possession
-and the ball shall be served by the opposing team (This is not counted as a reset).
-```
-```
-17.6 After a team is called for their first reset in a game, a team causing two subsequent resets during the
-same point will be charged with a technical foul. Once the first reset call is made, upon the next violation the
-Referee present will call “reset warning” or just “warning”. If there is another reset violation on the same ball
-following a reset warning a technical foul shall be called.
-```
-```
-17.6.1 If a technical foul is called for excessive resets, the next reset call shall not result in a
-technical foul.
-```
-```
-17.6.2 Resets are charged per team not per player and are also charged per game not per match.
-```
-```
-17.7 If the defender intentionally jars the table, this will not be considered a reset, and jarring will be called
-immediately.
-```
-## 18. Reaching Into the Playing Area..........................................................................................
+Any banging of the side walls or movement of the table that causes the opponent to lose possession or prevents them from catching the ball is considered a jarring infraction. Simultaneous bumping of the wall, as part of a pass or shot, is not considered jarring unless there was excessive force that clearly prevented the opponent from gaining possession. Jars are accumulated for the entire match.
 
-It is illegal for a player to reach into the play area while the ball is in play without first having permission from the opposing
-team or Referee whether he touches the ball or not. However, whenever the opposing team or Referee grants a player
-permission to reach into the playing area, it is legal for the player to do so.
+  1. Any touching or contacting of the opponent's rods that causes them to lose possession or prevents them from catching the ball will be considered a jarring infraction. Contacting an opponent’s rod that does not affect possession will be ruled a distraction.
+
+  2. Jarring of the table or excessively recoiling the rod after scoring a shot may be ruled unsportsmanlike behavior if done so in a disrespecting manner directed at the opponent. Slamming the rod after a shot while the ball is still in play may be considered jarring.
+
+  3. It is illegal for the player in possession of the ball to slam the rods into the side of the table in order to move the ball away from the wall. The first offense is a warning and subsequent violations will be loss of possession to the opposing five-man rod. This is not considered a jarring infraction.
+
+  4. The penalty for the first and second jarring infraction is the opponent’s option to continue play from the current position, from the rod where the jar was called, or they may serve the ball. Subsequent violations will be a Technical foul.
+
+## 17. Reset
+
+If a defensive player bumps or shakes the table enough to impair the opponent’s ability to control the ball or execute a pass or shot, the Referee present will say “reset” and the time of possession plus number of times the ball struck the wall shall be reset. The player with the ball is not required to stop play so the defensive player should not relax or look up at the Referee when the call is made.
+
+  1. A ball slightly rocking in place is not considered a reset unless it moves from its set position. A reset can be called if the ball is pinned or moving if the Referee determines that the player’s ability to control the ball or execute a pass or shot has been affected by the opponent.
+
+  2. If a reset is called prior to a pass attempt from the five-man rod and the Referee deems that the reset caused the player to lose the ball or not complete the pass, the ball may be awarded back to the player’s five-man rod. This will not be considered a Jarring infraction.
+
+  3. A reset call is not considered a distraction and the player with the ball may shoot immediately. The defensive team should not relax or look at the Referee upon hearing the word "reset," but rather should stay on defense.
+
+  4. A reset caused from behind the rod of possession shall not be considered a reset violation but will be considered a jarring infraction. (Example: if the opposing forward is judged to have reset his opponent when the opponent has the ball on the three-man rod.)
+
+  5. An intentional reset by the team in possession of the ball for the purposes of attempting to get a reset call from the Referee shall not be allowed. The team judged to be in violation of this rule shall lose possession and the ball shall be served by the opposing team (This is not counted as a reset).
+  
+  6. After a team is called for their first reset in a game, a team causing two subsequent resets during the same point will be charged with a technical foul. Once the first reset call is made, upon the next violation the Referee present will call “reset warning” or just “warning”. If there is another reset violation on the same ball following a reset warning a technical foul shall be called.
+
+    1. If a technical foul is called for excessive resets, the next reset call shall not result in a technical foul.
+
+    2. Resets are charged per team not per player and are also charged per game not per match.
+
+  7. If the defender intentionally jars the table, this will not be considered a reset, and jarring will be called immediately.
+
+## 18. Reaching Into the Playing Area
+
+It is illegal for a player to reach into the play area while the ball is in play without first having permission from the opposing team or Referee whether he touches the ball or not. However, whenever the opposing team or Referee grants a player permission to reach into the playing area, it is legal for the player to do so.
 
 ```
 18.1 A spinning ball is considered "in-play," even if it is not in reach of a player figure. It is illegal to reach
