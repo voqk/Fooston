@@ -11,6 +11,7 @@ categories: []
 slug: ""
 aliases: []
 toc: true
+draft: true
 ---
 
 [www.tablesocer.org](www.tablesoccer.org)

@@ -1,32 +1,31 @@
 ---
 title: "Contents"
-date: 2017-09-05T16:15:30-05:00
+date: 2017-09-03T00:21:03-05:00
 description: ""
 menu:
   docs:
     parent: "rules"
-    weight: 20
+    weight: 10
 categories: []
 #tags: []
-slug: ""
+slug: "contents"
 aliases: []
-toc: false
+toc: true
 ---
 
-- CONTENTS
-- INTRODUCTION
-- QUALIFIED 
-- AUTHORITIES
-- MATERIALS AND HARDWARE
-- PARALYMPIC REGULATIONS
-- 1. Code of Ethics
-- 2. The Match
-- 3. To Start a Match
-- 4. Serve and Ready Protocol
-- 5. Subsequent Serves
-- 6. Ball in Play
-- 7. Ball Off the Table
-- 8. Dead Ball
+- [CONTENTS](/rules/contents)
+- [INTRODUCTION](/rules/introduction)
+- [QUALIFIED AUTHORITIES](/rules/qualified-authorities)
+- [MATERIALS AND HARDWARE](/rules/materials-and-hardware)
+- [PARALYMPIC REGULATIONS](/rules/paralympic-regulations)
+- [1. Code of Ethics](/rules/code-of-ethics)
+- [2. The Match](/rules/the-match)
+- [3. To Start a Match](/rules/to-start-a-match)
+- [4. Serve and Ready Protocol](/rules/serve-and-ready-protocol)
+- [5. Subsequent Serves](/rules/subsequent-serves)
+- [6. Ball in Play](/rules/ball-in-play)
+- [7. Ball Off the Table](/rules/ball-off-the-table)
+- [8. Dead Ball](/rules/dead-ball)
 - 9. Time Out
 - 10. Resuming Play After a Time Out
 - 11. Official Time Out
