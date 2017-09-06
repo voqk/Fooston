@@ -13,6 +13,8 @@ aliases: []
 toc: true
 ---
 
+This is a web version of the [official 2016 ITSF Rulebook](https://www.table-soccer.org/rules/documents/2016_Rulebook.pdf).
+
 - [FORWARD](/foosball-rules/forward)
 - [CONTENTS](/foosball-rules/contents)
 - [INTRODUCTION](/foosball-rules/introduction)
@@ -27,26 +29,26 @@ toc: true
 - [6. Ball in Play](/foosball-rules/ball-in-play)
 - [7. Ball Off the Table](/foosball-rules/ball-off-the-table)
 - [8. Dead Ball](/foosball-rules/dead-ball)
-- 9. Time Out
-- 10. Resuming Play After a Time Out
-- 11. Official Time Out
-- 12. Point Scored
-- 13. Table Sides
-- 14. Change of Positions
-- 15. Spinning the Rods
-- 16. Jarring
-- 17. Reset
-- 18. Reaching Into the Playing Area
-- 19. Alterations to the Table
-- 20. Distraction
-- 21. Practice
-- 22. Language and Behavior
-- 23. Passing
-- 24. Time of Possession
-- 25. Delay of Game
-- 26. Recalls and Forfeiture
-- 27. Technical Fouls
-- 28. Rules Decisions and Appeals
-- 29. Dress Code
-- 30. Tournament Director
-- 31. Side events
+- [9. Time Out](/foosball-rules/time-out)
+- [10. Resuming Play After a Time Out](/foosball-rules/resuming-play-after-a-time-out)
+- [11. Official Time Out](/foosball-rules/official-time-out)
+- [12. Point Scored](/foosball-rules/point-scored)
+- [13. Table Sides](/foosball-rules/table-sides)
+- [14. Change of Positions](/foosball-rules/change-of-positions)
+- [15. Spinning the Rods](/foosball-rules/spinning-the-rods)
+- [16. Jarring](/foosball-rules/jarring)
+- [17. Reset](/foosball-rules/reset)
+- [18. Reaching Into the Playing Area](/foosball-rules/reaching-into-the-playing-area)
+- [19. Alterations to the Table](/foosball-rules/alterations-to-the-table)
+- [20. Distraction](/foosball-rules/distraction)
+- [21. Practice](/foosball-rules/practice)
+- [22. Language and Behavior](/foosball-rules/language-and-behavior)
+- [23. Passing](/foosball-rules/passing)
+- [24. Time of Possession](/foosball-rules/time-of-possession)
+- [25. Delay of Game](/foosball-rules/delay-of-game)
+- [26. Recalls and Forfeiture](/foosball-rules/recalls-and-forfeiture)
+- [27. Technical Fouls](/foosball-rules/technical-fouls)
+- [28. Rules Decisions and Appeals](/foosball-rules/rules-decisions-and-appeals)
+- [29. Dress Code](/foosball-rules/dress-code)
+- [30. Tournament Director](/foosball-rules/tournament-director)
+- [31. Side events](/foosball-rules/side-events)
