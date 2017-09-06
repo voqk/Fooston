@@ -213,7 +213,7 @@ twitter = "fooston"
   url = "/tournaments/"
 
  [[menu.global]]
-     name = "Rules"
+     name = "Foosball Rules"
      weight = 3
      identifier = "foosball-rules"
      url = "/foosball-rules/contents/"
