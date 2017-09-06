@@ -1,6 +1,6 @@
 ---
 title: "Materials and Hardware"
-date: 2017-09-05T16:22:04-05:00
+date: 2017-09-06T16:22:04-05:00
 description: ""
 menu:
   docs:

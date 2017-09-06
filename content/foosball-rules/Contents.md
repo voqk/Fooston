@@ -1,6 +1,6 @@
 ---
 title: "Contents"
-date: 2017-09-03T00:21:03-05:00
+date: 2017-09-03T00:10:00-05:00
 description: ""
 menu:
   docs:
@@ -10,7 +10,7 @@ categories: []
 #tags: []
 slug: "contents"
 aliases: []
-toc: true
+toc: false
 ---
 
 We've reproduced the [official 2016 ITSF Rulebook](https://www.table-soccer.org/rules/documents/2016_Rulebook.pdf) in an easier to read and search web version.

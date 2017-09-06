@@ -1,6 +1,6 @@
 ---
 title: "Introduction"
-date: 2017-09-05T16:18:12-05:00
+date: 2017-09-05T00:20:00-05:00
 description: ""
 menu:
   docs:
@@ -8,7 +8,7 @@ menu:
     weight: 30
 categories: []
 #tags: []
-slug: ""
+slug: "introduction"
 aliases: []
 toc: false
 ---
