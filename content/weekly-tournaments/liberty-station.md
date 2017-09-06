@@ -4,7 +4,7 @@ date: 2017-09-02T15:47:02-05:00
 description: "An awesome group of people who play twice a week at a hip bar. The Liberty foosers don't play for money, instead they have a point system where you win and lose Elo points depending on who and how you play. Beginner friendly."
 menu:
   docs:
-    parent: "tournaments"
+    parent: "weekly-tournaments"
     weight: 10 
 categories: []
 #tags: []

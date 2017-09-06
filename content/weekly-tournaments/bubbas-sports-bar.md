@@ -4,7 +4,7 @@ date: 2017-09-02T11:54:48-05:00
 description: ""
 menu:
   docs:
-    parent: "tournaments"
+    parent: "weekly-tournaments"
     weight: 20 
 categories: []
 #tags: []

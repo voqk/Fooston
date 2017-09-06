@@ -90,11 +90,11 @@ twitter = "fooston"
 # High level items
 
 [[menu.docs]]
-  name = "Tournaments"
+  name = "Weekly Tournaments"
   weight = 1
-  identifier = "tournaments"
+  identifier = "weekly-tournaments"
   post = "break"
-  url = "/tournaments/"
+  url = "/weekly-tournaments/"
 
  [[menu.docs]]
    name = "Official Foosball Rules"
@@ -207,10 +207,10 @@ twitter = "fooston"
 ######## GLOBAL ITEMS TO BE SHARED WITH THE HUGO SITES
 
 [[menu.global]]
-  name = "Tournaments"
+  name = "Weekly Tournaments"
   weight = 1
-  identifier = "tournaments"
-  url = "/tournaments/"
+  identifier = "weekly-tournaments"
+  url = "/weekly-tournaments/"
 
  [[menu.global]]
      name = "Foosball Rules"

@@ -6,7 +6,7 @@ description: "A list of local Houston foosball tournaments"
 categories: []
 menu:
   docs:
-    parent: "tournaments"
+    parent: "weekly-tournaments"
     weight: 01
 weight: 01
 sections_weight: 01
