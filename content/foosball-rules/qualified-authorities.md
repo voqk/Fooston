@@ -4,7 +4,7 @@ date: 2017-09-05T16:19:18-05:00
 description: ""
 menu:
   docs:
-    parent: "rules"
+    parent: "foosball-rules"
     weight: 40
 categories: []
 #tags: []

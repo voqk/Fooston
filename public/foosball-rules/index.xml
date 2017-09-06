@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Foosball in Houston, TX on Fooston</title>
-    <link>https://fooston.com/</link>
-    <description>Recent content in Foosball in Houston, TX on Fooston</description>
+    <title>Foosball-rules on Fooston</title>
+    <link>https://fooston.com/foosball-rules/</link>
+    <description>Recent content in Foosball-rules on Fooston</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 05 Sep 2017 19:37:14 -0500</lastBuildDate>
     
-	<atom:link href="https://fooston.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fooston.com/foosball-rules/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -175,90 +175,6 @@ This latest revision of the ITSF Rule Book is the culmination of a collaborative
       
       <guid>https://fooston.com/foosball-rules/contents/</guid>
       <description>FORWARD CONTENTS INTRODUCTION QUALIFIED AUTHORITIES MATERIALS AND HARDWARE PARALYMPIC REGULATIONS 1. Code of Ethics 2. The Match 3. To Start a Match 4. Serve and Ready Protocol 5. Subsequent Serves 6. Ball in Play 7. Ball Off the Table 8. Dead Ball 9. Time Out 10. Resuming Play After a Time Out 11. Official Time Out 12. Point Scored 13. Table Sides 14. Change of Positions 15. Spinning the Rods 16.</description>
-    </item>
-    
-    <item>
-      <title>Liberty Station</title>
-      <link>https://fooston.com/tournaments/liberty-station/</link>
-      <pubDate>Sat, 02 Sep 2017 15:47:02 -0500</pubDate>
-      
-      <guid>https://fooston.com/tournaments/liberty-station/</guid>
-      <description> Details  Mondays 8:00 PM: Get together for pickup games. The bar opens the tables for free play. Thursdays 8:30 PM: Typically a singles tournament but if too many players show up switches to doubles. Thursdays 10:00 PM: Doubles tournament.  ELO Ratings </description>
-    </item>
-    
-    <item>
-      <title>Bubba&#39;s Sports Bar &amp; Grill</title>
-      <link>https://fooston.com/tournaments/bubbas-sports-bar/</link>
-      <pubDate>Sat, 02 Sep 2017 11:54:48 -0500</pubDate>
-      
-      <guid>https://fooston.com/tournaments/bubbas-sports-bar/</guid>
-      <description>Details  $10 per person DYP begins at 8:30pm Late Sign Ups (9pm or later) $15  Location Bubba&amp;rsquo;s Sports Bar &amp;amp; Grill 6225 Washington Ave., Houston, Texas 77007</description>
-    </item>
-    
-    <item>
-      <title>0.25.1</title>
-      <link>https://fooston.com/release-notes/0.25.1-relnotes/</link>
-      <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://fooston.com/release-notes/0.25.1-relnotes/</guid>
-      <description> This is a bug-fix release with a couple of important fixes.
-Hugo now has:
- 18277+ stars 456+ contributors 170+ themes  Fixes  Fix union when the first slice is empty dbbc5c48 @bep #3686 Navigate to changed on CREATE When working with content from IntelliJ IDE, like WebStorm, every file save is followed by two events: &amp;ldquo;RENAME&amp;rdquo; and then &amp;ldquo;CREATE&amp;rdquo;. 7bcc1ce6 @miltador Final (!) fix for issue with escaped JSON front matter 7f82b41a @bep #3682 Fix issue with escaped JSON front matter 84db6c74 @bep #3682  </description>
-    </item>
-    
-    <item>
-      <title>0.25</title>
-      <link>https://fooston.com/release-notes/0.25-relnotes/</link>
-      <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://fooston.com/release-notes/0.25-relnotes/</guid>
-      <description>Hugo 0.25 is the Kinder Surprise: It automatically opens the page you&amp;rsquo;re working on in the browser, it adds full AND and OR support in page queries, and you can now have templates per language.
-If you start with hugo server --navigateToChanged, Hugo will navigate to the relevant page on save (see animated GIF). This is extremely useful for site-wide edits. Another very useful feature in this version is the added support for AND (intersect) and OR (union) filters when combined with where.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://fooston.com/readfiles/readme/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fooston.com/readfiles/readme/</guid>
-      <description>readdirs Directory for Reusable Content Files in this directory are:
- Used in more than one place within the Hugo docs Used in Examples of readdir (i.e. in local file templates)  These files are called using the readfile shortcode (source).
-You can call this shortcode in the docs as follows:
-{{% readfile file=&amp;ldquo;/path/to/file.txt&amp;rdquo; markdown=&amp;ldquo;true&amp;rdquo; %}}
-markdown=&amp;quot;true&amp;quot; is optional (default = &amp;quot;false&amp;quot;) and parses the string through the Blackfriday renderer.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://fooston.com/readfiles/bfconfig/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fooston.com/readfiles/bfconfig/</guid>
-      <description>Blackfriday Options  taskLists default: true
-Blackfriday flag: Purpose: false turns off GitHub-style automatic task/TODO list generation. smartypants default: true Blackfriday flag: HTML_USE_SMARTYPANTS Purpose: false disables smart punctuation substitutions, including smart quotes, smart dashes, smart fractions, etc. If true, it may be fine-tuned with the angledQuotes, fractions, smartDashes, and latexDashes flags (see below). smartypantsQuotesNBSP default: false Blackfriday flag: HTML_SMARTYPANTS_QUOTES_NBSP Purpose: true enables French style Guillemets with non-breaking space inside the quotes.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://fooston.com/readfiles/dateformatting/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fooston.com/readfiles/dateformatting/</guid>
-      <description>Go templates format your dates according to a single reference time:
-Mon Jan 2 15:04:05 MST 2006  You can think of MST as 07, thus making the reference format string a sequence of numbers. The following is taken directly from the Go docs:
-Jan 2 15:04:05 2006 MST 1 2 3 4 5 6 -7  Hugo Date Templating Reference Each of the following examples show the reference formatting string followed by the string Hugo will output in your HTML.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://fooston.com/readfiles/menuvars/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fooston.com/readfiles/menuvars/</guid>
-      <description> .URL string .Name string .Menu string .Identifier string .Pre template.HTML .Post template.HTML .Weight int .Parent string .Children Menu  Note that menus also have the following functions available as well:
- .HasChildren boolean  Additionally, there are some relevant functions available to menus on a page:
- .IsMenuCurrent (menu string, menuEntry *MenuEntry ) boolean .HasMenuCurrent (menu string, menuEntry *MenuEntry) boolean  </description>
     </item>
     
   </channel>

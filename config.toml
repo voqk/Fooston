@@ -93,13 +93,14 @@ twitter = "fooston"
   name = "Tournaments"
   weight = 1
   identifier = "tournaments"
+  post = "break"
   url = "/tournaments/"
 
  [[menu.docs]]
    name = "Official Foosball Rules"
    weight = 10
-   identifier = "rules"
-   url = "/rules/contents/"
+   identifier = "foosball-rules"
+   url = "/foosball-rules/contents/"
 
 # [[menu.docs]]
 #   name = "Getting Started"
@@ -214,8 +215,8 @@ twitter = "fooston"
  [[menu.global]]
      name = "Rules"
      weight = 3
-     identifier = "rules"
-     url = "/rules/contents/"
+     identifier = "foosball-rules"
+     url = "/foosball-rules/contents/"
 
 # [[menu.global]]
 #   name = "Docs"
