@@ -13,7 +13,7 @@ aliases: []
 toc: true
 ---
 
-This is a web version of the [official 2016 ITSF Rulebook](https://www.table-soccer.org/rules/documents/2016_Rulebook.pdf).
+We've reproduced the [official 2016 ITSF Rulebook](https://www.table-soccer.org/rules/documents/2016_Rulebook.pdf) in an easier to read and search web version.
 
 - [Forward](/foosball-rules/forward)
 - [Contents](/foosball-rules/contents)
