@@ -67,7 +67,8 @@ twitter = "fooston"
   forum = "https://discourse.gohugo.io/"
   ## Google Tag Manager
   gtmid = ""
-
+  env = "production"
+  
   # First one is picked as the Twitter card image if not set on page.
   images = ["images/gohugoio-card.png"]
 
