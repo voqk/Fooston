@@ -21,11 +21,20 @@
       
 
      <link href='/dist/main.css' rel='stylesheet' type="text/css" /><style type="text/css">
-   body .gist .markdown-body .csv-data th {
-    font-weight: 600;
-    background: #0594cb;
-    border-top: 0;
-} 
+     
+    body .gist .markdown-body .csv-data th {
+        font-weight: 600;
+        background: #0594cb;
+        border-top: 0;
+    } 
+    body .gist .blob-interaction-bar {
+        display: none
+    }
+
+     
+    body .gist .markdown-body .csv-data .blob-num {
+        display: none
+    }
 </style><meta property="og:title" content="" />
 <meta property="og:description" content="Go templates format your dates according to a single reference time:
 Mon Jan 2 15:04:05 MST 2006  You can think of MST as 07, thus making the reference format string a sequence of numbers. The following is taken directly from the Go docs:
