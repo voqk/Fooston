@@ -19,6 +19,8 @@ toc: true
 * Thursdays 8:30 PM: Typically a singles tournament but if too many players show up switches to doubles.
 * Thursdays 10:00 PM: Doubles tournament.
 
-## ELO Ratings
+## Elo Ratings
+
+Houston's **official** foosball player ratings.
 
 <script src="https://gist.github.com/voqk/aa67d96d6edbc577f28dfa40475843a9.js"></script>
