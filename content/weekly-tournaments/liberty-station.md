@@ -21,3 +21,4 @@ toc: true
 
 ## ELO Ratings
 
+<script src="https://gist.github.com/voqk/aa67d96d6edbc577f28dfa40475843a9.js"></script>
