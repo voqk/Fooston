@@ -20,7 +20,13 @@
         <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
       
 
-     <link href='/dist/main.css' rel='stylesheet' type="text/css" /><meta property="og:title" content="" />
+     <link href='/dist/main.css' rel='stylesheet' type="text/css" /><style type="text/css">
+   body .gist .markdown-body .csv-data th {
+    font-weight: 600;
+    background: #0594cb;
+    border-top: 0;
+} 
+</style><meta property="og:title" content="" />
 <meta property="og:description" content="Go templates format your dates according to a single reference time:
 Mon Jan 2 15:04:05 MST 2006  You can think of MST as 07, thus making the reference format string a sequence of numbers. The following is taken directly from the Go docs:
 Jan 2 15:04:05 2006 MST 1 2 3 4 5 6 -7  Hugo Date Templating Reference Each of the following examples show the reference formatting string followed by the string Hugo will output in your HTML." />
@@ -64,7 +70,6 @@ Jan 2 15:04:05 2006 MST 1 2 3 4 5 6 -7  Hugo Date Templating Reference Each of t
 
         
       
-
 
   </head>
   <body class="ma0 sans-serif bg-primary-color-light">
