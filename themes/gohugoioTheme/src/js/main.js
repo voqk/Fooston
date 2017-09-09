@@ -22,7 +22,7 @@ import './nojs.js'
 var $ = require('jquery/src/jquery');
 
 // And write your code
-$('body').append('<p>Jquery is working</p>');
+// $('body').append('<p>Jquery is working</p>');
 
 var ratings = $('#ratings');
 if(ratings.length === 1) {
