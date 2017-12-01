@@ -14,7 +14,7 @@
     <meta name="MobileOptimized" content="320">
 
     <meta name="viewport" content="width=device-width,minimum-scale=1">
-     <meta name="generator" content="Hugo 0.26" />
+     <meta name="generator" content="Hugo 0.31.1" />
 
       
         <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
@@ -54,6 +54,7 @@ If you start with hugo server --navigateToChanged, Hugo will navigate to the rel
 
 
 <meta property="article:published_time" content="2017-07-07T00:00:00&#43;00:00"/>
+
 <meta property="article:modified_time" content="2017-07-07T00:00:00&#43;00:00"/>
 
 
@@ -71,6 +72,7 @@ If you start with hugo server --navigateToChanged, Hugo will navigate to the rel
 If you start with hugo server --navigateToChanged, Hugo will navigate to the relevant page on save (see animated GIF). This is extremely useful for site-wide edits. Another very useful feature in this version is the added support for AND (intersect) and OR (union) filters when combined with where.">
 
 
+<meta itemprop="datePublished" content="2017-07-07T00:00:00&#43;00:00" />
 <meta itemprop="dateModified" content="2017-07-07T00:00:00&#43;00:00" />
 <meta itemprop="wordCount" content="449">
 
@@ -210,10 +212,9 @@ If you start with hugo server --navigateToChanged, Hugo will navigate to the rel
 <p>If you start with <code>hugo server --navigateToChanged</code>, Hugo will navigate to the relevant page on save (see animated GIF). This is extremely useful for site-wide edits. Another very useful feature in this version is the added support for <code>AND</code> (<code>intersect</code>)  and <code>OR</code> (<code>union</code>)  filters when combined with <code>where</code>.</p>
 
 <p>Example:</p>
-{{ $pages := where .Site.RegularPages "Type" "not in" (slice "page" "about") }}
-{{ $pages := $pages | union (where .Site.RegularPages "Params.pinned" true) }}
-{{ $pages := $pages | intersect (where .Site.RegularPages "Params.images" "!=" nil) }}
-
+<div class="highlight"><pre style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-go" data-lang="go">{{ <span style="">$</span>pages <span style="color:#666">:=</span> where .Site.RegularPages <span style="color:#4070a0">&#34;Type&#34;</span> <span style="color:#4070a0">&#34;not in&#34;</span> (slice <span style="color:#4070a0">&#34;page&#34;</span> <span style="color:#4070a0">&#34;about&#34;</span>) }}
+{{ <span style="">$</span>pages <span style="color:#666">:=</span> <span style="">$</span>pages | union (where .Site.RegularPages <span style="color:#4070a0">&#34;Params.pinned&#34;</span> <span style="color:#007020;font-weight:bold">true</span>) }}
+{{ <span style="">$</span>pages <span style="color:#666">:=</span> <span style="">$</span>pages | intersect (where .Site.RegularPages <span style="color:#4070a0">&#34;Params.images&#34;</span> <span style="color:#4070a0">&#34;!=&#34;</span> <span style="color:#007020;font-weight:bold">nil</span>) }}</code></pre></div>
 <p>The above fetches regular pages not of <code>page</code> or <code>about</code> type unless they are pinned. And finally, we exclude all pages with no <code>images</code> set in Page params.</p>
 
 <p>This release represents <strong>36 contributions by 12 contributors</strong> to the main Hugo code base. <a href="https://github.com/bep" target="_blank">@bep</a> still leads the Hugo development with his witty Norwegian humor, and once again contributed a significant amount of additions. But also a big shoutout to <a href="https://github.com/yihui" target="_blank">@yihui</a>, <a href="https://github.com/anthonyfok" target="_blank">@anthonyfok</a>, and <a href="https://github.com/kropp" target="_blank">@kropp</a> for their ongoing contributions. And as always a big thanks to <a href="https://github.com/digitalcraftsman" target="_blank">@digitalcraftsman</a> for his relentless work on keeping the documentation and the themes site in pristine condition.</p>

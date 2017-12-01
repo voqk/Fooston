@@ -682,3 +682,8 @@ i.freebsd-19px:before {
 .algolia-docsearch-suggestion--subcategory-column {
     display: none !important;
 }
+
+
+.main-text p a:link {
+  color: #ffffff
+}

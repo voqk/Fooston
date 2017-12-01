@@ -38,3 +38,7 @@
 .mw-90 {
   max-width:90%;
 }
+
+#main-banner a:link {
+  color: #ffffff
+}

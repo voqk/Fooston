@@ -46,4 +46,4 @@ date: 2017-03-02T12:00:00-05:00
 #     copy: "Hugo's Go-based templating provides just the right amount of logic to build anything from the simple to complex. If you prefer Jade/Pug-like syntax, you can also use Amber, Ace, or any combination of the three."
 ---
 
-A site for and by foosers. Local foosball tournaments, table locations, and whatever else we want. 
+Join us this weekend at <a href=https://www.facebook.com/events/2180092722217764/ class="washed-blue">Rico's Game Day</a> Saturday - December 02, 2017 2PM-6PM @ <a href=https://www.google.com/maps/place/Bagby+Park/@29.75175,-95.3759351,15z/data=!4m5!3m4!1s0x0:0xa4272bcceb7e722b!8m2!3d29.75175!4d-95.3759351 class="washed-blue">Bagby Park</a>
