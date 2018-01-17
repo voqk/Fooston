@@ -1,7 +1,7 @@
 import * as React from 'react';
 import { RouteComponentProps } from 'react-router';
 
-export class Tournaments extends React.Component<RouteComponentProps<{}>, {}> {
+export default class Tournaments extends React.Component<RouteComponentProps<{}>, {}> {
     public render() {
         return <div className="container">
             <h1>Tournaments</h1>

@@ -22,18 +22,6 @@ namespace FoostonWeb.Controllers
             return await _context.Players.Include(p => p.TeamMemberships).ThenInclude(m => m.Team).ToListAsync();
         }
 
-        [HttpGet("{id}", Name = "GetPlayer")]
-        public async Task<IActionResult> GetById(int id)
-        {
-            var player = await _context.Players.FirstOrDefaultAsync(p => p.Id == id);
-            if (player == null)
-            {
-                return NotFound();
-            }
-
-            return new ObjectResult(player);
-        }
-
         [HttpPost]
         public async Task<IActionResult> Create([FromBody] Player player)
         {
@@ -45,6 +33,32 @@ namespace FoostonWeb.Controllers
             _context.Players.Add(player);
             await _context.SaveChangesAsync();
 
+            return CreatedAtRoute("GetPlayer", new { id = player.Id }, player);
+        }
+
+        [HttpGet("{id}", Name = "GetPlayer")]
+        public async Task<IActionResult> Read(int id)
+        {
+            var player = await _context.Players.FirstOrDefaultAsync(p => p.Id == id);
+            if (player == null)
+            {
+                return NotFound();
+            }
+
+            return new ObjectResult(player);
+        }
+
+        [HttpPut]
+        public async Task<IActionResult> Update([FromBody] Player player)
+        {
+            if (player == null)
+            {
+                return BadRequest();
+            }
+
+            _context.Players.Update(player);
+            await _context.SaveChangesAsync();
+            
             return CreatedAtRoute("GetPlayer", new { id = player.Id }, player);
         }
     }

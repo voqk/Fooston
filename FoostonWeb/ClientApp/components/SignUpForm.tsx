@@ -1,7 +1,7 @@
 import * as React from 'react';
 import { RouteComponentProps } from 'react-router';
 
-export class SignUpForm extends React.Component<RouteComponentProps<{}>, {}> {
+export default class SignUpForm extends React.Component<RouteComponentProps<{}>, {}> {
     render() {
         return(
             <div className="container">

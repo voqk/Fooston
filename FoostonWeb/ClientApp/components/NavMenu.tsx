@@ -3,7 +3,7 @@ import { Link, NavLink } from 'react-router-dom';
 import { Navbar, Nav, NavItem, NavDropdown, MenuItem } from 'react-bootstrap'
 import { LinkContainer } from 'react-router-bootstrap';
 
-export class NavMenu extends React.Component<{}, {}> {
+export default class NavMenu extends React.Component<{}, {}> {
     public render() {
         return(
             <Navbar style={{margin: "0"}} inverse collapseOnSelect staticTop>
@@ -35,6 +35,11 @@ export class NavMenu extends React.Component<{}, {}> {
                         <LinkContainer key={4} to={'/tournaments'}>
                             <NavItem eventKey={4} href='/tournaments'>
                                 <span className='glyphicon glyphicon-calendar'></span> Tournaments
+                            </NavItem>
+                        </LinkContainer>
+                        <LinkContainer key={5} to={'/players'}>
+                            <NavItem eventKey={5} href='/players'>
+                                <span className='glyphicon glyphicon-user'></span> Players
                             </NavItem>
                         </LinkContainer>
                     </Nav>

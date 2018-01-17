@@ -3,7 +3,7 @@ import { RouteComponentProps } from 'react-router';
 import { Button, Row, Col } from 'react-bootstrap';
 import { LinkContainer } from 'react-router-bootstrap';
 
-export class Home extends React.Component<RouteComponentProps<{}>, {}> {
+export default class Home extends React.Component<RouteComponentProps<{}>, {}> {
     public render() {
         const style = {
             backgroundColor: '#0A1922',
