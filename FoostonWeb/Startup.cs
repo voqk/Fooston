@@ -10,6 +10,8 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.EntityFrameworkCore;
 using Swashbuckle.AspNetCore.Swagger;
 using Newtonsoft.Json;
+using FoostonWeb.Services;
+using FoostonWeb.Models;
 
 namespace FoostonWeb
 {
@@ -25,6 +27,12 @@ namespace FoostonWeb
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.Configure<MailGunSettings>(Configuration.GetSection("MailGunSettings"));
+            var emails = Configuration["RegistrationNotificationDestinations"];
+
+            // Add application services.
+            services.AddTransient<IEmailSender, EmailSender>();
+
             services.AddMvc().AddJsonOptions(options => options.SerializerSettings.ReferenceLoopHandling = ReferenceLoopHandling.Ignore);
             services.AddSwaggerGen(c =>
             {
@@ -37,6 +45,8 @@ namespace FoostonWeb
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
+            var envName = env.EnvironmentName;
+            
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();

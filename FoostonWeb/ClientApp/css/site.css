@@ -102,3 +102,7 @@ https://stackoverflow.com/questions/38428322/react-component-full-screen-with-he
 .navbar-inverse .navbar-nav > li > a {
     color: hsla(0, 0%, 100%, .9);
 }
+
+.popover-content {
+    background: rgb(255, 255, 255);
+}

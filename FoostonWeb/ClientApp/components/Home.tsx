@@ -12,26 +12,27 @@ export default class Home extends React.Component<RouteComponentProps<{}>, {}> {
         };
         return(
             <div style={style} className='container-fluid'>
-                <img className="text-center" src='/fooston-texas.svg' style={{
-                    padding: '20px 0px 20px',
-                    maxHeight: '600px'
+                <img className="img-responsive center-block" src='/fooston-texas.svg' style={{
+                    marginTop: "40px",
+                    marginBottom: "40px",
+                    maxHeight: '800px'
                 }} />
                 <Row>
                     <Col sm={12}>
                         <div  className="text-center">
-                            <h1>Houston Foosball</h1>
+                            <h1>Foosball in Houston, TX</h1>
                         </div>
                     </Col>
                 </Row>
                 <Row>
-                    <Col sm={23}>
+                    <Col>
                         <div className="text-center">
                             <LinkContainer to={'/ratings'}>
                                 <Button bsSize="large" bsStyle="primary">Enter</Button>
                             </LinkContainer>
                         </div>
                     </Col>
-                </Row>                
+                </Row>
             </div>
         );
     }

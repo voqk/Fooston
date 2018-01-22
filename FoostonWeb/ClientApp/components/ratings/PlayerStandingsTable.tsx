@@ -3,17 +3,18 @@ import { Table } from 'react-bootstrap';
 import { RouteComponentProps } from 'react-router';
 import { Standing } from './Standing';
 import { LinkContainer } from 'react-router-bootstrap';
+import * as moment from 'moment';
 
 interface RatingsTableProps {
     standings: Standing[];
 }
 
-export const RatingsTable = ( props: RatingsTableProps ) => (
+export const PlayerStandingsTable = ( props: RatingsTableProps ) => (
     <Table striped bordered condensed hover responsive>
         <thead>
             <tr>
+                <th>Date</th>
                 <th>Rank</th>
-                <th>Standings</th>
                 <th>Rating</th>
                 <th>Games Back</th>
                 <th>Prev rank</th>
@@ -26,16 +27,10 @@ export const RatingsTable = ( props: RatingsTableProps ) => (
             </tr>
         </thead>
         <tbody>
-        {props.standings.sort((s1, s2) => s1.rank - s2.rank).map((standing, i)=>
+        {props.standings.map((standing, i)=>
             <tr key={ i }>
+                <td>{ moment(standing.timeStamp).format('LL')}</td>
                 <td>{ standing.rank }</td>
-                <td>
-                    <LinkContainer to={`/ratings/player/${encodeURIComponent(standing.name)}`}>
-                        <a href={`/ratings/player/${encodeURIComponent(standing.name)}`}>
-                            { standing.name }
-                        </a>
-                    </LinkContainer>
-                </td>
                 <td>{ standing.rating }</td>
                 <td>{ standing.gamesBack }</td>
                 <td>{ standing.previousRank }</td>

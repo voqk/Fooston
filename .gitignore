@@ -1,2 +1,5 @@
 .DS_Store
 .firebaserc
+bin/
+node_modules/
+FoostonWeb/appsettings.Development.json

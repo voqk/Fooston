@@ -22,12 +22,12 @@ export default class NavMenu extends React.Component<{}, {}> {
                                  <span className='glyphicon glyphicon-th-list'></span> Will D Ratings
                             </NavItem>
                         </LinkContainer>
-                        <LinkContainer key={2} to={'/signup'}>
-                            <NavItem eventKey={2} href='/signup'>
-                                <span className='glyphicon glyphicon-envelope'></span> Sign Up
+                        <LinkContainer key={2} to={'/join'}>
+                            <NavItem eventKey={2} href='/join'>
+                                <span className='glyphicon glyphicon-envelope'></span> Join
                             </NavItem>
                         </LinkContainer>
-                        <LinkContainer key={3} to={'/contact'}>
+                        {/* <LinkContainer key={3} to={'/contact'}>
                             <NavItem eventKey={3} href='/contact'>
                                 <span className='glyphicon glyphicon-send'></span> Contact
                             </NavItem>
@@ -36,12 +36,12 @@ export default class NavMenu extends React.Component<{}, {}> {
                             <NavItem eventKey={4} href='/tournaments'>
                                 <span className='glyphicon glyphicon-calendar'></span> Tournaments
                             </NavItem>
-                        </LinkContainer>
-                        <LinkContainer key={5} to={'/players'}>
+                        </LinkContainer> */}
+                        {/* <LinkContainer key={5} to={'/players'}>
                             <NavItem eventKey={5} href='/players'>
                                 <span className='glyphicon glyphicon-user'></span> Players
                             </NavItem>
-                        </LinkContainer>
+                        </LinkContainer> */}
                     </Nav>
                 </Navbar.Collapse>
             </Navbar>

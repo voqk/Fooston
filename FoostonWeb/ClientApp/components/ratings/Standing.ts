@@ -1,6 +1,7 @@
-export default class Standing {
+export class Standing {
+    timeStamp: Date;
     rank: number;
-    player: string;
+    name : string;
     rating: string;
     gamesBack: string;
     previousRank: string ; 
@@ -12,19 +13,25 @@ export default class Standing {
     losses: string;
     percent: string;
 
-    constructor(csv: string) {
-        const fields = csv.split(",");
+    constructor(csv: string, timeStamp: Date) {
+        this.timeStamp = timeStamp;
+        const fields = csv.split("\t");
         this.rank = Number(fields[0]);
-        this.player = fields[1];
+        this.name = fields[1];
         this.rating = fields[2];
         this.gamesBack = fields[3];
         this.previousRank = fields[4];
         this.previousPoints =fields[5];
         this.weeksOff = fields[6];
         this.change =fields[7];
-        this.plusMinus =fields[9];
-        this.wins =fields[10];
-        this.losses =fields[11];
-        this.percent =fields[12];
+        this.plusMinus =fields[8];
+        this.wins =fields[9];
+        this.losses =fields[10];
+        this.percent =fields[11];
     }
+}
+
+export interface RatingsViewModel {
+    currentStandings: Standing[];
+    otherDates: Date[];
 }

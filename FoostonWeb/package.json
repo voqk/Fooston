@@ -32,10 +32,16 @@
     "webpack-hot-middleware": "2.18.2"
   },
   "dependencies": {
+    "@types/email-validator": "^1.0.6",
     "@types/react-bootstrap": "^0.31.8",
+    "@types/react-bootstrap-date-picker": "^4.0.4",
     "@types/react-router-bootstrap": "^0.24.2",
+    "@types/recharts": "^1.0.10",
+    "email-validator": "^1.1.1",
     "react-bootstrap": "^0.31.5",
+    "react-bootstrap-date-picker": "^5.1.0",
     "react-gist": "^1.1.0",
-    "react-router-bootstrap": "^0.24.4"
+    "react-router-bootstrap": "^0.24.4",
+    "recharts": "^1.0.0-beta.9"
   }
 }
