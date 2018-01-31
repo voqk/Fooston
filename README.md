@@ -10,7 +10,9 @@ Install the following dependencies to compile and run Fooston.com locally
 
 1. Open a command terminal in the FoostonWeb directory and run
 
+	```bash
 	npm install
+	```
 
 ## Database setup
 
@@ -19,11 +21,15 @@ Install the following dependencies to compile and run Fooston.com locally
 3. Copy appsettings.json to appsettings.development.json
 4. Add connection string to database in appsettings.development.json
 
-  "ConnectionStrings": {
-    "FoostonDb": "User ID=[role];Password=[password];Host=localhost;Port=5432;Database=[database];"
-  },
+```json	
+"ConnectionStrings": {
+	"FoostonDb": "User ID=[role];Password=[password];Host=localhost;Port=5432;Database=[database];"
+}
+```
 
 5. Open a command terminal in the FoostonWeb directory and run the following commands
 
+	```bash
 	dotnet restore
 	dotnet ef database update
+	```
