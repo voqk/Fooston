@@ -8,7 +8,8 @@ export default class Home extends React.Component<RouteComponentProps<{}>, {}> {
         const style = {
             backgroundColor: '#0A1922',
             color: 'hsla(0, 0%, 100%, .9)',
-            height: '100%'
+            height: 'auto !important',
+            minHeight: '100%'
         };
         return(
             <div style={style} className='container-fluid'>

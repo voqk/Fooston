@@ -33,3 +33,17 @@ Install the following dependencies to compile and run Fooston.com locally
 	dotnet restore
 	dotnet ef database update
 	```
+
+## Tools
+
+Stuff I use to work on this site
+
+### DB Administration
+
+ - pgAdmin III (free) - possibly installed with PostgreSQL
+ - [DataGrip](https://www.jetbrains.com/datagrip/)
+
+### IDE Suggestions
+
+- Linux/macOS: [Visual Studio Code](https://code.visualstudio.com/)
+- Windows: [Visual Studio](https://www.visualstudio.com/)
