@@ -19,7 +19,7 @@ Install the following dependencies to compile and run Fooston.com locally
 1. Create PostgreSQL role
 2. Create Database with owner set to role in step 1
 3. Copy appsettings.json to appsettings.development.json
-4. Add connection string to database in appsettings.development.json
+4. Add connection string to database in appsettings.Development.json
 
 ```json	
 "ConnectionStrings": {

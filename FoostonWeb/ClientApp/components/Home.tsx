@@ -16,7 +16,7 @@ export default class Home extends React.Component<RouteComponentProps<{}>, {}> {
                 <img className="img-responsive center-block" src='/fooston-texas.svg' style={{
                     marginTop: "40px",
                     marginBottom: "40px",
-                    maxHeight: '800px'
+                    maxHeight: '60vh'
                 }} />
                 <Row>
                     <Col sm={12}>
