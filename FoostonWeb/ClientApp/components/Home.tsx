@@ -9,7 +9,8 @@ export default class Home extends React.Component<RouteComponentProps<{}>, {}> {
             backgroundColor: '#0A1922',
             color: 'hsla(0, 0%, 100%, .9)',
             height: 'auto !important',
-            minHeight: '100%'
+            minHeight: '100%',
+            filter: 'grayscale(50%)'
         };
         return(
             <div style={style} className='container-fluid'>
@@ -21,16 +22,23 @@ export default class Home extends React.Component<RouteComponentProps<{}>, {}> {
                 <Row>
                     <Col sm={12}>
                         <div  className="text-center">
-                            <h1>Foosball in Houston, TX</h1>
+                            <div
+                                className='font-effect-neon'
+                                style={{
+                                    fontFamily: 'Lato',
+                                    fontSize: '7em',
+                                    cursor: 'pointer'
+                                }}
+                                onClick={() => {this.props.history.push('/ratings')}}
+                            >
+                                Houston Foosball
+                            </div>
                         </div>
                     </Col>
                 </Row>
                 <Row>
                     <Col>
                         <div className="text-center">
-                            <LinkContainer to={'/ratings'}>
-                                <Button bsSize="large" bsStyle="primary">Enter</Button>
-                            </LinkContainer>
                         </div>
                     </Col>
                 </Row>

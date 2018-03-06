@@ -22,7 +22,7 @@ namespace FoostonWeb.Services
 
         public Task SendEmailAsync(string email, string subject, string message)
         {
-            var domain = "sandbox97f537fd98054d8b93b18c8415fd5f95.mailgun.org";
+            var domain = "fooston.com";
             var client = new RestClient($"https://api.mailgun.net");
             client.Authenticator = new HttpBasicAuthenticator("api", _mailGunSettings.Value.ApiKey);
 
