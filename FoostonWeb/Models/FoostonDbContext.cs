@@ -1,13 +1,16 @@
-using Microsoft.EntityFrameworkCore;
-using System.Collections.Generic;
 using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using FoostonWeb.Models;
 
 namespace FoostonWeb.Models
 {
-    public class FoostonContext : DbContext
+    public class FoostonDbContext : IdentityDbContext<ApplicationUser>
     {
-        public FoostonContext(DbContextOptions<FoostonContext> contextOptions) : base(contextOptions)
+        public FoostonDbContext(DbContextOptions<FoostonDbContext> contextOptions) : base(contextOptions)
         {
         }
 
@@ -16,6 +19,8 @@ namespace FoostonWeb.Models
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            base.OnModelCreating(modelBuilder);
+
             modelBuilder.Entity<Standing>(standing => {
                 standing.HasIndex(s => s.TimeStamp);
                 standing.HasIndex(s => s.Name);
@@ -31,6 +36,4 @@ namespace FoostonWeb.Models
             });
         }        
     }
-
-
 }

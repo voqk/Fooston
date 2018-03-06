@@ -27,7 +27,7 @@ namespace FoostonWeb.Services
             client.Authenticator = new HttpBasicAuthenticator("api", _mailGunSettings.Value.ApiKey);
 
             var request = new RestRequest($"v3/{domain}/messages");
-            request.AddParameter("from", "app@fooston.com");
+            request.AddParameter("from", "Fooston noreply@fooston.com");
             request.AddParameter("to", _mailGunSettings.Value.RegistrationNotificationDestinations);
             request.AddParameter("subject", subject);
             request.AddParameter("text", message);

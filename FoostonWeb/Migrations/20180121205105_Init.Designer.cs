@@ -10,7 +10,7 @@ using System;
 
 namespace FoostonWeb.Migrations
 {
-    [DbContext(typeof(FoostonContext))]
+    [DbContext(typeof(FoostonDbContext))]
     [Migration("20180121205105_Init")]
     partial class Init
     {

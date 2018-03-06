@@ -12,6 +12,7 @@ using Swashbuckle.AspNetCore.Swagger;
 using Newtonsoft.Json;
 using FoostonWeb.Services;
 using FoostonWeb.Models;
+using Microsoft.AspNetCore.Identity;
 
 namespace FoostonWeb
 {
@@ -33,13 +34,26 @@ namespace FoostonWeb
             // Add application services.
             services.AddTransient<IEmailSender, EmailSender>();
 
-            services.AddMvc().AddJsonOptions(options => options.SerializerSettings.ReferenceLoopHandling = ReferenceLoopHandling.Ignore);
+            services.AddDbContext<FoostonDbContext>(options => 
+                options.UseNpgsql(Configuration.GetConnectionString("FoostonDb")));
+
+            services.AddIdentity<ApplicationUser, IdentityRole>()
+                .AddEntityFrameworkStores<FoostonDbContext>()
+                .AddDefaultTokenProviders();
+
+            services.AddMvc()
+                .AddRazorPagesOptions(options =>
+                {
+                    options.Conventions.AuthorizeFolder("/Account/Manage");
+                    options.Conventions.AuthorizePage("/Account/Logout");
+                })
+                .AddJsonOptions(options => options.SerializerSettings.ReferenceLoopHandling = ReferenceLoopHandling.Ignore);
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new Info { Title = "Fooston API", Version = "v1" });
             });
-            services.AddDbContext<FoostonContext>(options => 
-                options.UseNpgsql(Configuration.GetConnectionString("FoostonDb")));
+
+            
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

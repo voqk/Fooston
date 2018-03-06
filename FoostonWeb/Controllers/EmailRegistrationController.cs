@@ -14,9 +14,9 @@ namespace FoostonWeb.Controllers
     [Route("api/[controller]")]
     public class EmailRegistrationController : Controller
     {
-        private readonly FoostonContext _context;
+        private readonly FoostonDbContext _context;
         private readonly IEmailSender _emailSender;
-        public EmailRegistrationController(FoostonContext context, IEmailSender emailSender)
+        public EmailRegistrationController(FoostonDbContext context, IEmailSender emailSender)
         {
             _context = context;
             _emailSender = emailSender;

@@ -11,9 +11,10 @@ using System;
 namespace FoostonWeb.Migrations
 {
     [DbContext(typeof(FoostonDbContext))]
-    partial class FoostonContextModelSnapshot : ModelSnapshot
+    [Migration("20180306033306_AddApplicationUser")]
+    partial class AddApplicationUser
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

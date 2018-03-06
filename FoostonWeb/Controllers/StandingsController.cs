@@ -12,9 +12,9 @@ namespace FoostonWeb.Controllers
     [Route("api/[controller]")]
     public class StandingsController : Controller
     {
-        private readonly FoostonContext _context;
+        private readonly FoostonDbContext _context;
 
-        public StandingsController(FoostonContext context)
+        public StandingsController(FoostonDbContext context)
         {
             _context = context;
         }
