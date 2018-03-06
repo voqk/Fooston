@@ -9,16 +9,18 @@ export default class Home extends React.Component<RouteComponentProps<{}>, {}> {
             backgroundColor: '#0A1922',
             color: 'hsla(0, 0%, 100%, .9)',
             height: 'auto !important',
-            minHeight: '100%',
-            filter: 'grayscale(50%)'
+            minHeight: '100%'
         };
         return(
             <div style={style} className='container-fluid'>
                 <img className="img-responsive center-block" src='/fooston-texas.svg' style={{
                     marginTop: "40px",
                     marginBottom: "40px",
-                    maxHeight: '60vh'
-                }} />
+                    maxHeight: '60vh',
+                    cursor: 'pointer'
+                }} 
+                onClick={() => {this.props.history.push('/ratings')}}
+                />
                 <Row>
                     <Col sm={12}>
                         <div  className="text-center">
@@ -26,12 +28,13 @@ export default class Home extends React.Component<RouteComponentProps<{}>, {}> {
                                 className='font-effect-neon'
                                 style={{
                                     fontFamily: 'Lato',
-                                    fontSize: '7em',
+                                    fontSize: '6em',
                                     cursor: 'pointer'
                                 }}
                                 onClick={() => {this.props.history.push('/ratings')}}
                             >
-                                Houston Foosball
+                                <div>Houston, TX</div>
+                                <div>Foosball</div>
                             </div>
                         </div>
                     </Col>

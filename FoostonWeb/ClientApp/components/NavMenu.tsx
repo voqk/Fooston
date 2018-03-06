@@ -6,7 +6,7 @@ import { LinkContainer } from 'react-router-bootstrap';
 export default class NavMenu extends React.Component<{}, {}> {
     public render() {
         return(
-            <Navbar style={{margin: "0"}} inverse collapseOnSelect staticTop>
+            <Navbar style={{margin: "0", backgroundColor: ''}} inverse collapseOnSelect staticTop>
                 <Navbar.Header>
                     <Navbar.Brand>
                         <LinkContainer to={'/'}>
