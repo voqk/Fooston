@@ -1,0 +1,22 @@
+rm -r ./bin/Debug/netcoreapp2.0/publish
+rm ./bin/Debug/netcoreapp2.0/publish.zip
+dotnet publish
+dotnet ef migrations script -i -o ./bin/Debug/netcoreapp2.0/publish/migrate.sql
+pushd ./bin/Debug/netcoreapp2.0/
+zip publish.zip -r publish
+popd
+scp ./bin/Debug/netcoreapp2.0/publish.zip username@remote:~/
+
+ssh username@fooston.com
+sudo zip -r ~/<date>FoostonWeb.zip /var/aspnetcore/FoostonWeb
+pg_dump Fooston | zip > ~/FoostonBakups/<date>FoostonDb.zip
+sudo unzip publish.zip -d /var/aspnetcore/
+sudo cp /var/aspnetcore/FoostonWeb/appsettings.Development.json /var/aspnetcore/publish/
+sudo cp /var/aspnetcore/FoostonWeb/appsettings.json /var/aspnetcore/publish/
+sudo cp /var/aspnetcore/FoostonWeb/web.config /var/aspnetcore/publish/
+
+psql -U username -d Fooston -f /var/aspnetcore/publish/migrate.sql
+sudo rm -r /var/aspnetcore/FoostonWeb
+sudo mv /var/aspnetcore/publish /var/aspnetcore/FoostonWeb
+
+systemctl restart kestrel-fooston.service
