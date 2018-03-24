@@ -6,6 +6,7 @@ using FoostonWeb.Models;
 using Microsoft.EntityFrameworkCore;
 using System.Linq;
 using System;
+using Microsoft.AspNetCore.Authorization;
 
 namespace FoostonWeb.Controllers
 {
@@ -49,6 +50,7 @@ namespace FoostonWeb.Controllers
         [HttpGet("timestamps")]
         public async Task<IEnumerable<DateTime>> GetTimeSTamps() => await _context.Standings.Select(s => s.TimeStamp).Distinct().ToListAsync();
 
+        [Authorize]
         [HttpPost]
         public async Task<IActionResult> Update([FromBody] List<Standing> standings)
         {
