@@ -8,8 +8,10 @@ popd
 scp ./bin/Debug/netcoreapp2.0/publish.zip username@remote:~/
 
 ssh username@fooston.com
-sudo zip -r ~/<date>FoostonWeb.zip /var/aspnetcore/FoostonWeb
-pg_dump Fooston | zip > ~/FoostonBakups/<date>FoostonDb.zip
+sudo zip -r <date>FoostonWeb.zip /var/aspnetcore/FoostonWeb
+mv <date>FoostonWeb.zip FoostonBakups/
+pg_dump Fooston | <date>Fooston.bak
+mv <date>Fooston.bak FoostonBakups/
 sudo unzip publish.zip -d /var/aspnetcore/
 sudo cp /var/aspnetcore/FoostonWeb/appsettings.Development.json /var/aspnetcore/publish/
 sudo cp /var/aspnetcore/FoostonWeb/appsettings.json /var/aspnetcore/publish/
@@ -19,4 +21,4 @@ psql -U username -d Fooston -f /var/aspnetcore/publish/migrate.sql
 sudo rm -r /var/aspnetcore/FoostonWeb
 sudo mv /var/aspnetcore/publish /var/aspnetcore/FoostonWeb
 
-systemctl restart kestrel-fooston.service
+sudo systemctl restart kestrel-fooston.service
