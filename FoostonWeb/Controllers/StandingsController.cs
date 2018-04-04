@@ -33,7 +33,7 @@ namespace FoostonWeb.Controllers
         public async Task<IEnumerable<Standing>> GetByPlayer(string playerName)
         {
             return await _context.Standings
-                                    .Where(s => s.Name == playerName)
+                                    .Where(s => s.Name == playerName && s.TimeStamp >= new DateTime(2018, 01, 11))
                                     .OrderByDescending(s => s.TimeStamp)
                                     .ToListAsync();
         }
