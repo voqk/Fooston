@@ -76,6 +76,7 @@ namespace FoostonWeb
             }
 
             app.UseStaticFiles();
+            app.UseAuthentication();
 
             app.UseSwagger();
             app.UseSwaggerUI(c =>
