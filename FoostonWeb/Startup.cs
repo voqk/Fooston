@@ -35,7 +35,7 @@ namespace FoostonWeb
             services.AddTransient<IEmailSender, EmailSender>();
 
             services.AddDbContext<FoostonDbContext>(options => 
-                options.UseNpgsql(Configuration.GetConnectionString("FoostonDb")));
+                options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
 
             services.AddIdentity<ApplicationUser, IdentityRole>()
                 .AddEntityFrameworkStores<FoostonDbContext>()
