@@ -27,6 +27,11 @@ export default class NavMenu extends React.Component<{}, {}> {
                                 <span className='glyphicon glyphicon-envelope'></span> Join
                             </NavItem>
                         </LinkContainer>
+                        <LinkContainer key={3} to={'/official-foosball-rules'}>
+                            <NavItem eventKey={2} href='/official-foosball-rules'>
+                                <span className='glyphicon glyphicon-book'></span> Official foosball rules 
+                            </NavItem>
+                        </LinkContainer>
                     </Nav>
                 </Navbar.Collapse>
             </Navbar>

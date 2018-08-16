@@ -58,6 +58,15 @@ namespace FoostonWeb.Controllers
                 return BadRequest();
             }
             try{
+                // a little hack to get standings to save to the DB w/o an IDENTITY column for now.
+                // This issue came up when I ported from PostgreSQL to SQLServer. 
+                var standingWithGreatestId = await _context.Standings.OrderByDescending(standing => standing.Id).FirstAsync();
+
+                for (int i = 0; i < standings.Count; i++)
+                {
+                    standings[i].Id = i + 1 + standingWithGreatestId.Id;
+                }
+
                 _context.Standings.AddRange(standings);
                 await _context.SaveChangesAsync();
             }
