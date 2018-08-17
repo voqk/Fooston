@@ -60,6 +60,12 @@ export const ItsfRuleBook = (props: RouteComponentProps<{}>) => (
                     <li><a href={`${props.location.pathname}#13.-Table-Sides`}>13. Table Sides</a></li>
                     <li><a href={`${props.location.pathname}#14.-Change-of-Positions`}>14. Change of Positions</a></li>
                     <li><a href={`${props.location.pathname}#15.-Spinning-the-Rods`}>15. Spinning the Rods</a></li>
+                    <li><a href={`${props.location.pathname}#16.-Jarring`}>16. Jarring</a></li>
+                    <li><a href={`${props.location.pathname}#17.-Reset`}>17. Reset</a></li>
+                    <li><a href={`${props.location.pathname}#18.-Reaching-Into-the-Playing-Area`}>18. Reaching Into the Playing Area</a></li>
+                    <li><a href={`${props.location.pathname}#19.-Alterations-to-the-Table`}>19. Alterations to the Table</a></li>
+                    <li><a href={`${props.location.pathname}#20.-Distraction`}>20. Distraction</a></li>
+                    <li><a href={`${props.location.pathname}#21.-Practice`}>21. Practice</a></li>
                 </Scrollspy>
             </Col>
             <Col md={9} mdPull={3}>
@@ -359,6 +365,93 @@ export const ItsfRuleBook = (props: RouteComponentProps<{}>) => (
                         <p><strong>15.1</strong> If a ball is advanced by an illegal spin the opposing team will have the option of continuing play from the current position or to serve the ball.</p>
                         <p><strong>15.2</strong> Spinning of a rod which does not advance and/or strike the ball does not constitute an illegal spin. If a player's spinning rod hits the ball backwards into his own goal, it will count as a goal for the opposing team.  Spinning of a rod away from the ball (when there is no possession) is not considered an illegal spin, but may be ruled as a distraction.</p>
                         <p><strong>15.3</strong> If an ungrasped rod is spun by the force of a ball hitting a player figure on the rod, the spin will be considered legal (example: a two-man shot in singles hitting the three-man).</p>
+                    </div>
+                </section>
+                <section id="16.-Jarring">
+                    <h3>16. Jarring</h3>
+                    <p>Any banging of the side walls or movement of the table that causes the opponent to lose possession or prevents them from catching the ball is considered a jarring infraction. Simultaneous bumping of the wall, as part of a pass or shot, is not considered jarring unless there was excessive force that clearly prevented the opponent from gaining possession. Jars are accumulated for the entire match.</p>
+                    <div style={{paddingLeft: "2.0em"}}>
+                        <p><strong>16.1</strong> Any touching or contacting of the opponent's rods that causes them to lose possession or prevents them from catching the ball will be considered a jarring infraction. Contacting an opponent’s rod that does not affect possession will be ruled a distraction. </p>
+                        <p><strong>16.2</strong> Jarring of the table or excessively recoiling the rod after scoring a shot may be ruled unsportsmanlike behavior if done so in a disrespecting manner directed at the opponent. Slamming the rod after a shot while the ball is still in play may be considered jarring.</p>
+                        <p><strong>16.3</strong> It is illegal for the player in possession of the ball to slam the rods into the side of the table in order to move the ball away from the wall. The first offense is a warning and subsequent violations will be loss of possession to the opposing five-man rod. This is not considered a jarring infraction.</p>
+                        <p><strong>16.4</strong> The penalty for the first and second jarring infraction is the opponent’s option to continue play from the current position, from the rod where the jar was called, or they may serve the ball. Subsequent violations will be a Technical foul.</p>
+                    </div>
+                </section>
+                <section id="17.-Reset">
+                    <h3>17. Reset</h3>
+                    <p>If a defensive player bumps or shakes the table enough to impair the opponent’s ability to control the ball or execute a pass or shot, the Referee present will say “reset” and the time of possession plus number of times the ball struck the wall shall be reset.  The player with the ball is not required to stop play so the defensive player should not relax or look up at the Referee when the call is made.</p>
+                    <div style={{paddingLeft: "2.0em"}}>
+                        <p><strong>17.1</strong> A ball slightly rocking in place is not considered a reset unless it moves from its set position. A reset can be called if the ball is pinned or moving if the Referee determines that the player’s ability to control the ball or execute a pass or shot has been affected by the opponent.  </p>
+                        <p><strong>17.2</strong> If a reset is called prior to a pass attempt from the five-man rod and the Referee deems that the reset caused the player to lose the ball or not complete the pass, the ball may be awarded back to the player’s fiveman rod. This will not be considered a Jarring infraction.  </p>
+                        <p><strong>17.3</strong> A reset call is not considered a distraction and the player with the ball may shoot immediately. The defensive team should not relax or look at the Referee upon hearing the word "reset," but rather should stay on defense. </p>
+                        <p><strong>17.4</strong> A reset caused from behind the rod of possession shall not be considered a reset violation but will be considered a jarring infraction. (Example: if the opposing forward is judged to have reset his opponent when the opponent has the ball on the three-man rod.) </p>
+                        <p><strong>17.5</strong> An intentional reset by the team in possession of the ball for the purposes of attempting to get a reset call from the Referee shall not be allowed. The team judged to be in violation of this rule shall lose possession and the ball shall be served by the opposing team (This is not counted as a reset). jj</p>
+                        <p><strong>17.6</strong> After a team is called for their first reset in a game, a team causing two subsequent resets during the same point will be charged with a technical foul. Once the first reset call is made, upon the next violation the Referee present will call “reset warning” or just “warning”. If there is another reset violation on the same ball following a reset warning a technical foul shall be called. </p>
+                        <div style={{paddingLeft: "2.0em"}}>
+                            <p><strong>17.6.1</strong> If a technical foul is called for excessive resets, the next reset call shall not result in a technical foul. </p>
+                            <p><strong>17.6.2</strong> Resets are charged per team not per player and are also charged per game not per match. </p>
+                        </div>
+                        <p><strong>17.7</strong> If the defender intentionally jars the table, this will not be considered a reset, and jarring will be called immediately. </p>
+                    </div>
+                </section>
+                <section id="18.-Reaching-Into-the-Playing-Area">
+                    <h3>18. Reaching Into the Playing Area</h3>
+                    <p>It is illegal for a player to reach into the play area while the ball is in play without first having permission from the opposing team or Referee whether he touches the ball or not. However, whenever the opposing team or Referee grants a player permission to reach into the playing area, it is legal for the player to do so.</p>
+                    <div style={{paddingLeft: "2.0em"}}>
+                        <p><strong>18.1</strong> A spinning ball is considered "in-play," even if it is not in reach of a player figure. It is illegal to reach into the playing area to stop a spinning ball, even if done for an opponent. </p>
+                        <p><strong>18.2</strong> A ball which becomes airborne over the table is still in play until it has hit something not a part of the playing area. Do not catch a flying ball over the table. </p>
+                        <p><strong>18.3</strong> A ball which has gone dead is considered out of play (See Rule 8). The ball may be freely touched once permission has been granted by the Referee, or if no Referee is present, by the opposing team. </p>
+                        <p><strong>18.4</strong> A player may wipe shot marks off any part of the table while the ball is not in play. He does not need to ask permission of the opposing team. </p>
+                        <p><strong>18.5</strong> The penalty for violating any part of this rule is as follows: If the player has possession of the ball, and the ball is stopped - loss of possession to the opposing team for serve. If the player is not in possession of the ball or the ball is moving – Technical foul. If a player reaches into the playing area to prevent the ball from entering the goal a point is scored for the opposing team and the ball shall be served as if it had gone into the goal. </p> <p><strong>18.6</strong> If a technical foul is called for touching a flying ball over the table it will be replayed as follows: If the technical shot is scored it will be served by the opposing team. If the technical shot is not scored it will be served by the non-offending team. </p>
+                    </div>
+                </section>
+                <section id="19.-Alterations-to-the-Table">
+                    <h3>19 Alterations to the table</h3>
+                    <p>Playing area - no changes can be made that would affect the interior playing characteristics of the table by any player. This includes changes to the men, playing surface, bumpers, etc. </p>
+                    <div style={{paddingLeft: "2.0em"}}>
+                        <p><strong>19.1</strong> Players are not allowed to put sweat, spit, or any foreign substance on their hands to clean ball marks off the table. First offense is a warning and any subsequent violation is a Technical Foul.</p>
+                        <div style={{paddingLeft: "2.0em"}}>
+                            <p><strong>19.1.1</strong> Only manufacturer recommended cleaning agents or those supplied by the Tournament Organizer may be used to clean the surface. Lubricants are to be applied to the rods by dropper or sponge applicator. Spray-on lubricants are not permitted.</p>
+                            <p><strong>19.1.2</strong> Any player using a substance to improve their grip must ensure that the substance does not get on the playing surface, rods, or balls. If the substance gets on the playing surface or rods, it must be cleaned off before resuming play and if the ball is affected, it must be replaced. The player in violation shall be penalized for delay of game. For subsequent violations, the player shall be charged with a Technical Foul and is prohibited from using the substance for the remainder of the tournament.  </p>
+                        </div>
+                        <p><strong>19.2</strong> If a player uses any substance that leaves residue on the handles when switching sides of the table, the player will be issued a warning and must clean the handles immediately.</p>
+                        <div style={{paddingLeft: "2.0em"}}>
+                            <p><strong>19.2.1</strong> If the time necessary to remove the substance exceeds 90 seconds, the player will be penalized for delay of game. For subsequent violations, the player shall be prohibited from using the substance for the rest of the tournament.</p>
+                        </div>
+                        <p><strong>19.3</strong> A player may not place anything on the rods, handles or exterior of the table that affects the movement of the rods (example: limiting the motion of the goalie rod). Intentional bending or flexing of the rods to assist in gaining possession of the ball is illegal and is penalized with loss of possession to the opposing fiveman rod.  </p>
+                        <p><strong>19.4</strong> A player may switch the handles on the exterior of the tables if it can be done within the time limits and without impeding the opponent’s ability to change sides between games. Taking too much time will be grounds for delay of game (See Rule 25). </p>
+                        <p><strong>19.5</strong> Players are entitled to begin each match with brand new balls (if available) or they may agree to play with the existing balls at the table. If new balls are not available, the Tournament Organizer or Head Official shall select the best alternative. </p>
+                        <div style={{paddingLeft: "2.0em"}}>
+                            <p><strong>19.5.1</strong> It is illegal to request a different ball from inside the table while the ball is in play.  During a dead ball or time out, a player may request a different ball from inside the table. Once a match has begun, it shall be illegal to put another ball into the table without permission from the opponent or Referee.  </p>
+                            <p><strong>19.5.2</strong> A player requesting a different ball while the ball is in play shall be charged with a time out, unless the Referee at the table determines the ball to be unplayable, in which case no time out will be charged. </p>
+                        </div>
+                        <p><strong>19.6</strong> Unless otherwise specified, penalty for violation of any part of this rule may be grounds for a technical foul. </p>
+                    </div>
+                </section>
+                <section id="20.-Distraction">
+                    <h3>20. Distraction</h3>
+                    <p>Any movement or sound (including phones and electronic devices) made away from, or behind, the rod where the ball is in play may be judged as a distraction. It may be considered a distraction if the opponent taps the table top as a gesture of apology or approval during play. If a player believes he is being distracted, it is his responsibility to call for a Referee. </p>
+                    <div style={{paddingLeft: "2.0em"}}>
+                        <p><strong>20.1</strong> Banging the five-man rod or any rod prior to, during, or after a shot is considered a distraction. Moving the five-man rod slightly after the shot has started is not considered a distraction. </p>
+                        <p><strong>20.2</strong> Talking between teammates while the ball is in play may be judged a distraction.</p>
+                        <p><strong>20.3</strong> It is not considered a distraction, when passing, to move the catching rod as part of a fake. Excessive motion, however, is grounds for a distraction. </p>
+                        <p><strong>20.4</strong> It is considered a distraction to clearly remove a hand from the handle and then immediately shoot the ball. The ball may only be shot after both hands (and/or wrist) have been on both handles for one full second.  Sliding the wrist onto the handle is not considered a distraction unless otherwise determined by a Referee.</p>
+                        <div style={{paddingLeft: "2.0em"}}>
+                            <p><strong>20.4.1</strong> In Singles, a player is not required to have both hands on both handles for one full second when transitioning between the rods. Once the ball is in clear possession and control on the 3- man rod, Rule 20.4 applies.</p>
+                        </div>
+                        <p><strong>20.5</strong> A player who removes his hands from the handles and reaches down or away from the table (to wipe his hands, apply rosin, etc) while the ball is in play shall be charged with a distraction. </p>
+                        <p><strong>20.6</strong> Penalty for distraction. For the first distraction violation, the guilty team may be charged with a warning if the Referee at the table determines the distraction to be harmless. If a shot is scored as a result of a distraction by the offensive team, the point will not count and the opposing team will serve the ball. In all other cases, the opposing team has the option of continuing play from the current position; continue play from the point of infraction, or serve the ball. Subsequent violations may be grounds for a technical foul.</p>
+                    </div>
+                </section>
+                <section id="21.-Practice">
+                    <h3>21. Practice</h3>
+                    <p>Practice shall be permitted on any table before the match begins and between games. Once a game has begun, practice shall not be permitted.</p>
+                    <div style={{paddingLeft: "2.0em"}}>
+                        <p><strong>21.1</strong> Practice is defined as moving the ball from one player figure to another or shooting the ball. </p>
+                        <div style={{paddingLeft: "2.0em"}}>
+                            <p><strong>21.1.1</strong> Illegal Practice is a judgment call by the Referee at the table. Inadvertent movement of the ball, or using the player figures to position the ball before the serve, does not constitute practice. </p>
+                        </div>
+                        <p><strong>21.2</strong> The Penalty for illegal practice is a loss of possession to the opposing team for serve. If the player does not have possession he will be issued a warning. Subsequent violations will be a technical foul. </p>
                     </div>
                 </section>
             </Col>
