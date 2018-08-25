@@ -31,7 +31,7 @@ namespace FoostonWeb.Controllers
             try{
                 // a little hack to get standings to save to the DB w/o an IDENTITY column for now.
                 // This issue came up when I ported from PostgreSQL to SQLServer. 
-                var emailWithGreatestId = await _context.EmailRegistrations.OrderByDescending(r => registration.Id).FirstAsync();
+                var emailWithGreatestId = await _context.EmailRegistrations.OrderByDescending(email => email.Id).FirstAsync();
 
                 registration.Id = emailWithGreatestId.Id + 1;
 
