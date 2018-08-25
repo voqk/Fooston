@@ -66,6 +66,11 @@ export const ItsfRuleBook = (props: RouteComponentProps<{}>) => (
                     <li><a href={`${props.location.pathname}#19.-Alterations-to-the-Table`}>19. Alterations to the Table</a></li>
                     <li><a href={`${props.location.pathname}#20.-Distraction`}>20. Distraction</a></li>
                     <li><a href={`${props.location.pathname}#21.-Practice`}>21. Practice</a></li>
+                    <li><a href={`${props.location.pathname}#22.-Language-and-Behavior`}>22. Language and Behavior</a></li>
+                    <li><a href={`${props.location.pathname}#23.-Passing`}>23. Passing</a></li>
+                    <li><a href={`${props.location.pathname}#24.-Time-of-Possession`}>24. Time of Possession</a></li>
+                    <li><a href={`${props.location.pathname}#25.-Delay-of-Game`}>25. Delay of Game</a></li>
+                    <li><a href={`${props.location.pathname}#26.-Recalls-and-Forfeiture`}>26. Recalls and Forfeiture</a></li>
                 </Scrollspy>
             </Col>
             <Col md={9} mdPull={3}>
@@ -406,7 +411,7 @@ export const ItsfRuleBook = (props: RouteComponentProps<{}>) => (
                     </div>
                 </section>
                 <section id="19.-Alterations-to-the-Table">
-                    <h3>19 Alterations to the table</h3>
+                    <h3>19. Alterations to the table</h3>
                     <p>Playing area - no changes can be made that would affect the interior playing characteristics of the table by any player. This includes changes to the men, playing surface, bumpers, etc. </p>
                     <div style={{paddingLeft: "2.0em"}}>
                         <p><strong>19.1</strong> Players are not allowed to put sweat, spit, or any foreign substance on their hands to clean ball marks off the table. First offense is a warning and any subsequent violation is a Technical Foul.</p>
@@ -452,6 +457,66 @@ export const ItsfRuleBook = (props: RouteComponentProps<{}>) => (
                             <p><strong>21.1.1</strong> Illegal Practice is a judgment call by the Referee at the table. Inadvertent movement of the ball, or using the player figures to position the ball before the serve, does not constitute practice. </p>
                         </div>
                         <p><strong>21.2</strong> The Penalty for illegal practice is a loss of possession to the opposing team for serve. If the player does not have possession he will be issued a warning. Subsequent violations will be a technical foul. </p>
+                    </div>
+                </section>
+                <section id="22.-Language-and-Behavior">
+                    <h3>22. Language and Behavior</h3>
+                    <p>Unsportsmanlike conduct or comments made directly or indirectly by a player are not allowed. Violations of this rule may be grounds for a technical foul.</p>
+                    <div style={{paddingLeft: "2.0em"}}>
+                        <p><strong>22.1</strong> Calling the attention of the opposing team away from the game is not allowed (see Rule 20). Any shouts or sounds made during a match, even if of an enthusiastic nature, may be grounds for a technical foul.</p>
+                        <p><strong>22.2</strong> Cursing by a player shall not be allowed. The penalty for cursing is a technical foul. Continued cursing by a player may be cause for forfeiture of games and/or expulsion from the tournament site. </p>
+                        <p><strong>22.3</strong> The use of a scout in the audience to relay information while the ball is in play shall not be allowed.  Furthermore, a member of the audience is not allowed to influence a match by distracting a player or Referee.  Violation of this rule may be grounds for expulsion of the person from the tournament site. </p>
+                        <p><strong>22.4</strong> Coaching will be allowed, but only during time outs and between games. </p>
+                        <p><strong>22.5</strong> The use of headphones, ear-buds, or any similar electronic listening device is not permitted when the ball is in play. The first violation will result in a warning. Subsequent violations will be a technical foul.</p>
+                    </div>
+                </section>
+                <section id="23.-Passing">
+                    <h3>23. Passing</h3>
+                    <p>A ball which is advanced from a pinned or stopped position on the five-man rod cannot be directly caught on the forward three-man rod of the same team regardless of whether or not the ball is touched by the opposing five-man rod. </p>
+                    <div style={{paddingLeft: "2.0em"}}>
+                        <p><strong>23.1</strong> A pinned ball is one that is pinned to the wall or playfield. A stopped ball is one that has completely stopped but has not been immediately advanced.</p>
+                        <div style={{paddingLeft: "2.0em"}}>
+                            <p><strong>23.1.1</strong> Once the ball is considered pinned or stopped, it must touch at least two player figures before it can be legally passed to the forward three-man rod. </p>
+                            <p><strong>23.1.2</strong> A ball that is briefly stubbed or pinched to the playing surface and advanced in the same motion can be legally caught on the three-man rod if the pass would otherwise be considered legal. If the ball is stubbed or pinched to the playing surface, released, and then passed by the same player figure it is considered an illegal pass. </p>
+                            <p><strong>23.1.3</strong> It is not considered an illegal pass from the five-man rod if a stopped or pinned ball deflects off the same team’s three-man rod provided it was not caught and there was no controlled advancement by the three-man rod. </p>
+                            <p><strong>23.1.4</strong> If the ball touches the front or back of the man prior to the motion of a pass it must touch a second man before it can be legally caught on the three-man rod (or five-man rod when passing from the goalie rods). However, if the ball hits the front or back of the man on the initial contact from another rod it can be legally passed with the same man.</p>
+                        </div>
+                        <p><strong>23.2</strong> On the five-man rod, the ball may not strike the side walls, or the side strips if present, more than two times. If the ball strikes the wall a third time, the serve will be awarded to the opposing five-man rod.  (Exception: See Rule 23.2.1) </p>
+                        <div style={{paddingLeft: "2.0em"}}>
+                            <p><strong>23.2.1</strong> If the ball becomes stopped near or against the wall it may be bounced off the wall as many times needed to be moved away from the wall, however, once the ball strikes the wall a second time when being moved away from the wall, it must touch another player figure before it may be legally advanced. </p>
+                            <p><strong>23.2.2</strong> Rule 23.2.1 will be counted as one of the two times the ball is allowed to strike the wall before it can be advanced and the time of possession shall continue to run. </p>
+                            <p><strong>23.2.3</strong> Defensive trap – It is not counted as one of the two times the ball is allowed to strike the wall if an opponent's pass or shot is caught by being trapped against the side wall on the fiveman rod. </p>
+                            <p><strong>23.2.4</strong> Following a time-out, any strike the ball makes against the wall prior to touching a second man will not be counted against the allowed two strikes. </p>
+                        </div>
+                        <p><strong>23.3</strong> Passing from the two-man (or three-man goalie rod) to the same teams five-man rod is ruled the same as passing from the 5-man rod, except that, if the ball should strike an opposing team's player figure, the ball may be legally caught on the same teams five-man rod. The three wall violation is not in effect. </p>
+                        <p><strong>23.4</strong> It is legal to have just one hand on the rods when playing defense (example: right hand on defensive five-man). It is also legal to use two hands to move one rod (example: defensive five-man). Excessive switching of the hand between the handles may be judged a distraction. </p>
+                        <p><strong>23.5</strong> Penalty for an illegal pass - if a team violates the above rules of passing; the opposing team has the option to continue play from the current position or serve the ball. </p>
+                    </div>
+                </section>
+                <section id="24.-Time-of-Possession">
+                    <h3>24. Time of Possession</h3>
+                    <p>Possession of the ball shall be limited to 10 seconds on the five-man rod and 15 seconds on all other rods. A player is considered to be in possession of the ball the moment it is within reach of a player figure. Both goalie rods are considered one rod of possession. </p>
+                    <div style={{paddingLeft: "2.0em"}}>
+                        <p><strong>24.1</strong> A ball is considered to have advanced once it leaves the current rod of possession whether it goes forward or backwards. In the goalie area, the ball is considered advanced once out of reach of the two-man rod or inside the goal. </p>
+                        <p><strong>24.2</strong> A spinning ball that is within reach of a player figure shall be considered in that rod's possession and all time limits shall continue, however, if the spinning ball is not within reach, the time limits are not in effect.  (See Rule 8.3) </p>
+                        <p><strong>24.3</strong> Penalty - penalty for three-man delay is loss of possession to the opposing goalie. Penalty for delay at any other rod is loss of possession to the opposing forward for serve. </p>
+                    </div>
+                </section>
+                <section id="25.-Delay-of-Game">
+                    <h3>25. Delay of Game</h3>
+                    <p>Play shall be continuous, except during time outs. Continuous shall be defined as no more than 5 seconds duration between a ball scored and the beginning of the ready protocol unless otherwise modified for televised matches. In Multi-table events, players have 5 seconds to assume their positions when switching between tables. A delay of game penalty may only be called by a Referee. </p>
+                    <div style={{paddingLeft: "2.0em"}}>
+                        <p><strong>25.1</strong> After a team is charged with delay of game play shall resume in at most 10 seconds. At the end of 10 seconds another delay of game call should be made. </p>
+                        <p><strong>25.2</strong> The first infraction of this rule is a warning. Subsequent infractions will result in the player being charged with a time out. Example: Player charged with delay of game. If still not ready to resume play after 10 seconds - time out charged. If after the time out still not ready, another 10 seconds - second time out charged </p>
+                    </div>
+                </section>
+                <section id="26.-Recalls-and-Forfeiture">
+                    <h3>26. Recalls and Forfeiture</h3>
+                    <p>Once a match has been called, both teams should report immediately to the designated table. If a team has not reported to the table within three minutes, they should be recalled. A team, upon being recalled, must report immediately to the table in order to stop the forfeiture process. </p>
+                    <div style={{paddingLeft: "2.0em"}}>
+                        <p><strong>26.1</strong> A recall is made every three minutes. Penalty for third and subsequent recalls is forfeiture of each game until the match is over. </p>
+                        <p><strong>26.2</strong> If a team has forfeited any games due to recalls, they get the choice of side or serve once play begins.</p>
+                        <p><strong>26.3</strong> Enforcement of this rule is the responsibility of the Tournament Director. </p>
                     </div>
                 </section>
             </Col>
