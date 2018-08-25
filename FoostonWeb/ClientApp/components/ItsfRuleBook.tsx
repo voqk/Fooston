@@ -71,6 +71,11 @@ export const ItsfRuleBook = (props: RouteComponentProps<{}>) => (
                     <li><a href={`${props.location.pathname}#24.-Time-of-Possession`}>24. Time of Possession</a></li>
                     <li><a href={`${props.location.pathname}#25.-Delay-of-Game`}>25. Delay of Game</a></li>
                     <li><a href={`${props.location.pathname}#26.-Recalls-and-Forfeiture`}>26. Recalls and Forfeiture</a></li>
+                    <li><a href={`${props.location.pathname}#27.-Technical-Fouls`}>27. Technical Fouls</a></li>
+                    <li><a href={`${props.location.pathname}#28.-Rules-Decisions-and-Appeals`}>28. Rules Decisions and Appeals</a></li>
+                    <li><a href={`${props.location.pathname}#29.-Dress-Code`}>29. Dress Code</a></li>
+                    <li><a href={`${props.location.pathname}#30.-Tournament-Director`}>30. Tournament Director</a></li>
+                    <li><a href={`${props.location.pathname}#31.-Side-Events`}>31. Side Events</a></li>
                 </Scrollspy>
             </Col>
             <Col md={9} mdPull={3}>
@@ -517,6 +522,124 @@ export const ItsfRuleBook = (props: RouteComponentProps<{}>) => (
                         <p><strong>26.1</strong> A recall is made every three minutes. Penalty for third and subsequent recalls is forfeiture of each game until the match is over. </p>
                         <p><strong>26.2</strong> If a team has forfeited any games due to recalls, they get the choice of side or serve once play begins.</p>
                         <p><strong>26.3</strong> Enforcement of this rule is the responsibility of the Tournament Director. </p>
+                    </div>
+                </section>
+                <section id="27.-Technical-Fouls">
+                    <h3>27. Technical Fouls</h3>
+                    <p>If, in the judgment of an authorized tournament Referee, either team competing in a match is at any time in flagrant or intentional violation of these rules of play, a technical foul may be called on the offending team. </p>
+                    <div style={{paddingLeft: "2.0em"}}>
+                        <p><strong>27.1</strong> When a technical foul is called, play shall stop and the opponent will be awarded the ball on the threeman rod. Only the player shooting and the player blocking are allowed to stay at the table. One shot will be taken and then play shall stop. If a goal was scored, the ball is served by the team who was scored on. If no goal was scored, play shall resume from where the ball was prior to the technical shot or where specified by rules.</p>
+                        <div style={{paddingLeft: "2.0em"}}>
+                            <p><strong>27.1.1</strong>  A player is considered to have taken a technical foul shot once the ball has left the three-man rod.  A player is considered to have blocked the shot once the ball has either stopped in or left the defender's area. </p>
+                        </div>
+                        <p><strong>27.2</strong> On a technical foul shot, the ball must be legally put into play before shooting. Furthermore, all rules, including time limits and resets, still apply. </p>
+                        <p><strong>27.3</strong> A team may switch positions before and/or after the technical foul shot without being charged with a time out. </p>
+                        <p><strong>27.4</strong> Time outs may be called during a technical shot, as long as they would otherwise be legal</p>
+                        <p><strong>27.5</strong> A point scored on an illegal technical shot shall not be counted. Play shall resume at the rod of possession where the technical foul was called or as specified by rule. </p>
+                        <p><strong>27.6</strong> If a technical foul shot ends the game, the opposing team gets the first serve of the next game. </p>
+                        <p><strong>27.7</strong> Further violations of a flagrant or intentional nature shall carry additional technical fouls. A third technical foul in any one game shall result in an automatic forfeiture of the game. </p>
+                        <p><strong>27.8</strong> The Referee may announce at any time after the first technical foul that further violation by that team may be cause for forfeiture of the game or match.</p>
+                    </div>
+                </section>
+                <section id="28.-Rules-Decisions-and-Appeals">
+                    <h3>28. Rules Decisions and Appeals</h3>
+                    <p>If a controversy involves a question of judgment and a Referee was present at the time the events in question transpired, his decision is final and no appeal may be made. If the controversy involved an interpretation of the rules, or a Referee was not present at the time the events in question transpired, the Referee shall make the most equitable decision possible under the circumstances. Decisions of this nature may be appealed, but it must be done immediately in the manner prescribed below.</p>
+                    <div style={{paddingLeft: "2.0em"}}>
+                        <p><strong>28.1</strong> In order to appeal a rules interpretation, a player must file that appeal with the Referee before the ball being played at the time of the controversy is put back into play. An appeal concerning the loss of a match must be filed before the team that won has begun its next match. </p>
+                        <p><strong>28.2</strong> All rule appeals shall be considered by the Head Official and (if present) at least two members of the officiating staff. All decisions on appeals are final. </p>
+                        <p><strong>28.3</strong> A team making an unsuccessful rules appeal of an obvious nature, or a team that questions a judgment call, will be charged with a time out. In addition, the team may also be penalized for delay of game, at the discretion of the Referee. </p>
+                        <p><strong>28.4</strong> Arguing with a Referee during a match will not be allowed. Violation of this rule will be grounds for a delay of game penalty and/or a violation of the code of ethics.</p>
+                    </div>
+                </section>
+                <section id="29.-Dress-Code">
+                    <h3>29. Dress Code</h3>
+                    <p>Players who wish to compete in an ITSF sanctioned event must wear proper sporting attire and are expected to uphold the highest level of personal and professional appearance. Enforcement of the dress code is the responsibility of the Tournament Director, the Head Official and/or a member of the ITSF Sporting Commission. </p>
+                    <div style={{paddingLeft: "2.0em"}}>
+                        <p><strong>29.1</strong> Acceptable sporting attire consists of warm-up jackets and pants, athletic shirts, sport tee shirts, polo shirts, athletic shorts, and athletic shoes. Sport caps, visors, sweatbands, and sport bandanas are also acceptable. </p>
+                        <p><strong>29.2</strong> Prohibited attire includes clothing displaying profanity, tank tops, denim or jeans of any kind, as well as cargo pants, cargo shorts, form-fitting Spandex or Lycra pants and shorts. Flip-flops, sandals and non-athletic shoes are also prohibited. </p>
+                        <p><strong>29.3</strong> Players are encouraged to have the name of their country clearly displayed on their shirt and jacket. This is mandatory for the top rated players who will also be required to wear patches on their sleeves indicating their World Ranking. It is recommended but not mandatory for the player’s uniform to be in their national colors with their country’s name, flag, and sponsors logos prominently displayed. </p>
+                        <p><strong>29.4</strong> The penalty for violating the dress code may be forfeiture of a game or match. If a player is in violation of the dress code during a match he must change into acceptable attire before play can continue and the team will be charged with delay of game (See Rule 25). </p>
+                    </div>
+                </section>
+                <section id="30.-Tournament-Director">
+                    <h3>30. Tournament Director</h3>
+                    <p>The administration of tournament play shall be the responsibility of the Tournament Director. This includes making the draws, scheduling the events, timing matches, etc. The decision of the Tournament Director in such matters is final. </p>
+                    <div style={{paddingLeft: "2.0em"}}>
+                        <p><strong>30.1</strong> All matters pertaining to rules of play (appointing Referees, handling appeals, etc.) shall be the responsibility of the Head Official. The Tournament Director is responsible for appointing the Head Official.</p>
+                        <p><strong>30.2</strong> In every sanctioned ITSF tournament the Tournament Director is subordinate to the ITSF Sport Commission.</p>
+                    </div>
+                </section>
+                <section id="31.-Side-Events">
+                    <h3>31. Side Events</h3>
+                    <div style={{paddingLeft: "2.0em"}}>
+                        <p><strong>31.1 Goalie War</strong></p>
+                        <div style={{paddingLeft: "2.0em"}}>
+                            <p>Goalie War is a singles specialty event where the three-man and five-man rods are lifted and the player shoot against each other from the goalie positions.  </p>
+                            <div style={{paddingLeft: "2.0em"}}>
+                                <p><strong>31.1.1</strong> The Serve</p>
+                                <div style={{paddingLeft: "2.0em"}}>
+                                    <p>- To begin play, the ball must be moved from one player figure to another but may not be directly advanced from the second figure. After contacting the second player figure, the ball may be directly advanced by any other player figure.</p>
+                                    <p>- The player does not have to stop the ball or wait prior to advancing the ball. The ball is considered to be in play and the time limits begin the moment the ball contacts the second player figure. </p>
+                                    <p>- Violation is loss of possession</p>
+                                </div>
+                            </div>
+                            <p></p>
+                        </div>
+                        <p><strong>31.2 Four on Four</strong></p>
+                        <p>Four on Four is a specialty event with four players on each side of the table with each player controlling one rod with one hand. Players may not switch hands once the ball is put into play.  </p>
+                        <div style={{paddingLeft: "2.0em"}}>
+                            <p><strong>31.2.1</strong> Change of Positions</p>
+                            <div style={{paddingLeft: "2.0em"}}>
+                                <p>- If a team scores a point, they must rotate positions before the ball is put into play. The player on the three-man rod shall move to the goalie-rods and the rest of the players shall move forward one rod. </p>
+                                <p>- A team may change their assembled positions before the match begins or between games.  Once a game has begun, teams must maintain the same order of rotation for the remainder of the game.</p>
+                            </div>
+                            <p><strong>31.2.2</strong> Legal Shots</p>
+                            <div style={{paddingLeft: "2.0em"}}>
+                                <p>- The game is played Rollerball style, i.e., a ball may not be pinned for more than three seconds or stopped for more than one second. There is a ten second time limit per rod.</p>
+                                <p>- Once a ball is stopped or pinned it must touch another player figure before it may be legally advanced.  </p>
+                                <p>- If a point is scored illegally, the ball shall be served by the opposing team.</p>
+                            </div>
+                        </div>
+                        <p><strong>31.3 Two-Ball Rollerball</strong></p>
+                        <p></p>
+                        <div style={{paddingLeft: "2.0em"}}>
+                            <p><strong>31.3.1</strong> Time Limits</p>
+                            <div style={{paddingLeft: "2.0em"}}>
+                                <p>- There is a ten second time limit per rod and the ball may not be pinned or stopped for more than one second.</p>
+                                <p>- If a ball is pinned or stopped for more than one full second with two balls in play, both balls shall be served again. If there is only one ball in play, it will be served by the opposing team.  </p>
+                                <p>- A shot may be scored directly from a pinned or stopped position if done immediately and within the one second time limit.</p>
+                            </div>
+                            <p><strong>31.3.2</strong> Serving the Ball</p>
+                            <div style={{paddingLeft: "2.0em"}}>
+                                <p>- If there is a serving hole present, each forward shall serve a ball through the hole on the count of three. Both balls should hit the playfield within one second of each other.  </p>
+                                <p>- If no serving hole is present, both defensive players shall simultaneously release the ball from the near corner of the goalie area within one second of the count of three.  </p>
+                                <p>- If a ball goes off the table without any goals being scored, both balls shall be served again.  Otherwise, the team scored upon shall serve the remaining ball.</p>
+                            </div>
+                            <p><strong>31.3.3</strong> Scoring</p>
+                            <div style={{paddingLeft: "2.0em"}}>
+                                <p>- If each team scores a goal, then neither team receives a point. Two balls are served again</p>
+                                <p>- If a team has scored the first ball, they may stop play any time they have control of the second ball and take one point. If a team elects to take the point, two balls are served to begin the next point.</p>
+                                <p>- A team that scores both goals gets two points and two balls are served again to begin the next point. </p>
+                                <p>- A shot that goes "in and out" does not count as a goal scored in Two-Ball Rollerball and play shall continue.  </p>
+                            </div>
+                        </div>
+                        <p><strong>31.4 Forward Shootout</strong></p>
+                        <p>Forward Shootout a singles specialty event where the players alternately shoot technical foul shots against each other from the three-man rods.</p>
+                        <div style={{paddingLeft: "2.0em"}}>
+                            <p><strong>31.4.1</strong> Ball in Play</p>
+                            <div style={{paddingLeft: "2.0em"}}>
+                                <p>- The first shot of the game is determined by a coin flip with subsequent shots alternating between players for the remainder of the game.</p>
+                                <p>- To begin each shot, the player with possession must follow the ITSF Ready Protocol to put the ball into play. Any violation will result in a loss of possession.</p>
+                            </div>
+                            <p><strong>31.4.2</strong> Shooting</p>
+                            <div style={{paddingLeft: "2.0em"}}>
+                                <p>- The ball is considered to have been shot once it leaves the forward's three man rod. The ball is considered to have been blocked once the ball has either stopped in or has left the goalie area.  </p>
+                            </div>
+                            <p><strong>31.4.3</strong> Time Limits</p>
+                            <div style={{paddingLeft: "2.0em"}}>
+                                <p>- Players have a time limit of 15 seconds. The time limits begin one second after the ball has touched the second man.</p>
+                            </div>
+                        </div>
                     </div>
                 </section>
             </Col>
