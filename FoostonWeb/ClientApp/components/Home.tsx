@@ -4,6 +4,9 @@ import { Button, Row, Col } from 'react-bootstrap';
 import { LinkContainer } from 'react-router-bootstrap';
 
 export default class Home extends React.Component<RouteComponentProps<{}>, {}> {
+    componentDidMount() {
+        document.title = "Fooston | Houston, TX Foosball";
+    }
     public render() {
         const style = {
             backgroundColor: '#0A1922',

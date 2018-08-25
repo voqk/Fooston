@@ -13,6 +13,9 @@ export default class RatingsContainer extends React.Component<RouteComponentProp
         this.state = {standings: [], otherDates: []};
     }
 
+    componentDidMount() {
+        document.title = "Fooston | Houston's Player Ratings"
+    }
     
     render() {
         return (

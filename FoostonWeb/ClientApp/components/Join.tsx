@@ -31,6 +31,10 @@ export default class Join extends React.Component<RouteComponentProps<{}>, State
         this.dismissAlert = this.dismissAlert.bind(this);
     }
 
+    componentDidMount() {
+        document.title = "Fooston | Join";
+    }
+
     handleNameChange(e: any) {
         this.setState({ name: e.target.value });
     }
