@@ -10,6 +10,8 @@
 
   <ItemGroup>
     <None Remove="ClientApp\components\ItsfRuleBook.tsx" />
+    <None Remove="ClientApp\components\LocationMap.tsx" />
+    <None Remove="ClientApp\components\Locations.tsx" />
   </ItemGroup>
 
   <ItemGroup>
@@ -38,6 +40,8 @@
 
   <ItemGroup>
     <TypeScriptCompile Include="ClientApp\components\ItsfRuleBook.tsx" />
+    <TypeScriptCompile Include="ClientApp\components\LocationMap.tsx" />
+    <TypeScriptCompile Include="ClientApp\components\Locations.tsx" />
   </ItemGroup>
 
   <Target Name="DebugRunWebpack" BeforeTargets="Build" Condition=" '$(Configuration)' == 'Debug' And !Exists('wwwroot\dist') ">

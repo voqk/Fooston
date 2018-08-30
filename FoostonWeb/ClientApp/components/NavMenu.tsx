@@ -22,13 +22,18 @@ export default class NavMenu extends React.Component<{}, {}> {
                                  <span className='glyphicon glyphicon-th-list'></span> Will D Ratings
                             </NavItem>
                         </LinkContainer>
-                        <LinkContainer key={2} to={'/join'}>
-                            <NavItem eventKey={2} href='/join'>
+                        <LinkContainer key={2} to={'/table-locations'}>
+                            <NavItem eventKey={2} href='/table-locations'>
+                                 <span className='glyphicon glyphicon-map-marker'></span> Tables
+                            </NavItem>
+                        </LinkContainer>
+                        <LinkContainer key={3} to={'/join'}>
+                            <NavItem eventKey={3} href='/join'>
                                 <span className='glyphicon glyphicon-envelope'></span> Join
                             </NavItem>
                         </LinkContainer>
-                        <LinkContainer key={3} to={'/official-foosball-rules'}>
-                            <NavItem eventKey={2} href='/official-foosball-rules'>
+                        <LinkContainer key={4} to={'/official-foosball-rules'}>
+                            <NavItem eventKey={4} href='/official-foosball-rules'>
                                 <span className='glyphicon glyphicon-book'></span> Official foosball rules 
                             </NavItem>
                         </LinkContainer>
