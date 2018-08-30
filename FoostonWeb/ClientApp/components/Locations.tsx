@@ -43,7 +43,8 @@ export class Locations extends React.Component<IProps, IState> {
                 new Location("Public House Heights", "2802 White Oak Dr, Houston, TX 77007"),
                 new Location("Brash Brewing", "508 W Crosstimbers Rd, Houston, TX 77018"),
                 new Location("Darwin's Pub", "33 Waugh Dr, Houston, TX 77007"),
-                new Location("Acadia Bar and Grill", "3939 Cypress Creek Pkwy, Houston, TX 77014")
+                new Location("Acadia Bar and Grill", "3939 Cypress Creek Pkwy, Houston, TX 77014"),
+                new Location("Shoeshine Charley's Big Top Lounge", "3714 S Main St, Houston, TX 77002")
             ]
         } 
     }
