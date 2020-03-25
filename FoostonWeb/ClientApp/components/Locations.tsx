@@ -16,7 +16,6 @@ class Location {
 interface IProps extends RouteComponentProps<any> {}
 
 interface IProps {
-    locations: Array<Location>
 }
 
 interface IState {

@@ -13,8 +13,8 @@ interface State {
     standings: Standing[];
 }
 
-export default class PlayerStanding extends React.Component<Props, State> {
-    constructor(props: Props) {
+export default class PlayerStanding extends React.Component<any, State> {
+    constructor(props: any) {
         super(props);
 
         fetch(`api/standings/player?playerName=${this.props.match.params.playerId}`)

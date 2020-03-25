@@ -9,6 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="ClientApp\components\Bracket.tsx" />
     <None Remove="ClientApp\components\ItsfRuleBook.tsx" />
     <None Remove="ClientApp\components\LocationMap.tsx" />
     <None Remove="ClientApp\components\Locations.tsx" />
@@ -39,6 +40,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <TypeScriptCompile Include="ClientApp\components\Bracket.tsx" />
     <TypeScriptCompile Include="ClientApp\components\ItsfRuleBook.tsx" />
     <TypeScriptCompile Include="ClientApp\components\LocationMap.tsx" />
     <TypeScriptCompile Include="ClientApp\components\Locations.tsx" />

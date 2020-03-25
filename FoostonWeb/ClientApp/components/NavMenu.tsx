@@ -27,9 +27,11 @@ export default class NavMenu extends React.Component<{}, {}> {
                                  <span className='glyphicon glyphicon-map-marker'></span> Tables
                             </NavItem>
                         </LinkContainer>
-                        <MenuItem eventKey={3} href='https://foosballforum.com/c/fooston'>
-                             <span className='glyphicon glyphicon-comment'></span> Forum
-                        </MenuItem>
+                        <LinkContainer key={3} to={'/bracket'}>
+                            <NavItem eventKey={3} href='/bracket'>
+                                <span className='glyphicon glyphicon-heart-empty'></span> Bracket
+                            </NavItem>
+                        </LinkContainer>
                         <LinkContainer key={4} to={'/join'}>
                             <NavItem eventKey={4} href='/join'>
                                 <span className='glyphicon glyphicon-envelope'></span> Join
