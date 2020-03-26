@@ -4,7 +4,6 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.SpaServices.Webpack;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.EntityFrameworkCore;
@@ -13,6 +12,9 @@ using Newtonsoft.Json;
 using FoostonWeb.Services;
 using FoostonWeb.Models;
 using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.SpaServices.Webpack;
+using Microsoft.AspNetCore.Mvc;
+using Swashbuckle.Swagger;
 
 namespace FoostonWeb
 {
@@ -41,19 +43,18 @@ namespace FoostonWeb
                 .AddEntityFrameworkStores<FoostonDbContext>()
                 .AddDefaultTokenProviders();
 
-            services.AddMvc()
-                .AddRazorPagesOptions(options =>
-                {
-                    options.Conventions.AuthorizeFolder("/Account/Manage");
-                    options.Conventions.AuthorizePage("/Account/Logout");
-                })
-                .AddJsonOptions(options => options.SerializerSettings.ReferenceLoopHandling = ReferenceLoopHandling.Ignore);
-            services.AddSwaggerGen(c =>
+            services.AddControllersWithViews().AddNewtonsoftJson();
+            services.PostConfigure<MvcNewtonsoftJsonOptions>(options =>
             {
-                c.SwaggerDoc("v1", new Info { Title = "Fooston API", Version = "v1" });
+                options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore;
             });
 
-            
+            services.AddMvc(options => options.EnableEndpointRouting = false)
+            .AddRazorPagesOptions(options =>
+            {
+                options.Conventions.AuthorizeFolder("/Account/Manage");
+                options.Conventions.AuthorizePage("/Account/Logout");
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -77,12 +78,6 @@ namespace FoostonWeb
 
             app.UseStaticFiles();
             app.UseAuthentication();
-
-            app.UseSwagger();
-            app.UseSwaggerUI(c =>
-            {
-                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Fooston API V1");
-            });
 
             app.UseMvc(routes =>
             {

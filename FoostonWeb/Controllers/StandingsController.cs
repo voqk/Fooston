@@ -23,7 +23,9 @@ namespace FoostonWeb.Controllers
         [HttpGet("")]
         public async Task<StandingsViewModel> GetViewModel()
         {
-            var latestStandings = await _context.Standings.GroupBy(s => s.TimeStamp).OrderByDescending(standingGroups => standingGroups.Key).FirstOrDefaultAsync();
+            var latestStandings = _context.Standings
+                .ToLookup(s => s.TimeStamp).OrderByDescending(standingGroups => standingGroups.Key).FirstOrDefault();
+
             var otherDates = await _context.Standings.Select(s => s.TimeStamp).Distinct().OrderBy(date => date).ToListAsync();
 
             return new StandingsViewModel { CurrentStandings = latestStandings.ToList(), OtherDates = otherDates };
